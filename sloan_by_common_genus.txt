@@ -1,0 +1,97 @@
+Genus	Domain	City	Site	Partition	Percentage
+Overall Bacteria	1	Baoding	Cheek	Above	17.44316903
+Overall Bacteria	1	Baoding	Cheek	Below	4.501462975
+Overall Bacteria	1	Baoding	Cheek	Neutral	78.05536799
+Propionibacterium	1	Baoding	Cheek	Above	43.92523364
+Propionibacterium	1	Baoding	Cheek	Below	0.31152648
+Propionibacterium	1	Baoding	Cheek	Neutral	55.76323988
+Staphylococcus	1	Baoding	Cheek	Above	34.66666667
+Staphylococcus	1	Baoding	Cheek	Neutral	65.33333333
+Staphylococcus	1	Baoding	Cheek	Below	0
+Paracoccus	1	Baoding	Cheek	Above	23.07692308
+Paracoccus	1	Baoding	Cheek	Below	7.692307692
+Paracoccus	1	Baoding	Cheek	Neutral	69.23076923
+Enhydrobacter	1	Baoding	Cheek	Above	15.625
+Enhydrobacter	1	Baoding	Cheek	Below	6.25
+Enhydrobacter	1	Baoding	Cheek	Neutral	78.125
+Corynebacterium	1	Baoding	Cheek	Above	15.94202899
+Corynebacterium	1	Baoding	Cheek	Below	13.04347826
+Corynebacterium	1	Baoding	Cheek	Neutral	71.01449275
+Overall Bacteria	1	Baoding	Scalp	Above	12.40955137
+Overall Bacteria	1	Baoding	Scalp	Below	3.943560058
+Overall Bacteria	1	Baoding	Scalp	Neutral	83.64688857
+Propionibacterium	1	Baoding	Scalp	Above	36.78756477
+Propionibacterium	1	Baoding	Scalp	Below	1.03626943
+Propionibacterium	1	Baoding	Scalp	Neutral	62.1761658
+Staphylococcus	1	Baoding	Scalp	Above	26.31578947
+Staphylococcus	1	Baoding	Scalp	Below	9.210526316
+Staphylococcus	1	Baoding	Scalp	Neutral	64.47368421
+Paracoccus	1	Baoding	Scalp	Above	7.692307692
+Paracoccus	1	Baoding	Scalp	Below	30.76923077
+Paracoccus	1	Baoding	Scalp	Neutral	61.53846154
+Enhydrobacter	1	Baoding	Scalp	Above	31.25
+Enhydrobacter	1	Baoding	Scalp	Below	6.25
+Enhydrobacter	1	Baoding	Scalp	Neutral	62.5
+Corynebacterium	1	Baoding	Scalp	Above	12.19512195
+Corynebacterium	1	Baoding	Scalp	Below	9.756097561
+Corynebacterium	1	Baoding	Scalp	Neutral	78.04878049
+Overall Bacteria	1	Dalian	Cheek	Above	17.05882353
+Overall Bacteria	1	Dalian	Cheek	Below	4.066496164
+Overall Bacteria	1	Dalian	Cheek	Neutral	78.87468031
+Propionibacterium	1	Dalian	Cheek	Above	40
+Propionibacterium	1	Dalian	Cheek	Below	0.317460317
+Propionibacterium	1	Dalian	Cheek	Neutral	59.68253968
+Staphylococcus	1	Dalian	Cheek	Above	31.42857143
+Staphylococcus	1	Dalian	Cheek	Below	2.857142857
+Staphylococcus	1	Dalian	Cheek	Neutral	65.71428571
+Paracoccus	1	Dalian	Cheek	Above	18.18181818
+Paracoccus	1	Dalian	Cheek	Below	13.63636364
+Paracoccus	1	Dalian	Cheek	Neutral	68.18181818
+Enhydrobacter	1	Dalian	Cheek	Above	28.57142857
+Enhydrobacter	1	Dalian	Cheek	Below	3.571428571
+Enhydrobacter	1	Dalian	Cheek	Neutral	67.85714286
+Corynebacterium	1	Dalian	Cheek	Above	17.24137931
+Corynebacterium	1	Dalian	Cheek	Below	9.195402299
+Corynebacterium	1	Dalian	Cheek	Neutral	73.56321839
+Overall Bacteria	1	Dalian	Scalp	Above	8.269230769
+Overall Bacteria	1	Dalian	Scalp	Below	4.294871795
+Overall Bacteria	1	Dalian	Scalp	Neutral	87.43589744
+Propionibacterium	1	Dalian	Scalp	Above	29.17933131
+Propionibacterium	1	Dalian	Scalp	Below	0.607902736
+Propionibacterium	1	Dalian	Scalp	Neutral	70.21276596
+Staphylococcus	1	Dalian	Scalp	Above	17.39130435
+Staphylococcus	1	Dalian	Scalp	Below	13.04347826
+Staphylococcus	1	Dalian	Scalp	Neutral	69.56521739
+Paracoccus	1	Dalian	Scalp	Above	10
+Paracoccus	1	Dalian	Scalp	Below	20
+Paracoccus	1	Dalian	Scalp	Neutral	70
+Enhydrobacter	1	Dalian	Scalp	Above	14.28571429
+Enhydrobacter	1	Dalian	Scalp	Neutral	85.71428571
+Enhydrobacter	1	Dalian	Scalp	Below	0
+Corynebacterium	1	Dalian	Scalp	Above	3.703703704
+Corynebacterium	1	Dalian	Scalp	Below	14.81481481
+Corynebacterium	1	Dalian	Scalp	Neutral	81.48148148
+Overall Fungi	0	Baoding	Cheek	Above	17.31279873
+Overall Fungi	0	Baoding	Cheek	Below	8.523632501
+Overall Fungi	0	Baoding	Cheek	Neutral	74.16356877
+Malassezia	0	Baoding	Cheek	Above	28.51648352
+Malassezia	0	Baoding	Cheek	Below	0.32967033
+Malassezia	0	Baoding	Cheek	Neutral	71.15384615
+Overall Fungi	0	Baoding	Scalp	Above	14.74417196
+Overall Fungi	0	Baoding	Scalp	Below	7.114744172
+Overall Fungi	0	Baoding	Scalp	Neutral	78.14108386
+Malassezia	0	Baoding	Scalp	Above	25.16930023
+Malassezia	0	Baoding	Scalp	Below	1.410835214
+Malassezia	0	Baoding	Scalp	Neutral	73.41986456
+Overall Fungi	0	Dalian	Cheek	Above	20.5372617
+Overall Fungi	0	Dalian	Cheek	Below	5.863662623
+Overall Fungi	0	Dalian	Cheek	Neutral	73.59907568
+Malassezia	0	Dalian	Cheek	Above	29.09657321
+Malassezia	0	Dalian	Cheek	Below	0.560747664
+Malassezia	0	Dalian	Cheek	Neutral	70.34267913
+Overall Fungi	0	Dalian	Scalp	Above	12.1378469
+Overall Fungi	0	Dalian	Scalp	Below	5.367490088
+Overall Fungi	0	Dalian	Scalp	Neutral	82.49466301
+Malassezia	0	Dalian	Scalp	Above	20.21220159
+Malassezia	0	Dalian	Scalp	Below	0.848806366
+Malassezia	0	Dalian	Scalp	Neutral	78.93899204

@@ -1,0 +1,13 @@
+Model	Sample	AIC
+Neutral	Baoding Cheek	-8975.780926
+Binomial	Baoding Cheek	-2784.903242
+Poisson	Baoding Cheek	-2785.157074
+Neutral	Baoding Scalp	-5807.231039
+Binomial	Baoding Scalp	-2998.215441
+Poisson	Baoding Scalp	-2998.366715
+Neutral	Dalian Cheek	-7353.148327
+Binomial	Dalian Cheek	-2683.416624
+Poisson	Dalian Cheek	-2683.610012
+Neutral	Dalian Scalp	-3532.878537
+Binomial	Dalian Scalp	-2413.898635
+Poisson	Dalian Scalp	-2413.986858
