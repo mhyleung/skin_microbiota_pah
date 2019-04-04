@@ -1,0 +1,1279 @@
+Country	City	Ten	Two
+Australia	Adelaide	16	7
+Australia	Brisbane	15	7
+Australia	Bunbury	16	8
+Australia	Busselton	19	8
+Australia	Canberra	10	7
+Australia	Central Coast	13	6
+Australia	Darwin	16	6
+Australia	Devonport	15	6
+Australia	Gladstone	14	5
+Australia	Hobart	14	6
+Australia	Jondaryan	17	5
+Australia	La Trobe Valley	20	10
+Australia	Launceston	19	8
+Australia	Lower Hunter	17	7
+Australia	Melbourne	19	8
+Australia	Muswellbrook	19	8
+Australia	Newcastle	23	8
+Australia	Palmerston	15	7
+Australia	Perth	15	8
+Australia	Singleton	19	8
+Australia	Sydney	17	8
+Australia	Upper Hunter	20	8
+Australia	Wagga Wagga	21	7
+Australia	Wollongong	17	7
+Australia	Wynnum	14	4
+Australia	Wyong	15	6
+Canada	Abbotsford	13	7
+Canada	Agassiz	11	6
+Canada	Anzac	11	6
+Canada	Auclair	7	4
+Canada	Aylesford	10	6
+Canada	Barrie	14	8
+Canada	Bathurst	11	6
+Canada	Beaverlodge	9	5
+Canada	Belleville	12	6
+Canada	Brampton	15	8
+Canada	Brandon	17	7
+Canada	Brantford	16	9
+Canada	Bruderheim	13	7
+Canada	Burlington	17	9
+Canada	Burnaby	9	7
+Canada	Burns Lake	16	7
+Canada	Calgary	14	8
+Canada	Campbell River	15	9
+Canada	Caroline	9	5
+Canada	Charette	13	7
+Canada	Charlottetown	8	4
+Canada	Chatham	14	8
+Canada	Chilliwack	12	7
+Canada	Cold Lake	17	9
+Canada	Corner Brook	10	6
+Canada	Cornwall	12	7
+Canada	Courtenay	15	9
+Canada	Crofton	14	8
+Canada	Dartmouth	12	7
+Canada	Debolt	9	5
+Canada	Delta	10	6
+Canada	Deschambault	11	6
+Canada	Dorset	10	6
+Canada	Drayton Valley	13	7
+Canada	Duncan	14	8
+Canada	Edmonton	16	9
+Canada	Edson	7	4
+Canada	Elk Island	10	6
+Canada	Ferme Neuve	11	6
+Canada	Fort Chipewyan	16	9
+Canada	Fort Mackay	14	8
+Canada	Fort Mcmurray	15	8
+Canada	Fort Saskatchewan	13	7
+Canada	Fort Smith	10	7
+Canada	Fredericton	10	6
+Canada	Gatineau	11	6
+Canada	Genesee	7	4
+Canada	Golden	18	10
+Canada	Grand Bend	14	8
+Canada	Grand Falls - Windsor	8	5
+Canada	Grand Forks	13	7
+Canada	Grande Prairie	9	5
+Canada	Guelph	15	8
+Canada	Halifax	8	4
+Canada	Hamilton	17	10
+Canada	Hinton	17	9
+Canada	Hope	11	6
+Canada	Houston	15	10
+Canada	Inuvik	19	5
+Canada	Kamloops	15	8
+Canada	Kelowna	16	9
+Canada	Kingston	11	6
+Canada	Kitchener	16	9
+Canada	Kitimat	8	6
+Canada	L'assomption	16	9
+Canada	La Dore	9	5
+Canada	La Patrie	8	5
+Canada	La Peche	10	6
+Canada	Lac-Edouard	9	5
+Canada	Lamont	15	8
+Canada	Langdale	10	6
+Canada	Langley	11	7
+Canada	Laval	15	8
+Canada	Lemieux	16	9
+Canada	Lethbridge	15	8
+Canada	London	15	8
+Canada	Longueuil	16	9
+Canada	Marystown	11	6
+Canada	Medicine Hat	12	7
+Canada	Mission	12	6
+Canada	Mississauga	15	8
+Canada	Moncton	10	6
+Canada	Montreal	15	8
+Canada	Morrisburg	12	7
+Canada	Mount Pearl	7	4
+Canada	Nanaimo	8	4
+Canada	Newmarket	13	7
+Canada	North Bay	9	5
+Canada	North Vancouver	10	6
+Canada	Notre-Dame-Du-Rosaire	9	5
+Canada	Oakville	15	8
+Canada	Oshawa	13	8
+Canada	Ottawa	12	7
+Canada	Parry Sound	10	6
+Canada	Petawawa	9	5
+Canada	Peterborough	12	7
+Canada	Pictou	13	7
+Canada	Pitt Meadows	10	6
+Canada	Port Alberni	15	9
+Canada	Port Hawkesbury	11	6
+Canada	Port Moody	11	6
+Canada	Port Stanley	15	8
+Canada	Powell River	7	3
+Canada	Quebec	16	9
+Canada	Quesnel	12	10
+Canada	Red Deer	16	9
+Canada	Regina	20	11
+Canada	Richmond	13	6
+Canada	Rouyn-Noranda	11	6
+Canada	Saguenay	15	8
+Canada	Saint John	11	6
+Canada	Saint-Faustin-Lac-Carre	10	6
+Canada	Saint-Jean-Sur-Richelieu	10	6
+Canada	Saint-Simon	13	7
+Canada	Saint-Zephirin-De-Courval	13	7
+Canada	Sarnia	15	8
+Canada	Saskatoon	19	11
+Canada	Sault Ste. Marie	11	6
+Canada	Senneterre	9	5
+Canada	Sherbrooke	12	7
+Canada	Simcoe	14	8
+Canada	Smithers	15	8
+Canada	Southampton	6	3
+Canada	Squamish	14	8
+Canada	St Lina	13	7
+Canada	St-Hilaire-De-Dorset	11	6
+Canada	St. Andrews	11	6
+Canada	St. Catharines	15	8
+Canada	St. John's	14	8
+Canada	Steeper	5	3
+Canada	Stukely-Sud	11	6
+Canada	Sudbury	7	6
+Canada	Surrey	11	6
+Canada	Sydney	10	6
+Canada	Terrace	10	5
+Canada	Thomson	12	4
+Canada	Thorsby	7	4
+Canada	Thunder Bay	12	6
+Canada	Tingwick	11	6
+Canada	Tiverton	11	6
+Canada	Tomahawk	9	5
+Canada	Toronto	16	9
+Canada	Trois-Rivieres	19	11
+Canada	Vancouver	12	7
+Canada	Vanderhoof	16	9
+Canada	Varennes	15	8
+Canada	Vernon	16	9
+Canada	Victoria	11	6
+Canada	Wapasu	14	8
+Canada	West Vancouver	9	5
+Canada	Whistler	15	8
+Canada	Whitehorse	10	6
+Canada	Williams Lake	15	7
+Canada	Windsor	17	9
+Canada	Winnipeg	22	6
+Canada	Yellowknife	16	8
+China	Anqing	71	54
+China	Anshan	115	72
+China	Anshun	38	27
+China	Anyang	155	86
+China	Baicheng	75	48
+China	Baishan	81	50
+China	Baiyin	95	39
+"Baoding, China"	Baoding	147	93
+China	Baoji	111	59
+China	Baotou	105	47
+China	Beijing	92	73
+China	Benxi	74	45
+China	Bijie	44	30
+China	Binzhou	123	70
+China	Bozhou	83	58
+China	Cangzhou	147	69
+China	Changchun	78	46
+China	Changde	80	56
+China	Changhua	48	32
+China	Changsha	73	53
+China	Changshu	74	49
+China	Changzhi	101	67
+China	Changzhou	81	49
+China	Chaozhou	51	33
+China	Chengde	81	40
+China	Chengdu	105	63
+China	Chenzhou	70	41
+China	Chiayi	46	31
+China	Chifeng	76	37
+China	Chongqing	77	54
+China	Chuxiong	35	22
+China	Chuzhou	77	59
+"Dalian, China"	Dalian	67	39
+China	Dandong	71	42
+China	Daqing	62	45
+China	Datong	63	42
+China	Dazhou	86	56
+China	Deyang	91	55
+China	Dezhou	141	81
+China	Dingxi	75	36
+China	Dongguan	49	35
+China	Dongying	136	79
+China	Eerduosi	42	28
+China	Enshi	69	48
+China	Erdos	63	24
+China	Ezhou	100	60
+China	Fangchenggang	45	29
+China	Foshan	55	38
+China	Fushun	78	44
+China	Fuyang	90	60
+China	Fuzhou	50	27
+China	Gannan	70	38
+China	Ganzhou	68	45
+China	Guang'an	78	46
+China	Guangyuan	70	28
+China	Guangzhou	56	36
+China	Guigang	55	38
+China	Guilin	64	47
+China	Guiyang	63	37
+China	Guoluo	72	37
+China	Haibei	76	32
+China	Haidong	114	46
+China	Haikou	39	21
+China	Haimen	77	51
+China	Hainan	69	31
+China	Haixi	65	27
+China	Handan	175	82
+China	Hangzhou	105	49
+China	Harbin	74	52
+China	Hebi	128	73
+China	Hechi	55	34
+China	Hefei	83	57
+China	Hengshui	143	87
+China	Hengyang	76	52
+China	Heyuan	46	32
+China	Heze	143	82
+China	Hohhot	88	41
+China	Hong Kong	34	23
+China	Hsinchu	33	22
+China	Huai'an	92	53
+China	Huaihua	79	42
+China	Huainan	85	56
+China	Hualien	18	12
+China	Huanggang	75	51
+China	Huangnan	86	45
+China	Huangshan	45	28
+China	Huangshi	89	57
+China	Huizhou	45	27
+China	Huludao	87	47
+China	Huzhou	100	47
+China	Ji'nan	192	90
+China	Ji'ning	140	82
+China	Jiangmen	55	34
+China	Jiangyin	102	68
+China	Jiaonan	79	52
+China	Jiaozhou	79	52
+China	Jiaozuo	142	85
+China	Jiaxing	94	44
+China	Jiayuguan	98	33
+China	Jieyang	60	39
+China	Jilin	69	42
+China	Jimo	77	51
+China	Jinan	141	73
+China	Jinchang	104	32
+China	Jincheng	111	62
+China	Jingmen	99	58
+China	Jingzhou	100	60
+China	Jinhua	98	46
+China	Jining	81	54
+China	Jintan	72	48
+China	Jinzhong	109	62
+China	Jinzhou	81	55
+China	Jiujiang	74	50
+China	Jixi	53	28
+China	Jurong	97	64
+China	Kaifeng	122	72
+China	Kaohsiung	46	30
+China	Karamay	55	30
+China	Keelung	30	20
+China	Kinmen	48	32
+China	Korla	87	58
+China	Kunming	55	28
+China	Kunshan	69	46
+China	Laiwu	127	73
+China	Laixi	84	56
+China	Laizhou	84	56
+China	Langfang	112	66
+China	Lanzhou	132	54
+China	Leshan	93	63
+China	Lhasa	56	26
+China	Lianyungang	87	46
+China	Liaocheng	151	86
+China	Liaoyang	83	47
+China	Liaoyuan	63	46
+China	Lienchiang	39	26
+China	Lin'an	87	58
+China	Lincang	44	28
+China	Linfen	158	74
+China	Linyi	84	56
+China	Lishui	70	33
+China	Liupanshui	68	39
+China	Liuzhou	66	44
+China	Liyang	78	52
+China	Longyan	44	24
+China	Loudi	71	46
+China	Lu'an	73	46
+China	Luohe	130	77
+China	Luoyang	130	79
+China	Luzhou	87	64
+China	Ma'anshan	75	49
+China	Maanshan	87	57
+China	Maoming	47	30
+China	Meizhou	46	28
+China	Mianyang	78	49
+China	Miaoli	37	25
+China	Mudanjiang	68	37
+China	Nanchang	92	43
+China	Nanchong	86	57
+China	Nanjing	85	48
+China	Nanning	62	36
+China	Nanping	37	25
+China	Nantong	70	46
+China	Nantou	51	34
+China	Nanyang	119	63
+China	Neijiang	76	54
+China	New Taipei	34	22
+China	Ningbo	62	39
+China	Ningde	46	27
+China	Panjin	67	40
+China	Panzhihua	65	32
+China	Penghu	24	16
+China	Penglai	69	46
+China	Pingdingshan	125	75
+China	Pingdu	88	58
+China	Pingliang	80	41
+China	Pingtung	34	22
+China	Putian	43	29
+China	Puyang	137	69
+China	Qiandongnan	45	28
+China	Qingdao	85	45
+China	Qingyuan	52	36
+China	Qinhuangdao	87	46
+China	Qinzhou	79	37
+China	Qiqihar	61	36
+China	Quanzhou	48	28
+China	Qujing	48	32
+China	Quzhou	92	43
+China	Rizhao	101	55
+China	Rongcheng	57	38
+China	Rushan	72	48
+China	Sanmenxia	127	66
+China	Sanming	46	26
+China	Sanya	28	14
+China	Shanghai	59	45
+China	Shangluo	72	39
+China	Shangqiu	127	77
+China	Shangrao	70	41
+China	Shantou	48	30
+China	Shanwei	38	24
+China	Shaoguan	51	33
+China	Shaoxing	68	45
+China	Shaoyang	77	54
+China	Shenyang	94	54
+China	Shenzhen	42	27
+China	Shijiazhuang	147	89
+China	Shiyan	81	51
+China	Shizuishan	114	47
+China	Shouguang	117	78
+China	Shuangyashan	55	34
+China	Siping	77	46
+China	Songyuan	69	35
+China	Suining	68	44
+China	Suizhou	88	56
+China	Suqian	120	56
+China	Suzhou	72	46
+China	Tai'an	112	63
+China	Taian	83	55
+China	Taicang	82	54
+China	Taichung	44	29
+China	Tainan	44	29
+China	Taipei	28	19
+China	Taitung	16	10
+China	Taiyuan	125	66
+China	Taizhou	71	43
+China	Taizhou(Jiangsu Province)	87	51
+China	Taizhou(Zhejiang Province)	77	36
+China	Tangshan	127	74
+China	Taoyuan	36	24
+China	Tianjin	103	69
+China	Tianshui	80	42
+China	Tieling	83	48
+China	Tongchuan	104	59
+China	Tonghua	76	42
+China	Tongling	78	51
+China	Tongren	50	25
+China	Urumqi	115	74
+China	Wafangdian	88	58
+China	Wei'nan	139	76
+China	Weifang	73	49
+China	Weihai	63	35
+China	Weinan	102	68
+China	Wendeng	69	46
+China	Wenzhou	81	38
+China	Wuhai	111	46
+China	Wuhan	92	57
+China	Wuhu	75	53
+China	Wujiang	85	56
+China	Wuwei	97	39
+China	Wuxi	82	53
+China	Wuzhong	98	48
+China	Xi'an	137	71
+China	Xi'ning	113	49
+China	Xiamen	47	28
+China	Xiangtan	85	51
+China	Xiangxi	78	44
+China	Xiangyang	93	64
+China	Xianning	77	48
+China	Xianyang	149	82
+China	Xiaogan	78	45
+China	Xingtai	186	87
+China	Xining	120	63
+China	Xinxiang	144	84
+China	Xinyang	96	58
+China	Xinzhou	103	56
+China	Xuancheng	68	51
+China	Xuchang	122	68
+China	Xuzhou	118	60
+China	Ya'an	68	42
+China	Yan'an	73	48
+China	Yanbian	49	31
+China	Yancheng	92	43
+China	Yangjiang	44	31
+China	Yangquan	105	70
+China	Yangzhou	87	51
+China	Yantai	76	39
+China	Yibin	82	58
+China	Yichang	97	62
+China	Yilan	24	16
+China	Yinchuan	117	55
+China	Yingkou	73	44
+China	Yingtan	59	41
+China	Yiwu	88	58
+China	Yixing	81	54
+China	Yiyang	82	44
+China	Yongzhou	70	45
+China	Yueyang	72	49
+China	Yunfu	51	34
+China	Yunlin	46	31
+China	Yushu	40	17
+China	Yuxi	46	30
+China	Zaozhuang	141	81
+China	Zhangjiagang	91	60
+China	Zhangjiajie	72	48
+China	Zhangjiakou	68	32
+China	Zhangqiu	71	47
+China	Zhangye	90	38
+China	Zhangzhou	65	33
+China	Zhanjiang	39	26
+China	Zhaoqing	55	37
+China	Zhaoyang	69	39
+China	Zhaoyuan	82	54
+China	Zhengzhou	143	78
+China	Zhenjiang	80	50
+China	Zhongshan	44	30
+China	Zhoukou	113	68
+China	Zhoushan	53	25
+China	Zhuhai	41	26
+China	Zhuji	88	58
+China	Zhumadian	120	68
+China	Zhuzhou	83	51
+China	Zibo	82	54
+China	Zigong	99	73
+China	Ziyang	95	49
+China	Zunyi	69	44
+France	Aix-En-Provence	21	13
+France	Albi	16	15
+France	Ambilly	15	10
+France	Amiens	21	12
+France	Angers	17	12
+France	Angouleme	17	10
+France	Annecy	21	18
+France	Annemasse	18	13
+France	Auxerre	13	10
+France	Avignon	23	12
+France	Bassens	17	12
+France	Bastia	15	10
+France	Baume-Les-Dames	17	12
+France	Bayonne	20	12
+France	Beauvais	22	15
+France	Belleville-Sur-Meuse	21	14
+France	Besancon	16	13
+France	Bethune	20	14
+France	Billere	12	7
+France	Bobigny	21	13
+France	Bois-Herpin	14	9
+France	Bourg-Les-Valence	21	14
+France	Brest	16	6
+France	Caen	20	10
+France	Calais	20	13
+France	Cambrai	19	12
+France	Campagne-Les-Boulonnais	17	12
+France	Cannes	24	16
+France	Cappelle-La-Grande	18	12
+France	Chalon-Sur-Saone	17	10
+France	Chambery	19	15
+France	Clermont-Ferrand	16	12
+France	Creil	19	11
+France	Dax	17	9
+France	Dieppe	26	15
+France	Dijon	15	12
+France	Douai	20	14
+France	Dunkerque	21	11
+France	Echirolles	31	20
+France	Epernay	22	15
+France	Evreux	16	16
+France	Fontainebleau	14	9
+France	Forbach	17	11
+France	Fort-De-France	41	12
+France	Gaillard	15	10
+France	Gap	19	13
+France	Gardanne	29	15
+France	Gennevilliers	21	14
+France	Gonesse	20	13
+France	Grenoble	21	14
+France	Guipry	15	9
+France	Houdelaincourt	13	9
+France	Issoudun	12	8
+France	Jonville-En-Woevre	16	10
+France	Joue-Les-Tours	18	12
+France	La Coulonche	14	8
+France	La Mulatiere	33	22
+France	La Rochelle	18	9
+France	La Tardiere	14	10
+France	Le Creusot	11	8
+France	Le Havre	18	12
+France	Le Mans	15	10
+France	Le Petit-Quevilly	20	14
+France	Les Mazures	15	9
+France	Lille	21	16
+France	Limoges	14	9
+France	Lons-Le-Saunier	17	9
+France	Lorient	16	10
+France	Lourdes	15	9
+France	Luce	16	11
+France	Lunel-Viel	18	10
+France	Luneville	19	13
+France	Lyon	22	15
+France	Manosque	16	11
+France	Marmande	18	9
+France	Marseille	26	18
+France	Melun	27	16
+France	Metz	18	13
+France	Meze	17	15
+France	Mont-De-Marsan	17	10
+France	Montbeliard	18	13
+France	Montpellier	18	15
+France	Moult	19	13
+France	Mulhouse	19	13
+France	Nancy	18	13
+France	Nantes	18	13
+France	Nice	27	13
+France	Nimes	19	12
+France	Niort	18	10
+France	Notre-Dame-De-Bliquetuit	16	11
+France	Paray-Le-Fresil	11	8
+France	Paris	28	16
+France	Passy	24	16
+France	Peillon	27	13
+France	Perpignan	16	10
+France	Peyrusse-Vieille	6	6
+France	Poitiers	19	11
+France	Pourcy	16	11
+France	Rambouillet	15	10
+France	Reims	18	12
+France	Rennes	21	11
+France	Rognac	18	13
+France	Roubaix	23	16
+France	Rouen	20	12
+France	Saint-Brisson	14	10
+France	Saint-Chamond	19	13
+France	Saint-Denis	30	15
+France	Saint-Denis-D'anjou	16	11
+France	Saint-Dizier	19	12
+France	Saint-Etienne	17	9
+France	Saint-Germain-Sur-Rhone	12	8
+France	Saint-Jean-De-Braye	18	12
+France	Saint-Joseph	9	4
+France	Saint-Laurent-Des-Arbres	19	11
+France	Saint-Martin-Du-Tertre	18	12
+France	Saint-Michel-L'observatoire	11	9
+France	Saint-Nazaire	15	10
+France	Saint-Nazaire-Le-Desert	8	5
+France	Saint-Paul	16	7
+France	Saint-Pierre	18	6
+France	Saint-Quentin	17	13
+France	Sainte-Savine	22	15
+France	Salaise-Sur-Sanne	20	15
+France	Strasbourg	22	14
+France	Talence	19	12
+France	Thionville	18	14
+France	Toulon	30	13
+France	Toulouse	17	11
+France	Tulle	15	8
+France	Valence	21	13
+France	Valenciennes	22	15
+France	Vannes	11	9
+France	Vaulx-En-Velin	20	13
+France	Venaco	10	6
+France	Verneuil	12	8
+France	Vienne	24	20
+France	Vierzon	16	11
+France	Villefranche-Sur-Saone	18	13
+France	Vitry-Sur-Seine	22	13
+UK	Aberdeen	8	5
+UK	Barnstaple	16	11
+UK	Belfast	19	10
+UK	Biandrate	18	13
+UK	Birkenhead	11	8
+UK	Birmingham	16	10
+UK	Blackpool	11	8
+UK	Bournemouth	11	7
+UK	Brighton	13	9
+UK	Bristol	19	13
+UK	Cardiff	14	10
+UK	Carlisle	16	11
+UK	Chepstow	14	10
+UK	Chesterfield	16	11
+UK	Coventry	15	10
+UK	Didcot	15	8
+UK	Eastbourne	19	12
+UK	Eccles	15	10
+UK	Edinburgh	9	6
+UK	Erith	16	11
+UK	Gillingham	19	12
+UK	Glasgow	12	8
+UK	Grangemouth	9	6
+UK	Harlington	14	10
+UK	Hull	16	11
+UK	Inverness	9	5
+UK	Leamington Spa	18	13
+UK	Leeds	18	11
+UK	Leicester	22	12
+UK	Liverpool	14	12
+UK	London	23	12
+UK	Londonderry	16	12
+UK	Manchester	15	10
+UK	Middlesbrough	15	11
+UK	Newcastle Upon Tyne	15	10
+UK	Newport	15	10
+UK	Northampton	10	7
+UK	Norwich	16	11
+UK	Nottingham	19	12
+UK	Oxford	15	10
+UK	Penicuik	4	3
+UK	Plymouth	17	12
+UK	Port Talbot	22	9
+UK	Portsmouth	17	12
+UK	Preston	14	10
+UK	Rochester	16	11
+UK	Royal Leamington Spa	16	10
+UK	Salford	19	15
+UK	Saltash	15	8
+UK	Sandy	19	12
+UK	Scunthorpe	9	6
+UK	Sheffield	14	10
+UK	Southampton	16	10
+UK	Southend - On - Sea	15	11
+UK	Southend-On-Sea	17	12
+UK	Speke	15	10
+UK	Stanford-Le-Hope	20	13
+UK	Stanmore	16	11
+UK	Stockbridge	15	9
+UK	Stockton-On-Tees	14	9
+UK	Stoke - On - Trent	20	14
+UK	Stoke-On-Trent	20	12
+UK	Storrington	19	13
+UK	Sunderland	12	8
+UK	Swansea	19	13
+UK	Warrington	21	14
+UK	Wigan	16	11
+UK	Wrexham	12	8
+UK	York	16	11
+Japan	Fukuoka City	38	18
+Japan	Gifu City	29	14
+Japan	Hachioji City	28	13
+Japan	Kagoshima City	40	19
+Japan	Kyoto City	29	14
+Japan	Nagoya City	34	16
+Japan	Niigata City	26	12
+Japan	Okayama City	36	17
+Japan	Okinawa City	35	17
+Japan	Osaka City	37	17
+Japan	Sapporo City	21	10
+Japan	Sendai City	25	12
+Japan	Shizuoka City	26	12
+Japan	Tokyo	36	17
+Japan	Yokohama City	35	17
+USA	Adrian	16	9
+USA	Akron	19	10
+USA	Albany	18	9
+USA	Albany-Schenectady-Troy	13	7
+USA	Albuquerque	10	5
+USA	Alexandria	14	8
+USA	Allegan	16	9
+USA	Allen Park	18	9
+USA	Allentown	22	10
+USA	Allentown-Bethlehem-Easton	17	9
+USA	Altoona	17	8
+USA	Anacortes	14	7
+USA	Anaheim	20	9
+USA	Anchorage	12	6
+USA	Anderson	19	9
+USA	Ann Arbor	18	10
+USA	Anthony	16	8
+USA	Apple Valley	14	7
+USA	Appleton	18	9
+USA	Arden-Arcade	18	8
+USA	Arnold	17	8
+USA	Arroyo Grande	17	8
+USA	Asheville	14	8
+USA	Ashland	16	9
+USA	Atascadero	13	6
+USA	Athens	14	8
+USA	Athens-Clarke County	19	10
+USA	Atlanta	23	11
+USA	Atlanta-Sandy Springs-Marietta	19	10
+USA	Atlantic City	14	8
+USA	Auburn	12	6
+USA	Augusta-Richmond County	18	10
+USA	Augusta-Waterville	13	7
+USA	Austin-Round Rock	17	9
+USA	Bakersfield	37	18
+USA	Baltimore	18	8
+USA	Baltimore-Towson	18	10
+USA	Bangor	14	7
+USA	Banning	18	8
+USA	Baraboo	14	7
+USA	Baton Rouge	22	10
+USA	Battlement Mesa	8	4
+USA	Bay City	15	8
+USA	Bayport	13	6
+USA	Beaver Dam	16	8
+USA	Beaver Falls	18	9
+USA	Bellevue	16	8
+USA	Bellingham	16	8
+USA	Bennington	10	5
+USA	Birmingham-Hoover	20	11
+USA	Bishop	15	8
+USA	Bismarck	8	4
+USA	Blaine	13	6
+USA	Bloomington	14	7
+USA	Blue Ash	19	9
+USA	Boone	13	7
+USA	Boston	14	7
+USA	Boston-Cambridge-Quincy	12	7
+USA	Boulder	13	7
+USA	Boulevard	10	5
+USA	Bountiful	17	8
+USA	Bowling Green	17	9
+USA	Brainerd	12	6
+USA	Bremerton	9	4
+USA	Bremerton-Silverdale	9	5
+USA	Bridgeport	18	9
+USA	Bridgeport-Stamford-Norwalk	15	8
+USA	Brigham City	12	6
+USA	Bristol	23	11
+USA	Brockton	12	6
+USA	Brunswick	16	8
+USA	Bryson City (Rr Name Bryson)	19	9
+USA	Burlington	11	5
+USA	Burlington-South Burlington	10	5
+USA	Burns	17	8
+USA	Butte-Silver Bow	17	9
+USA	Butte-Silver Bow (Remainder)	16	7
+USA	Cadillac	10	6
+USA	Calexico	26	12
+USA	Cambridge	16	9
+USA	Camden	20	10
+USA	Candor	14	6
+USA	Canton-Massillon	21	11
+USA	Cape Coral-Fort Myers	11	6
+USA	Carlisle	17	8
+USA	Carmel Valley Village	14	7
+USA	Carson City	9	4
+USA	Casa Grande	18	9
+USA	Castle Hayne	12	6
+USA	Cedar Rapids	16	8
+USA	Charleroi	20	9
+USA	Charleston	15	7
+USA	Charleston-North Charleston	16	9
+USA	Charlotte-Gastonia-Concord	16	9
+USA	Charlottesville	14	7
+USA	Chattanooga	17	9
+USA	Chester	23	11
+USA	Cheyenne	7	4
+USA	Chicago-Naperville-Joliet	22	12
+USA	Chico	16	8
+USA	Cincinnati-Middletown	19	10
+USA	Clarksburg	16	9
+USA	Clarksville	16	8
+USA	Clearlake	8	4
+USA	Cleveland	20	10
+USA	Cleveland-Elyria-Mentor	19	10
+USA	Clinton	17	8
+USA	Cloquet	11	5
+USA	Clovis	25	12
+USA	Cockeysville	14	7
+USA	Coconut Creek	12	6
+USA	Colorado Springs	11	6
+USA	Columbia	18	8
+USA	Columbia Falls	11	6
+USA	Columbus	20	10
+USA	Colusa	13	7
+USA	Concord	12	6
+USA	Cookeville	16	9
+USA	Corning	11	6
+USA	Cornwall	11	5
+USA	Corpus Christi	18	10
+USA	Cortina Indian Rancheria	14	7
+USA	Crossett	16	9
+USA	Dale	20	11
+USA	Dallas	17	8
+USA	Dallas-Fort Worth-Arlington	18	10
+USA	Daphne-Fairhope-Foley	16	9
+USA	Darrington	11	6
+USA	Davenport	17	8
+USA	Davenport-Moline-Rock Island	18	10
+USA	Davie	12	6
+USA	Dayton	17	9
+USA	Decatur	17	9
+USA	Deer Park	17	8
+USA	Delaware City	20	10
+USA	Denver	17	8
+USA	Denver-Aurora	13	7
+USA	Des Moines	15	7
+USA	Des Moines-West Des Moines	16	8
+USA	Detroit	18	8
+USA	Detroit Lakes	8	4
+USA	Detroit-Warren-Livonia	18	10
+USA	Dickinson	8	4
+USA	Douglas	11	5
+USA	Dover	15	8
+USA	Duluth	11	5
+USA	Durham	18	9
+USA	Dyersburg	17	9
+USA	East Brunswick	16	8
+USA	East Hartford	14	7
+USA	East Highland Park	15	7
+USA	East Providence	14	7
+USA	East Stroudsburg	16	9
+USA	East Syracuse	11	5
+USA	Eau Claire	15	8
+USA	Edgewood	16	8
+USA	El Centro	19	10
+USA	El Dorado	17	9
+USA	El Paso	20	10
+USA	Elizabeth	20	10
+USA	Elizabethtown	19	10
+USA	Elkhart	18	9
+USA	Elkhart-Goshen	28	15
+USA	Emmetsburg	14	8
+USA	Erie	16	8
+USA	Eugene-Springfield	14	8
+USA	Eureka-Arcata-Fortuna	8	4
+USA	Evansville	21	11
+USA	Fairbanks	19	10
+USA	Fairmont	18	10
+USA	Fall River	11	5
+USA	Fargo	9	5
+USA	Farmington	7	4
+USA	Farrell	23	11
+USA	Fayetteville	18	8
+USA	Fayetteville-Springdale-Rogers	16	9
+USA	Fishers (Corporate Name For Fishers Station)	18	8
+USA	Flint	16	9
+USA	Florence	17	9
+USA	Florence-Muscle Shoals	17	9
+USA	Folsom	13	6
+USA	Fort Collins	14	7
+USA	Fort Collins-Loveland	12	6
+USA	Fort Lee	24	11
+USA	Fort Madison-Keokuk	20	11
+USA	Fort Smith	17	9
+USA	Fort Wayne	17	8
+USA	Franklin	11	5
+USA	Freemansburg	17	8
+USA	Frenchtown	18	9
+USA	Fresno	27	13
+USA	Gainesville	16	9
+USA	Galveston	14	6
+USA	Garden City	17	8
+USA	Gardnerville Ranchos	14	7
+USA	Gary	19	9
+USA	Gillette	8	4
+USA	Gilroy	12	6
+USA	Glendale	14	7
+USA	Glenpool	20	10
+USA	Goldsboro	22	10
+USA	Goleta	17	8
+USA	Gordon	20	11
+USA	Grand Island	12	6
+USA	Grand Junction	13	6
+USA	Grand Rapids-Wyoming	18	10
+USA	Grants Pass	14	7
+USA	Grantsville	11	5
+USA	Greeley	14	8
+USA	Green Bay	19	9
+USA	Greensboro	17	8
+USA	Greensboro-High Point	15	8
+USA	Greensburg	20	10
+USA	Greenville	20	10
+USA	Greenville-Mauldin-Easley	17	9
+USA	Groton	12	6
+USA	Groveton	14	7
+USA	Gulfport-Biloxi	17	9
+USA	Hagerstown-Martinsburg	18	10
+USA	Hamilton	19	9
+USA	Hammond	15	8
+USA	Hanford	32	16
+USA	Hanford-Corcoran	30	16
+USA	Harriman	17	9
+USA	Harrisburg-Carlisle	18	10
+USA	Harrisonburg	16	9
+USA	Hartford	15	7
+USA	Hartford-West Hartford-East Hartford	14	8
+USA	Hattiesburg	19	10
+USA	Haverhill	11	5
+USA	Hawaiian Ocean View	30	15
+USA	Hazard	16	8
+USA	Helena	10	5
+USA	Helena Valley West Central	14	7
+USA	Henderson	15	7
+USA	Hickory	19	9
+USA	Hickory-Lenoir-Morganton	17	9
+USA	Hilo	18	9
+USA	Hollister	9	4
+USA	Homestead	15	7
+USA	Honolulu	6	3
+USA	Hot Springs	17	9
+USA	Houma-Bayou Cane-Thibodaux	14	8
+USA	Houston	25	12
+USA	Houston-Sugar Land-Baytown	19	10
+USA	Huntington-Ashland	16	9
+USA	Huntsville	17	9
+USA	Hurricane	10	5
+USA	Indianapolis (Remainder)	20	10
+USA	Indianapolis-Carmel	21	12
+USA	Iowa City	15	7
+USA	Jackson	18	10
+USA	Jacksonville	15	7
+USA	Jamestown-Dunkirk-Fredonia	15	8
+USA	Jamesville	14	7
+USA	Jasper	21	11
+USA	Jean	13	6
+USA	Jeffersonville	19	9
+USA	Jersey City	18	9
+USA	Johnstown	19	9
+USA	Juneau	14	7
+USA	Kahului	6	3
+USA	Kalamazoo-Portage	18	10
+USA	Kalispell	15	8
+USA	Kansas City	16	8
+USA	Kapaa	8	4
+USA	Kealakekua	22	10
+USA	Keeler	12	6
+USA	Keene	13	6
+USA	Kenansville	14	8
+USA	Kenner	16	8
+USA	Kennesaw	19	9
+USA	Kent	11	6
+USA	Kihei	8	4
+USA	King City	11	5
+USA	Kingsport-Bristol-Bristol	16	9
+USA	Kittanning	22	10
+USA	Klamath Falls	16	9
+USA	Knowlton (Township Of)	18	8
+USA	Knoxville	21	10
+USA	Kokomo	18	9
+USA	La Crosse	15	8
+USA	Laconia	8	4
+USA	Ladue	18	9
+USA	Lafayette	20	11
+USA	Lake Charles	13	7
+USA	Lakeland	13	7
+USA	Lakeview	16	9
+USA	Lakeville	12	6
+USA	Lancaster	19	9
+USA	Lansing-East Lansing	17	9
+USA	Las Vegas	19	9
+USA	Las Vegas-Paradise	14	8
+USA	Lawrence (Township Of)	18	9
+USA	Lawrenceburg	15	8
+USA	Lawton	14	7
+USA	Lebanon	11	5
+USA	Lewiston	12	6
+USA	Lewiston-Auburn	14	8
+USA	Lexington	18	8
+USA	Lexington-Fayette	17	9
+USA	Libby	20	10
+USA	Liberty	28	13
+USA	Lincoln	14	8
+USA	Little Rock-North Little Rock-Conway	19	10
+USA	Live Oak	11	5
+USA	Livermore	16	8
+USA	Logan	18	8
+USA	Lompoc	15	7
+USA	Long Beach	22	11
+USA	Los Angeles	25	12
+USA	Los Angeles-Long Beach-Santa Ana	20	11
+USA	Louisville	17	8
+USA	Louisville/Jefferson County	21	11
+USA	Lumberton	16	9
+USA	Lynchburg	14	8
+USA	Lynn	10	5
+USA	Macon	22	11
+USA	Madawaska (Census Name For Madawaska Center)	13	6
+USA	Madera	23	11
+USA	Madison	19	9
+USA	Manchester-Nashua	11	6
+USA	Manistee	11	6
+USA	Marcus Hook	19	9
+USA	Maricopa	29	14
+USA	Marshall	9	4
+USA	Marysville	13	6
+USA	Mcalester	16	8
+USA	Mcallen-Edinburg-Mission	18	10
+USA	Mccook	20	10
+USA	Medford	17	9
+USA	Memphis	18	9
+USA	Mena	17	9
+USA	Merced	20	11
+USA	Mesa	14	7
+USA	Miami	16	8
+USA	Miami-Fort Lauderdale-Pompano Beach	11	6
+USA	Michigan City-La Porte	18	10
+USA	Middlesborough	17	9
+USA	Milton	10	5
+USA	Milwaukee-Waukesha-West Allis	18	10
+USA	Minneapolis	15	7
+USA	Minneapolis-St. Paul-Bloomington	14	8
+USA	Mira Loma	29	14
+USA	Missoula	15	7
+USA	Mobile	17	9
+USA	Modesto	21	10
+USA	Mojave	15	7
+USA	Montgomery	17	9
+USA	Moore	16	8
+USA	Morgantown	16	9
+USA	Mount Vernon-Anacortes	11	6
+USA	Mountain View	6	3
+USA	Mountlake Terrace	8	4
+USA	Muncie	19	10
+USA	Muscatine	16	8
+USA	Napa	18	8
+USA	Nashville	19	9
+USA	Nashville-Davidson-Murfreesboro-Franklin	18	10
+USA	New Albany	15	7
+USA	New Castle	18	10
+USA	New Haven	17	8
+USA	New Haven-Milford	16	9
+USA	New Orleans-Metairie-Kenner	14	8
+USA	New York	14	7
+USA	New York-Northern New Jersey-Long Island	16	9
+USA	Newark	18	8
+USA	Niles-Benton Harbor	16	8
+USA	Nipomo	12	6
+USA	Nogales	21	10
+USA	Norristown	19	9
+USA	North Charleston	16	8
+USA	North Las Vegas	21	10
+USA	North Laurel	20	10
+USA	North Little Rock	21	10
+USA	Norwich-New London	15	8
+USA	Oakland	16	8
+USA	Ogden	19	9
+USA	Ogden Dunes (Wickliffe)	16	8
+USA	Ogden-Clearfield	14	8
+USA	Ojai	19	9
+USA	Oklahoma City	17	9
+USA	Omaha	15	7
+USA	Omaha-Council Bluffs	15	8
+USA	Ontario	31	15
+USA	Orlando-Kissimmee	12	6
+USA	Owensboro	20	11
+USA	Oxnard-Thousand Oaks-Ventura	16	9
+USA	Paducah	19	10
+USA	Pahala	12	6
+USA	Paia	9	4
+USA	Pala	16	8
+USA	Palmer	6	3
+USA	Parkersburg-Marietta-Vienna	18	10
+USA	Pascagoula	18	10
+USA	Pearl City	5	3
+USA	Peterborough (Peterboro)	8	4
+USA	Philadelphia	20	9
+USA	Philadelphia-Camden-Wilmington	19	10
+USA	Phoenix	18	9
+USA	Phoenix-Mesa-Scottsdale	16	9
+USA	Pierre	9	4
+USA	Pikeville	16	9
+USA	Pinehurst (Pine Creek)	19	9
+USA	Piru	17	8
+USA	Pittsburgh	20	9
+USA	Pittsfield	14	7
+USA	Pocatello	13	7
+USA	Ponca City	15	7
+USA	Portland	16	8
+USA	Portland-Vancouver-Beaverton	12	7
+USA	Portola	29	16
+USA	Portsmouth	12	6
+USA	Poughkeepsie-Newburgh-Middletown	13	7
+USA	Presque Isle	8	4
+USA	Prineville	18	10
+USA	Providence	16	8
+USA	Providence-New Bedford-Fall River	11	6
+USA	Provo	17	8
+USA	Provo-Orem	13	7
+USA	Pueblo	11	6
+USA	Quincy	18	9
+USA	Raleigh	19	9
+USA	Raleigh-Cary	17	9
+USA	Rangely	16	8
+USA	Rapid City	13	6
+USA	Reading	18	10
+USA	Red Lake	10	5
+USA	Redding	8	5
+USA	Redwood City	17	8
+USA	Reno	13	6
+USA	Reno-Sparks	15	8
+USA	Richmond	18	8
+USA	Richmond-Berea	16	8
+USA	Riverside-San Bernardino-Ontario	20	11
+USA	Roanoke	15	8
+USA	Rochester	13	6
+USA	Roosevelt	12	6
+USA	Rubidoux	26	13
+USA	Rumford (Census Name For Rumford Compact)	14	7
+USA	Rutland	14	6
+USA	Sacramento--Arden-Arcade--Roseville	14	8
+USA	Saint Petersburg	14	7
+USA	Salinas	12	6
+USA	Salisbury	17	9
+USA	Salt Lake City	18	9
+USA	San Andreas	17	8
+USA	San Antonio	16	9
+USA	San Diego	19	9
+USA	San Diego-Carlsbad-San Marcos	15	8
+USA	San Francisco	16	8
+USA	San Francisco-Oakland-Fremont	16	9
+USA	San Jose	18	9
+USA	San Jose-Sunnyvale-Santa Clara	12	7
+USA	San Luis Obispo	13	6
+USA	San Luis Obispo-Paso Robles	16	9
+USA	San Pablo	17	8
+USA	San Rafael	13	6
+USA	Sandersville	18	10
+USA	Sanford	20	9
+USA	Santa Barbara	19	9
+USA	Santa Barbara-Santa Maria-Goleta	15	8
+USA	Santa Cruz-Watsonville	10	5
+USA	Santa Maria	15	7
+USA	Santa Rosa-Petaluma	14	8
+USA	Sault Ste. Marie	18	8
+USA	Scranton	17	8
+USA	Seaford	16	8
+USA	Seattle	12	6
+USA	Seattle-Tacoma-Bellevue	12	6
+USA	Sebastopol	10	5
+USA	Seiling	12	6
+USA	Sheridan	10	5
+USA	Sierra Vista-Douglas	13	7
+USA	Simi Valley	18	9
+USA	Sinclair	5	2
+USA	Sioux City	16	8
+USA	Sioux Falls	14	8
+USA	Smithfield	15	7
+USA	Somerset	17	9
+USA	South Bend	19	9
+USA	South Bend-Mishawaka	19	10
+USA	South Valley	16	8
+USA	Sparks	15	7
+USA	Spartanburg	18	8
+USA	Spokane	13	7
+USA	Springfield	15	7
+USA	Spruce Pine	14	8
+USA	St. Cloud	12	6
+USA	St. Joseph	16	8
+USA	St. Louis	18	9
+USA	St. Michael	13	6
+USA	St. Paul	14	7
+USA	State College	18	9
+USA	Steubenville	25	12
+USA	Stockton	26	13
+USA	Stuttgart	17	9
+USA	Sunrise Manor	19	9
+USA	Syracuse	12	7
+USA	Tacoma	15	7
+USA	Talladega-Sylacauga	17	9
+USA	Tallahassee	17	9
+USA	Tampa	20	10
+USA	Tampa-St. Petersburg-Clearwater	12	7
+USA	Tempe	15	7
+USA	Terre Haute	18	9
+USA	Texarkana	18	10
+USA	Thomasville-Lexington	18	10
+USA	Thousand Oaks	20	10
+USA	Toledo	19	10
+USA	Toms River	14	7
+USA	Tooele	13	6
+USA	Topeka	16	8
+USA	Torrington	8	4
+USA	Trenton	15	7
+USA	Trenton-Ewing	15	8
+USA	Tucson	11	6
+USA	Tulsa	19	9
+USA	Tuscaloosa	17	9
+USA	Ukiah	13	6
+USA	Underhill (Town Of)	7	3
+USA	Valdosta	17	9
+USA	Vallejo	17	8
+USA	Vallejo-Fairfield	18	10
+USA	Valrico	15	7
+USA	Victorville	16	8
+USA	Vineland	16	8
+USA	Vinton	16	8
+USA	Virginia	8	4
+USA	Virginia Beach	14	7
+USA	Virginia Beach-Norfolk-Newport News	15	8
+USA	Visalia-Porterville	33	18
+USA	Ware (Census Name For Ware Center)	10	5
+USA	Warner Robins	17	9
+USA	Washington	15	7
+USA	Washington-Arlington-Alexandria	16	9
+USA	Wasilla	8	4
+USA	Waterbury	18	9
+USA	Waterloo-Cedar Falls	17	9
+USA	Watertown	11	5
+USA	Weirton-Steubenville	20	11
+USA	Wenden	5	2
+USA	Wheeling	19	10
+USA	Wichita	17	9
+USA	Wilkinsburg	22	11
+USA	Williston	5	2
+USA	Willits	13	6
+USA	Wilmington	19	9
+USA	Winchester	17	9
+USA	Winona	17	8
+USA	Winston-Salem	17	8
+USA	Winter Park	13	6
+USA	Worcester	12	6
+USA	Yakima	18	9
+USA	York	19	9
+USA	Youngstown-Warren-Boardman	20	11
+USA	Yreka	17	9
+USA	Yuba City	17	8
+USA	Yuma	17	8
