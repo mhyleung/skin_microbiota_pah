@@ -1,0 +1,3422 @@
+country	city	pm10	Year	pm25
+Australia	Central Coast	12.82046228	2014	5.5
+Australia	Devonport	14.91835611	2013	6.4
+Australia	Geelong	17.5	2014	7.507529594
+Australia	Hobart	14.21905817	2013	6.1
+Australia	La Trobe Valley	19.95	2014	9.8
+Australia	Launceston	18.88104445	2013	8.1
+Australia	Lower Hunter	17.32704902	2014	7.433333333
+Australia	Melbourne	18.75	2014	7.7
+Australia	Upper Hunter	19.65804217	2014	8.433333333
+Brazil	Campos	26.20159432	2014	12
+Brazil	Cordeiropolis	38	2014	17.40352112
+Brazil	Jau	25	2014	11.44968495
+Brazil	Malemba	18	2014	8.243773161
+Brazil	Quatis	27	2014	12.36565974
+Brazil	Sao Jose Dos Campos	30	2014	13.73962193
+Canada	Dartmouth	12.25608345	2013	7
+Canada	Fort St. John	18	2013	10.28060885
+Canada	Morrisburg	12.25608345	2013	7
+Canada	Nelson	13	2013	7.424884173
+Canada	Notre-Dame-Du-Rosaire	8.754345319	2013	5
+Canada	Thomson	12	2013	4
+Canada	Trois-Rivieres	19.2595597	2013	11
+Canada	Vancouver	12.25608345	2013	7
+China	Changhua	47.77760056	2014	31.66666667
+China	Changshu	73.92955034	2014	49
+China	Changzhi	101.3890976	2014	67.2
+China	Chiayi	46.26883423	2014	30.66666667
+China	Datong	63.368186	2014	42
+China	Eerduosi	41.94370407	2014	27.8
+China	Fuyang	89.77159684	2014	59.5
+China	Haimen	76.94708301	2014	51
+China	Hsinchu	32.68993722	2014	21.66666667
+China	Hualien	18.105196	2014	12
+China	Jiangyin	102.0931886	2014	67.66666667
+China	Jiaonan	79.21023251	2014	52.5
+China	Jiaozhou	79.21023251	2014	52.5
+China	Jimo	76.94708301	2014	51
+China	Jining	81.47338201	2014	54
+China	Jintan	72.42078401	2014	48
+China	Jurong	97.31542851	2014	64.5
+China	Kaohsiung	45.51445106	2014	30.16666667
+China	Keelung	30.17532667	2014	20
+China	Kinmen	48.28052267	2014	32
+China	Korla	87.00552523	2014	57.66666667
+China	Kunshan	68.64886817	2014	45.5
+China	Laixi	83.73653151	2014	55.5
+China	Laizhou	84.49091467	2014	56
+China	Lienchiang	39.22792467	2014	26
+China	Lin'an	86.75406417	2014	57.5
+China	Linyi	83.73653151	2014	55.5
+China	Liyang	78.45584934	2014	52
+China	Maanshan	86.60318754	2014	57.4
+China	Miaoli	37.21623623	2014	24.66666667
+China	Nanchong	86.25114206	2014	57.16666667
+China	Nantou	50.54367217	2014	33.5
+China	New Taipei	33.60434106	2014	22.27272727
+China	Penghu	24.14026134	2014	16
+China	Penglai	68.64886817	2014	45.5
+China	Pingdu	87.50844734	2014	58
+China	Pingtung	33.69578145	2014	22.33333333
+China	Qujing	47.5261395	2014	31.5
+China	Rongcheng	57.33312067	2014	38
+China	Rushan	72.42078401	2014	48
+China	Shouguang	116.9293908	2014	77.5
+China	Taian	83.48507045	2014	55.33333333
+China	Taicang	82.22776517	2014	54.5
+China	Taichung	43.75422367	2014	29
+China	Tainan	44.13141525	2014	29.25
+China	Taipei	28.23548424	2014	18.71428571
+China	Taitung	15.8420465	2014	10.5
+China	Taoyuan	35.70746989	2014	23.66666667
+China	Wafangdian	88.26283051	2014	58.5
+China	Weifang	73.32604381	2014	48.6
+China	Weinan	101.8417275	2014	67.5
+China	Wendeng	69.40325134	2014	46
+China	Wujiang	84.99383678	2014	56.33333333
+China	Yan'an	72.79797559	2014	48.25
+China	Yangquan	105.3621823	2014	69.83333333
+China	Yilan	24.14026134	2014	16
+China	Yiwu	88.26283051	2014	58.5
+China	Yixing	81.47338201	2014	54
+China	Yunlin	46.39456475	2014	30.75
+China	Yuxi	45.76591211	2014	30.33333333
+China	Zhangjiagang	90.52598001	2014	60
+China	Zhangqiu	70.91201767	2014	47
+China	Zhaoyuan	82.22776517	2014	54.5
+China	Zhuji	88.26283051	2014	58.5
+China	Zibo	82.22776517	2014	54.5
+France	Baie-Mahault	15	2014	9.366172794
+France	Le Tampon	7	2014	4.370880637
+France	Les Abymes	22	2014	13.73705343
+France	L'hopital	15	2014	9.366172794
+France	Sainte-Suzanne	15	2014	9.366172794
+France	Saint-Fons	22	2014	13.73705343
+France	Saint-Joseph	9	2014	4
+France	Saint-Julien-Les-Metz	16	2014	9.990584314
+France	Saint-Louis	17	2014	10.61499583
+France	Villemandeur	18	2014	11.23940735
+United Kingdom	Biandrate	18.28491253	2013	13.00203757
+United Kingdom	Leamington Spa	17.83936703	2013	12.98562446
+United Kingdom	Liverpool	14.02067686	2013	11.62283464
+United Kingdom	Salford	18.69930069	2013	15.03087209
+United Kingdom	Southend - On - Sea	14.95855102	2013	10.63672807
+United Kingdom	Stoke - On - Trent	20.29311463	2013	13.78392794
+United Kingdom	Thurrock	19.1567953	2013	13.62201607
+United States of America	Adrian	16.25291531	2014	8.8
+United States of America	Akron	19.20799082	2014	10.4
+United States of America	Albany-Schenectady-Troy	13.48253202	2014	7.3
+United States of America	Alexandria	14.2213009	2014	7.7
+United States of America	Allegan	16.06822309	2014	8.7
+United States of America	Allentown-Bethlehem-Easton	16.85316502	2014	9.125
+United States of America	Ann Arbor	18.09983751	2014	9.8
+United States of America	Asheville	14.40599312	2014	7.8
+United States of America	Ashland	16.43760753	2014	8.9
+United States of America	Athens	14.40599312	2014	7.8
+United States of America	Athens	16.62229975	2014	9
+United States of America	Athens-Clarke County	19.0232986	2014	10.3
+United States of America	Atlanta-Sandy Springs-Marietta	19.17105238	2014	10.38
+United States of America	Atlantic City	14.2213009	2014	7.7
+United States of America	Augusta-Richmond County	17.63810696	2014	9.55
+United States of America	Augusta-Waterville	13.11314758	2014	7.1
+United States of America	Austin-Round Rock	16.89933808	2014	9.15
+United States of America	Baltimore-Towson	17.65129926	2014	9.557142857
+United States of America	Baraboo	13.66722424	2014	7.4
+United States of America	Bay City	15.14476199	2014	8.2
+United States of America	Beaver Dam	15.69883865	2014	8.5
+United States of America	Birmingham-Hoover	20.40849025	2014	11.05
+United States of America	Bishop	14.59068534	2014	7.9
+United States of America	Bismarck	8.311149875	2014	4.5
+United States of America	Boone	13.2978398	2014	7.2
+United States of America	Boston-Cambridge-Quincy	12.3240081	2014	6.672727273
+United States of America	Boulder	12.55907092	2014	6.8
+United States of America	Bowling Green	17.36106863	2014	9.4
+United States of America	Bremerton-Silverdale	8.680534314	2014	4.7
+United States of America	Bridgeport-Stamford-Norwalk	14.96006977	2014	8.1
+United States of America	Burlington-South Burlington	9.911815777	2014	5.366666667
+United States of America	Butte-Silver Bow	16.80699197	2014	9.1
+United States of America	Cadillac	10.34276429	2014	5.6
+United States of America	Cambridge	15.88353087	2014	8.6
+United States of America	Canton-Massillon	20.50083636	2014	11.1
+United States of America	Cape Coral-Fort Myers	11.08153317	2014	6
+United States of America	Charleston-North Charleston	16.25291531	2014	8.8
+United States of America	Charlotte-Gastonia-Concord	16.11439615	2014	8.725
+United States of America	Charlottesville	13.66722424	2014	7.4
+United States of America	Chattanooga	17.0840303	2014	9.25
+United States of America	Cheyenne	6.74126601	2014	3.65
+United States of America	Chicago-Naperville-Joliet	21.53511279	2014	11.66
+United States of America	Cincinnati-Middletown	19.13411393	2014	10.36
+United States of America	Clarksburg	16.06822309	2014	8.7
+United States of America	Clearlake	7.757073217	2014	4.2
+United States of America	Cleveland-Elyria-Mentor	18.996914	2014	10.28571429
+United States of America	Colorado Springs	10.71214873	2014	5.8
+United States of America	Colusa	13.2978398	2014	7.2
+United States of America	Cookeville	16.25291531	2014	8.8
+United States of America	Corning	11.26622539	2014	6.1
+United States of America	Corpus Christi	17.63810696	2014	9.55
+United States of America	Crossett	16.06822309	2014	8.7
+United States of America	Dale	19.9467597	2014	10.8
+United States of America	Dallas-Fort Worth-Arlington	18.46922194	2014	10
+United States of America	Daphne-Fairhope-Foley	16.43760753	2014	8.9
+United States of America	Davenport-Moline-Rock Island	18.19218361	2014	9.85
+United States of America	Dayton	17.45341474	2014	9.45
+United States of America	Decatur	17.17637641	2014	9.3
+United States of America	Denver-Aurora	13.03399377	2014	7.057142857
+United States of America	Des Moines-West Des Moines	15.51414643	2014	8.4
+United States of America	Detroit-Warren-Livonia	18.30131993	2014	9.909090909
+United States of America	Dickinson	7.757073217	2014	4.2
+United States of America	Dover	15.14476199	2014	8.2
+United States of America	Dyersburg	16.80699197	2014	9.1
+United States of America	East Stroudsburg	16.25291531	2014	8.8
+United States of America	Eau Claire	15.14476199	2014	8.2
+United States of America	El Centro	18.90017046	2014	10.23333333
+United States of America	El Dorado	16.62229975	2014	9
+United States of America	Elizabethtown	19.20799082	2014	10.4
+United States of America	Elkhart-Goshen	27.88852514	2014	15.1
+United States of America	Emmetsburg	14.40599312	2014	7.8
+United States of America	Eugene-Springfield	13.92579335	2014	7.54
+United States of America	Eureka-Arcata-Fortuna	7.849419326	2014	4.25
+United States of America	Evansville	20.96256691	2014	11.35
+United States of America	Fairbanks	19.0232986	2014	10.3
+United States of America	Fairmont	17.54576085	2014	9.5
+United States of America	Fargo	9.049918753	2014	4.9
+United States of America	Farmington	6.833612119	2014	3.7
+United States of America	Fayetteville-Springdale-Rogers	16.06822309	2014	8.7
+United States of America	Flint	16.43760753	2014	8.9
+United States of America	Florence	17.36106863	2014	9.4
+United States of America	Florence-Muscle Shoals	17.36106863	2014	9.4
+United States of America	Fort Collins-Loveland	12.00499426	2014	6.5
+United States of America	Fort Madison-Keokuk	19.76206748	2014	10.7
+United States of America	Fort Smith	17.17637641	2014	9.3
+United States of America	Gainesville	16.43760753	2014	8.9
+United States of America	Gillette	7.941765436	2014	4.3
+United States of America	Gordon	20.13145192	2014	10.9
+United States of America	Grand Island	12.00499426	2014	6.5
+United States of America	Grand Rapids-Wyoming	17.91514529	2014	9.7
+United States of America	Grants Pass	13.66722424	2014	7.4
+United States of America	Greeley	14.40599312	2014	7.8
+United States of America	Greensboro-High Point	15.2371081	2014	8.25
+United States of America	Greenville-Mauldin-Easley	16.80699197	2014	9.1
+United States of America	Gulfport-Biloxi	16.80699197	2014	9.1
+United States of America	Hagerstown-Martinsburg	17.54576085	2014	9.5
+United States of America	Hammond	14.77537756	2014	8
+United States of America	Hanford-Corcoran	30.3818701	2014	16.45
+United States of America	Harriman	16.80699197	2014	9.1
+United States of America	Harrisburg-Carlisle	18.28452972	2014	9.9
+United States of America	Harrisonburg	16.06822309	2014	8.7
+United States of America	Hartford-West Hartford-East Hartford	14.03660868	2014	7.6
+United States of America	Hattiesburg	18.83860638	2014	10.2
+United States of America	Hazard	15.51414643	2014	8.4
+United States of America	Helena	9.88103374	2014	5.35
+United States of America	Hickory-Lenoir-Morganton	16.80699197	2014	9.1
+United States of America	Hot Springs	16.80699197	2014	9.1
+United States of America	Houma-Bayou Cane-Thibodaux	13.85191646	2014	7.5
+United States of America	Houston-Sugar Land-Baytown	18.83860638	2014	10.2
+United States of America	Huntington-Ashland	16.06822309	2014	8.7
+United States of America	Huntsville	16.62229975	2014	9
+United States of America	Indianapolis-Carmel	21.4612359	2014	11.62
+United States of America	Jackson	17.91514529	2014	9.7
+United States of America	Jackson	15.32945421	2014	8.3
+United States of America	Jamestown-Dunkirk-Fredonia	14.77537756	2014	8
+United States of America	Jamesville	13.66722424	2014	7.4
+United States of America	Jasper	20.50083636	2014	11.1
+United States of America	Kalamazoo-Portage	17.73045307	2014	9.6
+United States of America	Kalispell	15.14476199	2014	8.2
+United States of America	Kapaa	8.126457655	2014	4.4
+United States of America	Kenansville	14.40599312	2014	7.8
+United States of America	Kingsport-Bristol-Bristol	15.88353087	2014	8.6
+United States of America	Klamath Falls	16.25291531	2014	8.8
+United States of America	La Crosse	14.96006977	2014	8.1
+United States of America	Laconia	8.311149875	2014	4.5
+United States of America	Lafayette	19.76206748	2014	10.7
+United States of America	Lafayette	14.77537756	2014	8
+United States of America	Lake Charles	13.20549369	2014	7.15
+United States of America	Lakeland	12.92845536	2014	7
+United States of America	Lakeview	15.88353087	2014	8.6
+United States of America	Lansing-East Lansing	17.36106863	2014	9.4
+United States of America	Las Vegas-Paradise	14.11048557	2014	7.64
+United States of America	Lawrenceburg	15.14476199	2014	8.2
+United States of America	Lewiston-Auburn	13.85191646	2014	7.5
+United States of America	Lexington-Fayette	17.36106863	2014	9.4
+United States of America	Lincoln	14.2213009	2014	7.7
+United States of America	Little Rock-North Little Rock-Conway	18.71547824	2014	10.13333333
+United States of America	Los Angeles-Long Beach-Santa Ana	19.92623834	2014	10.78888889
+United States of America	Louisville/Jefferson County	21.17804116	2014	11.46666667
+United States of America	Lumberton	15.88353087	2014	8.6
+United States of America	Lynchburg	14.03660868	2014	7.6
+United States of America	Manchester-Nashua	10.98918706	2014	5.95
+United States of America	Manistee	11.45091761	2014	6.2
+United States of America	Mcallen-Edinburg-Mission	18.28452972	2014	9.9
+United States of America	Medford	16.62229975	2014	9
+United States of America	Mena	17.36106863	2014	9.4
+United States of America	Merced	20.31614414	2014	11
+United States of America	Miami-Fort Lauderdale-Pompano Beach	11.40474455	2014	6.175
+United States of America	Michigan City-La Porte	18.46922194	2014	10
+United States of America	Middlesborough	16.62229975	2014	9
+United States of America	Milwaukee-Waukesha-West Allis	17.91514529	2014	9.7
+United States of America	Minneapolis-St. Paul-Bloomington	14.0519997	2014	7.608333333
+United States of America	Mobile	16.62229975	2014	9
+United States of America	Montgomery	17.36106863	2014	9.4
+United States of America	Morgantown	15.88353087	2014	8.6
+United States of America	Mount Vernon-Anacortes	11.08153317	2014	6
+United States of America	Muncie	19.0232986	2014	10.3
+United States of America	Nashville-Davidson-Murfreesboro-Franklin	18.40765787	2014	9.966666667
+United States of America	New Castle	18.28452972	2014	9.9
+United States of America	New Haven-Milford	15.88353087	2014	8.6
+United States of America	New Orleans-Metairie-Kenner	14.40599312	2014	7.8
+United States of America	New York-Northern New Jersey-Long Island	16.27343667	2014	8.811111111
+United States of America	Niles-Benton Harbor	15.69883865	2014	8.5
+United States of America	Norwich-New London	14.77537756	2014	8
+United States of America	Ogden-Clearfield	13.85191646	2014	7.5
+United States of America	Oklahoma City	17.0840303	2014	9.25
+United States of America	Omaha-Council Bluffs	15.46797338	2014	8.375
+United States of America	Orlando-Kissimmee	11.82030204	2014	6.4
+United States of America	Owensboro	20.31614414	2014	11
+United States of America	Oxnard-Thousand Oaks-Ventura	16.21597687	2014	8.78
+United States of America	Paducah	19.20799082	2014	10.4
+United States of America	Parkersburg-Marietta-Vienna	17.73045307	2014	9.6
+United States of America	Pascagoula	17.73045307	2014	9.6
+United States of America	Philadelphia-Camden-Wilmington	18.90456789	2014	10.23571429
+United States of America	Phoenix-Mesa-Scottsdale	15.97587698	2014	8.65
+United States of America	Pikeville	15.88353087	2014	8.6
+United States of America	Pocatello	12.74376314	2014	6.9
+United States of America	Portland-Vancouver-Beaverton	12.28203259	2014	6.65
+United States of America	Portola	28.81198623	2014	15.6
+United States of America	Poughkeepsie-Newburgh-Middletown	13.2978398	2014	7.2
+United States of America	Prineville	18.28452972	2014	9.9
+United States of America	Providence-New Bedford-Fall River	10.74908717	2014	5.82
+United States of America	Provo-Orem	12.99001943	2014	7.033333333
+United States of America	Pueblo	10.52745651	2014	5.7
+United States of America	Raleigh-Cary	17.26872252	2014	9.35
+United States of America	Reading	18.28452972	2014	9.9
+United States of America	Redding	8.495842094	2014	4.6
+United States of America	Reno-Sparks	15.14476199	2014	8.2
+United States of America	Richmond-Berea	15.69883865	2014	8.5
+United States of America	Riverside-San Bernardino-Ontario	20.18422112	2014	10.92857143
+United States of America	Roanoke	15.32945421	2014	8.3
+United States of America	Sacramento--Arden-Arcade--Roseville	13.90468566	2014	7.528571429
+United States of America	Salisbury	16.62229975	2014	9
+United States of America	San Antonio	16.25291531	2014	8.8
+United States of America	San Diego-Carlsbad-San Marcos	15.05241588	2014	8.15
+United States of America	San Francisco-Oakland-Fremont	15.76809823	2014	8.5375
+United States of America	San Jose-Sunnyvale-Santa Clara	12.12812241	2014	6.566666667
+United States of America	San Luis Obispo-Paso Robles	16.06822309	2014	8.7
+United States of America	Sandersville	18.28452972	2014	9.9
+United States of America	Santa Barbara-Santa Maria-Goleta	15.08319792	2014	8.166666667
+United States of America	Santa Cruz-Watsonville	9.97337985	2014	5.4
+United States of America	Santa Rosa-Petaluma	14.2213009	2014	7.7
+United States of America	Seaford	15.51414643	2014	8.4
+United States of America	Seattle-Tacoma-Bellevue	11.97421223	2014	6.483333333
+United States of America	Sheridan	9.97337985	2014	5.4
+United States of America	Sierra Vista-Douglas	13.2978398	2014	7.2
+United States of America	Sioux City	15.69883865	2014	8.5
+United States of America	Sioux Falls	13.85191646	2014	7.5
+United States of America	Somerset	17.17637641	2014	9.3
+United States of America	South Bend-Mishawaka	18.83860638	2014	10.2
+United States of America	Spokane	13.11314758	2014	7.1
+United States of America	Spruce Pine	14.40599312	2014	7.8
+United States of America	Stuttgart	16.80699197	2014	9.1
+United States of America	Syracuse	12.3743787	2014	6.7
+United States of America	Talladega-Sylacauga	17.17637641	2014	9.3
+United States of America	Tallahassee	17.17637641	2014	9.3
+United States of America	Tampa-St. Petersburg-Clearwater	12.12812241	2014	6.566666667
+United States of America	Texarkana	17.73045307	2014	9.6
+United States of America	Thomasville-Lexington	18.09983751	2014	9.8
+United States of America	Toledo	19.30033693	2014	10.45
+United States of America	Topeka	15.69883865	2014	8.5
+United States of America	Trenton-Ewing	15.42180032	2014	8.35
+United States of America	Tucson	10.98918706	2014	5.95
+United States of America	Tuscaloosa	17.36106863	2014	9.4
+United States of America	Valdosta	16.62229975	2014	9
+United States of America	Vallejo-Fairfield	18.28452972	2014	9.9
+United States of America	Virginia Beach-Norfolk-Newport News	14.59068534	2014	7.9
+United States of America	Visalia-Porterville	33.05990728	2014	17.9
+United States of America	Warner Robins	17.36106863	2014	9.4
+United States of America	Washington-Arlington-Alexandria	16.414521	2014	8.8875
+United States of America	Waterloo-Cedar Falls	17.17637641	2014	9.3
+United States of America	Weirton-Steubenville	19.50349837	2014	10.56
+United States of America	Wheeling	19.39268304	2014	10.5
+United States of America	Wichita	16.85316502	2014	9.125
+United States of America	Winchester	16.62229975	2014	9
+United States of America	Youngstown-Warren-Boardman	19.57737526	2014	10.6
+United States of America	Yreka	16.62229975	2014	9
+Australia	Adelaide	16.87142857	2013	7.25
+Australia	Adelaide	16.65714286	2014	7.1
+Australia	Adelaide	16.05714286	2015	7.45
+Australia	Adelaide	16.18571429	2016	6.875
+Australia	Albany	15.4	2013	6.680473266
+Australia	Albany	16	2014	6.940751445
+Australia	Albany	15.9	2015	6.897371748
+Australia	Albany	17.5	2016	7.591446893
+Australia	Albury	15.77972222	2013	6.845195613
+Australia	Albury	15.93185596	2014	6.911190765
+Australia	Albury	14.58882521	2015	6.328588106
+Australia	Albury	15.0531856	2016	6.53002623
+Australia	Ayr	24.0097786	2015	10.41536909
+Australia	Bathurst	15.11318681	2013	6.556054576
+Australia	Bathurst	14.59111111	2014	6.32957972
+Australia	Bathurst	13.40798898	2015	5.816344931
+Australia	Bathurst	13.28709677	2016	5.763902258
+Australia	Brisbane	15.59056056	2015	6.081684214
+Australia	Brisbane	15.21140773	2016	6.610636631
+Australia	Bunbury	16.8	2013	7.8
+Australia	Bunbury	16.1	2014	7.8
+Australia	Bunbury	17.5	2015	9.3
+Australia	Bunbury	16.5	2016	8.4
+Australia	Busselton	17.75023943	2013	7.7
+Australia	Busselton	16.59762648	2014	7.2
+Australia	Busselton	19.82494274	2015	8.6
+Australia	Busselton	18.67232979	2016	8.1
+Australia	City Of Ipswich	14.58685969	2015	6.327735466
+Australia	City Of Ipswich	13.09857759	2016	5.682123209
+Australia	Collie	20.1	2013	8.719319003
+Australia	Collie	19.2	2014	8.328901734
+Australia	Collie	22.4	2015	9.717052023
+Australia	Collie	19.3	2016	8.37228143
+Australia	Darwin	19.8	2013	6.9
+Australia	Darwin	21.7	2014	8.1
+Australia	Darwin	22.4	2015	8.6
+Australia	Darwin	16.4	2016	6.5
+Australia	Geraldton	20.9	2013	9.066356575
+Australia	Geraldton	22.3	2014	9.673672326
+Australia	Geraldton	20.2	2015	8.762698699
+Australia	Geraldton	18.8	2016	8.155382948
+Australia	Gladstone	13.01371242	2015	4.093940519
+Australia	Gladstone	13.82261296	2016	4.880699378
+Australia	Jondaryan	18.7109326	2015	5.759357349
+Australia	Jondaryan	16.64508352	2016	5.095709947
+Australia	Mackay	21.98257585	2015	9.535974695
+Australia	Mackay	19.75379762	2016	8.569137462
+Australia	Moranbah	21.48229695	2015	9.318955223
+Australia	Moranbah	22.32119358	2016	9.682866039
+Australia	Mount Isa	19.48421791	2015	8.452194601
+Australia	Mount Isa	16.79145248	2016	7.284081129
+Australia	Muswellbrook	22.63608815	2013	9.408383234
+Australia	Muswellbrook	21.43911846	2014	9.699433428
+Australia	Muswellbrook	19.10497238	2015	8.657670455
+Australia	Muswellbrook	19.23904494	2016	8.424645892
+Australia	Newcastle	22.00863989	2013	7.93606556
+Australia	Newcastle	19.21959827	2014	7.429150964
+Australia	Newcastle	22.84841053	2015	7.925192392
+Australia	Newcastle	23.0979509	2016	8.137170754
+Australia	Palmerston	21.1	2014	9.3
+Australia	Palmerston	20.1	2015	7.8
+Australia	Palmerston	15.2	2016	7.2
+Australia	Perth	15.83333333	2013	7.825
+Australia	Perth	16.76666667	2014	7.95
+Australia	Perth	17.03333333	2015	8.5
+Australia	Perth	15.05	2016	7.675
+Australia	Singleton	23.29393939	2013	7.851136364
+Australia	Singleton	21.04189944	2014	7.765915493
+Australia	Singleton	19.31911357	2015	7.581104651
+Australia	Singleton	19.30192837	2016	7.852124646
+Australia	Sydney	17.07812507	2013	8.086711307
+Australia	Sydney	16.55370123	2014	7.679642593
+Australia	Sydney	15.58321809	2015	7.77635765
+Australia	Sydney	16.50524016	2016	7.878140203
+Australia	Tamworth	16.59275766	2013	7.197887919
+Australia	Tamworth	15.81157025	2014	6.85901119
+Australia	Tamworth	14.10498615	2015	6.118700187
+Australia	Tamworth	15.30909091	2016	6.641037178
+Australia	Townsville	17.60990148	2015	7.639121823
+Australia	Wagga Wagga	22.12437673	2013	7.946260388
+Australia	Wagga Wagga	20.70056818	2014	7.456980057
+Australia	Wagga Wagga	19.90027855	2015	7.596132597
+Australia	Wagga Wagga	20.63342541	2016	7.377437326
+Australia	Whyalla	16.55	2013	7.179339776
+Australia	Whyalla	16.35	2014	7.092580383
+Australia	Whyalla	15.7	2015	6.810612355
+Australia	Whyalla	14.65	2016	6.355125542
+Australia	Wollongong	16.92260892	2013	7.746531792
+Australia	Wollongong	17.05066712	2014	7.00922619
+Australia	Wollongong	16.23120141	2015	6.979611161
+Australia	Wollongong	17.40223666	2016	7.056899226
+Australia	Wynnum	13.79167173	2015	3.693286959
+Australia	Wynnum	13.62228128	2016	4.158801521
+Australia	Wyong	16.57722222	2013	6.699709302
+Australia	Wyong	15.06416667	2014	5.485185185
+Australia	Wyong	14.86565097	2015	5.191267606
+Australia	Wyong	15.21916667	2016	5.745505618
+Brazil	Americana	33	2013	15.18271937
+Brazil	Americana	36	2014	16.56296659
+Brazil	Americana	36	2016	16.56296659
+Brazil	Aracatuba	29	2013	13.34238975
+Brazil	Aracatuba	34	2014	15.64280178
+Brazil	Aracatuba	26	2015	11.96214254
+Brazil	Aracatuba	28	2016	12.88230735
+Brazil	Araraquara	28	2013	12.88230735
+Brazil	Araraquara	34	2014	15.64280178
+Brazil	Araraquara	28	2015	12.88230735
+Brazil	Araraquara	28	2016	12.88230735
+Brazil	Araucaria	25.855	2013	11.89543059
+Brazil	Araucaria	22	2014	10.12181291
+Brazil	Araucaria	18	2015	8.281483294
+Brazil	Barra Mansa	30.33333333	2014	13.95583296
+Brazil	Barra Mansa	32.33333333	2015	14.87599777
+Brazil	Bauru	29	2013	13.34238975
+Brazil	Bauru	29	2014	13.34238975
+Brazil	Bauru	26	2015	11.96214254
+Brazil	Bauru	31	2016	14.26255456
+Brazil	Betim	44.2	2013	20.33564231
+Brazil	Brasilia	117.68	2013	54.14249745
+Brazil	Camacari	15.2	2013	6.993252559
+Brazil	Camacari	20.45	2014	9.408685187
+Brazil	Camacari	17	2015	7.821400889
+Brazil	Campinas	31	2013	14.26255456
+Brazil	Campinas	35	2014	16.10288418
+Brazil	Campinas	32	2015	14.72263697
+Brazil	Campinas	28	2016	12.88230735
+Brazil	Campos Dos Goitacazes	19.30089023	2013	8.88
+Brazil	Campos Dos Goitacazes	26.95169356	2014	12.4
+Brazil	Campos Dos Goitacazes	19.56171307	2015	9
+Brazil	Candeias	21	2013	9.66173051
+Brazil	Candeias	18	2014	8.281483294
+Brazil	Canoas	33.4	2013	15.36675233
+Brazil	Canoas	29.1	2014	13.38839799
+Brazil	Canoas	26	2015	11.96214254
+Brazil	Canoas	26	2016	11.96214254
+Brazil	Cantagalo	19.21	2013	8.838183004
+Brazil	Cantagalo	19.91	2014	9.160240688
+Brazil	Cantagalo	23	2015	10.58189532
+Brazil	Carapicuiba	35	2014	16.10288418
+Brazil	Carapicuiba	28	2015	12.88230735
+Brazil	Carapicuiba	30	2016	13.80247216
+Brazil	Cariacica	36	2015	16.56296659
+Brazil	Catanduva	35	2013	16.10288418
+Brazil	Catanduva	41	2014	18.86337861
+Brazil	Catanduva	33	2015	15.18271937
+Brazil	Catanduva	35	2016	16.10288418
+Brazil	Charqueadas	31.8	2013	14.63062049
+Brazil	Charqueadas	28.8	2014	13.25037327
+Brazil	Charqueadas	30	2016	13.80247216
+Brazil	Colombo	35.5	2013	16.33292539
+Brazil	Cordeiripolis	33	2013	15.18271937
+Brazil	Cordeiripolis	38	2014	17.4831314
+Brazil	Cordeiripolis	36	2015	16.56296659
+Brazil	Cordeiripolis	39	2016	17.9432138
+Brazil	Cubatao	64.66666667	2013	29.75199554
+Brazil	Cubatao	68.66666667	2014	31.59232516
+Brazil	Cubatao	61	2015	28.06502672
+Brazil	Cubatao	49	2016	22.54403786
+Brazil	Curitiba	17.475	2013	8.039940031
+Brazil	Curitiba	20	2014	9.201648104
+Brazil	Curitiba	14	2015	6.441153673
+Brazil	Diadema	32	2013	14.72263697
+Brazil	Diadema	34	2014	15.64280178
+Brazil	Diadema	29	2015	13.34238975
+Brazil	Diadema	27	2016	12.42222494
+Brazil	Dias D'Avila	9.7	2013	4.462799331
+Brazil	Dias D'Avila	6	2014	2.760494431
+Brazil	Dias D'Avila	17	2015	7.821400889
+Brazil	Dias D'ivila	29.4	2013	13.52642271
+Brazil	Dias D'ivila	30	2015	13.80247216
+Brazil	Duque De Caxias	54.5	2013	21.015
+Brazil	Duque De Caxias	58.64666667	2014	25.19
+Brazil	Duque De Caxias	58.5	2015	15.5
+Brazil	Esteio	24	2015	11.04197773
+Brazil	Esteio	21	2016	9.66173051
+Brazil	Gravatai	16.3	2014	7.499343205
+Brazil	Guarulhos	29	2013	13.34238975
+Brazil	Guarulhos	31	2014	14.26255456
+Brazil	Guarulhos	26	2015	11.96214254
+Brazil	Guarulhos	27	2016	12.42222494
+Brazil	Ibirite	30.2	2013	13.89448864
+Brazil	Itaborai	38	2013	13.99
+Brazil	Itaborai	46	2014	18.04
+Brazil	Itaborai	32	2015	8
+Brazil	Itaguai	26	2013	11.96214254
+Brazil	Itaguai	30	2014	13.80247216
+Brazil	Itaguai	31	2015	14.26255456
+Brazil	Jaboticabal	35	2013	16.10288418
+Brazil	Jaboticabal	38	2014	17.4831314
+Brazil	Jacarei	22	2013	10.12181291
+Brazil	Jacarei	25	2014	11.50206013
+Brazil	Jacarei	22	2015	10.12181291
+Brazil	Jacarei	24	2016	11.04197773
+Brazil	Jai	28	2013	12.88230735
+Brazil	Jai	25	2014	11.50206013
+Brazil	Jai	21	2015	9.66173051
+Brazil	Jai	26	2016	11.96214254
+Brazil	Japeri	33	2014	15.18271937
+Brazil	Japeri	26	2015	11.96214254
+Brazil	Jundiai	26	2013	11.96214254
+Brazil	Jundiai	30	2014	13.80247216
+Brazil	Jundiai	26	2015	11.96214254
+Brazil	Jundiai	25	2016	11.50206013
+Brazil	Limeira	36	2013	16.56296659
+Brazil	Limeira	41	2014	18.86337861
+Brazil	Limeira	34	2015	15.64280178
+Brazil	Limeira	31	2016	14.26255456
+Brazil	Macae	14	2013	6.441153673
+Brazil	Macae	21	2015	9.66173051
+Brazil	Macuco	25	2015	11.50206013
+Brazil	Madre De Deus	12	2014	5.520988863
+Brazil	Marilia	20	2013	9.201648104
+Brazil	Marilia	22	2014	10.12181291
+Brazil	Marilia	19	2015	8.741565699
+Brazil	Marilia	19	2016	8.741565699
+Brazil	Maua	35	2013	16.10288418
+Brazil	Maua	37	2014	17.02304899
+Brazil	Maua	30	2015	13.80247216
+Brazil	Maua	30	2016	13.80247216
+Brazil	Niteroi	29.79900958	2013	13.71
+Brazil	Niteroi	54.19	2014	14.9
+Brazil	Niteroi	50	2015	9
+Brazil	Nova Iguacu	65	2013	29.90535634
+Brazil	Nova Iguacu	52.82	2014	24.30155264
+Brazil	Nova Iguacu	42	2015	19.32346102
+Brazil	Osasco	43	2013	19.78354342
+Brazil	Osasco	44	2014	20.24362583
+Brazil	Osasco	40	2015	18.40329621
+Brazil	Osasco	40	2016	18.40329621
+Brazil	Paulinia	35	2013	16.10288418
+Brazil	Paulinia	39.5	2014	18.17325501
+Brazil	Paulinia	32.5	2015	14.95267817
+Brazil	Paulinia	35	2016	16.10288418
+Brazil	Piracicaba	32	2013	14
+Brazil	Piracicaba	38	2014	15
+Brazil	Piracicaba	36	2015	13
+Brazil	Piracicaba	37	2016	13
+Brazil	Porto Real	17	2014	7.821400889
+Brazil	Presidente Prudente	20	2013	9.201648104
+Brazil	Presidente Prudente	21	2014	9.66173051
+Brazil	Presidente Prudente	18	2015	8.281483294
+Brazil	Presidente Prudente	21	2016	9.66173051
+Brazil	Resende	24.66666667	2013	7.94
+Brazil	Resende	29	2014	13.03
+Brazil	Resende	27.2	2015	9
+Brazil	Ribeirao Preto	30	2013	13.80247216
+Brazil	Rio Claro	53	2013	24.38436748
+Brazil	Rio Claro	56	2014	25.76461469
+Brazil	Rio Claro	48	2015	22.08395545
+Brazil	Rio Claro	46	2016	21.16379064
+Brazil	Rio De Janeiro	41.61538462	2013	14.564
+Brazil	Rio De Janeiro	41.894	2014	14.63923077
+Brazil	Rio De Janeiro	41.66666667	2015	11.45
+Brazil	Salvador	50.85	2013	23.39519031
+Brazil	Salvador	23.04285714	2014	10.60161314
+Brazil	Salvador	22.25	2015	10.23683352
+Brazil	Santa Gertrudes	87	2013	40.02716925
+Brazil	Santa Gertrudes	95	2014	43.7078285
+Brazil	Santa Gertrudes	81	2015	37.26667482
+Brazil	Santa Gertrudes	80	2016	36.80659242
+Brazil	Santo Andre	33	2013	15.18271937
+Brazil	Santo Andre	36	2014	16.56296659
+Brazil	Santo Andre	27.5	2015	12.65226614
+Brazil	Santo Andre	27	2016	12.42222494
+Brazil	Santos	38.5	2013	19
+Brazil	Santos	39	2014	18
+Brazil	Santos	31.5	2015	16
+Brazil	Santos	25	2016	15
+Brazil	Sao Bernardo Do Campo	37	2013	17.02304899
+Brazil	Sao Bernardo Do Campo	36	2014	16.56296659
+Brazil	Sao Bernardo Do Campo	36.94990247	2015	17
+Brazil	Sao Bernardo Do Campo	36.94990247	2016	17
+Brazil	Sao Caetano Do Sul	35	2013	18
+Brazil	Sao Caetano Do Sul	37	2014	15
+Brazil	Sao Caetano Do Sul	43.47047349	2015	20
+Brazil	Sao Caetano Do Sul	36.94990247	2016	17
+Brazil	Sao Goncalo	56	2013	25.76461469
+Brazil	Sao Goncalo	57.79	2014	26.5881622
+Brazil	Sao Goncalo	47	2015	21.62387305
+Brazil	Sao Joao De Meriti	66	2013	18.1
+Brazil	Sao Joao De Meriti	69.53	2014	15.25
+Brazil	Sao Joao De Meriti	65	2015	12
+Brazil	Sao Jose Do Rio Preto	28.5	2013	14
+Brazil	Sao Jose Do Rio Preto	32	2014	16
+Brazil	Sao Jose Do Rio Preto	28	2015	14
+Brazil	Sao Jose Do Rio Preto	29	2016	15
+Brazil	Sao Paulo	32.72727273	2013	16
+Brazil	Sao Paulo	34.85714286	2014	19.14285714
+Brazil	Sao Paulo	29.58333333	2015	18.4
+Brazil	Sao Paulo	28.25	2016	16.6
+Brazil	Seropedica	27	2013	9.62
+Brazil	Seropedica	31.38	2014	14.71
+Brazil	Serra	23.85	2013	10.97296536
+Brazil	Serra	25	2014	11.50206013
+Brazil	Serra	36	2015	16.56296659
+Brazil	Sorocaba	36	2013	16.56296659
+Brazil	Sorocaba	39	2014	17.9432138
+Brazil	Sorocaba	28	2015	12.88230735
+Brazil	Sorocaba	25	2016	11.50206013
+Brazil	Taboao Da Serra	32	2013	14.72263697
+Brazil	Taboao Da Serra	34	2014	15.64280178
+Brazil	Taboao Da Serra	36	2015	16.56296659
+Brazil	Taboao Da Serra	28	2016	12.88230735
+Brazil	Tatui	22	2013	10.12181291
+Brazil	Tatui	24	2014	11.04197773
+Brazil	Tatui	20	2015	9.201648104
+Brazil	Tatui	19	2016	8.741565699
+Brazil	Vila Velha	26.7	2013	12.28420022
+Brazil	Vila Velha	26	2014	11.96214254
+Brazil	Vila Velha	26	2015	11.96214254
+Brazil	Vitoria	25.33333333	2013	11.65542093
+Brazil	Vitoria	24.9	2014	11.45605189
+Brazil	Vitoria	29	2015	13.34238975
+Brazil	Volta Redonda	27.625	2013	9.42
+Brazil	Volta Redonda	33	2014	13.5
+Brazil	Volta Redonda	29.125	2015	13.39990005
+Canada	Abbotsford	13	2015	6.6
+Canada	Agassiz	11.28679331	2015	6.3
+Canada	Anzac	10.74932697	2015	6
+Canada	Auclair	7.166217977	2015	4
+Canada	Aylesford	10.03270517	2015	5.6
+Canada	Barrie	13.61581416	2015	7.6
+Canada	Bathurst	11.28679331	2015	6.3
+Canada	Beaverlodge	8.778617022	2015	4.9
+Canada	Belleville	11.64510421	2015	6.5
+Canada	Brampton	15.04905775	2015	8.4
+Canada	Brandon	17.08333333	2015	7.3
+Canada	Brantford	15.76567955	2015	8.8
+Canada	Bruderheim	12.89919236	2015	7.2
+Canada	Burlington	16.84061225	2015	9.4
+Canada	Burnaby	9	2015	6.8
+Canada	Burns Lake	15.75	2015	7.1
+Canada	Calgary	14.42201368	2015	8.05
+Canada	Campbell River	15.40736865	2015	8.6
+Canada	Caroline	9.316083371	2015	5.2
+Canada	Castlegar	16.41666667	2015	9.163364396
+Canada	Charette	12.89919236	2015	7.2
+Canada	Charlottetown	7.703684326	2015	4.3
+Canada	Chatham	14.33243595	2015	8
+Canada	Chilliwack	12	2015	6.6
+Canada	Cold Lake	16.84061225	2015	9.4
+Canada	Corner Brook	9.853549719	2015	5.5
+Canada	Cornwall	12.36172601	2015	6.9
+Canada	Courtenay	15.40736865	2015	8.6
+Canada	Crofton	13.88454733	2015	7.75
+Canada	Debolt	8.778617022	2015	4.9
+Canada	Delta	10.03270517	2015	5.6
+Canada	Deschambault	11.10763786	2015	6.2
+Canada	Dorset	10.03270517	2015	5.6
+Canada	Drayton Valley	12.72003691	2015	7.1
+Canada	Duncan	13.61581416	2015	7.6
+Canada	Edmonton	15.76567955	2015	8.8
+Canada	Edson	7.166217977	2015	4
+Canada	Elk Island	10.39101607	2015	5.8
+Canada	Ferme Neuve	11.10763786	2015	6.2
+Canada	Flin Flon	14.45454545	2015	8.068158407
+Canada	Fort Chipewyan	16.48230135	2015	9.2
+Canada	Fort Mackay	14.15328051	2015	7.9
+Canada	Fort Mcmurray	15.2282132	2015	8.5
+Canada	Fort Saskatchewan	12.72003691	2015	7.1
+Canada	Fort Smith	9.545454545	2015	7.2
+Canada	Fredericton	10.39101607	2015	5.8
+Canada	Gatineau	11.28679331	2015	6.3
+Canada	Genesee	6.987062528	2015	3.9
+Canada	Golden	17.75	2015	9.7
+Canada	Grand Bend	13.97412506	2015	7.8
+Canada	Grand Falls - Windsor	8.420306123	2015	4.7
+Canada	Grand Forks	12.89919236	2015	7.2
+Canada	Grande Prairie	9.316083371	2015	5.2
+Canada	Guelph	15.04905775	2015	8.4
+Canada	Halifax	7.703684326	2015	4.3
+Canada	Hamilton	17.43779708	2015	9.733333333
+Canada	Hinton	16.6614568	2015	9.3
+Canada	Hope	11	2015	6.3
+Canada	Houston	14.88888889	2015	9.7
+Canada	Inuvik	19.33333333	2015	4.6
+Canada	Kamloops	15.2282132	2015	8.5
+Canada	Kelowna	15.76567955	2015	8.8
+Canada	Kingston	11.28679331	2015	6.3
+Canada	Kitchener	15.76567955	2015	8.8
+Canada	Kitimat	8	2015	5.566666667
+Canada	L'assomption	15.76567955	2015	8.8
+Canada	La Dore	8.957772472	2015	5
+Canada	La Patrie	8.241150674	2015	4.6
+Canada	La Peche	10.39101607	2015	5.8
+Canada	Lac-Edouard	9.136927921	2015	5.1
+Canada	Lamont	14.8699023	2015	8.3
+Canada	Langdale	9.727272727	2015	6.3
+Canada	Langley	11	2015	7.3
+Canada	Laval	14.8699023	2015	8.3
+Canada	Lemieux	16.12399045	2015	9
+Canada	Lethbridge	14.69074685	2015	8.2
+Canada	London	14.8699023	2015	8.3
+Canada	Longueuil	16.03441272	2015	8.95
+Canada	Marystown	10.57017152	2015	5.9
+Canada	Medicine Hat	11.82425966	2015	6.6
+Canada	Mission	11.64510421	2015	6.5
+Canada	Mississauga	15.2282132	2015	8.5
+Canada	Moncton	10.39101607	2015	5.8
+Canada	Montreal	14.73553572	2015	8.225
+Canada	Mount Pearl	6.987062528	2015	3.9
+Canada	Nanaimo	7.524528876	2015	4.2
+Canada	Newmarket	12.72003691	2015	7.1
+Canada	Norman Wells	9	2015	5.023570329
+Canada	North Bay	9.49523882	2015	5.3
+Canada	North Vancouver	10.48059379	2015	5.85
+Canada	Oakville	14.69074685	2015	8.2
+Canada	Oshawa	13.43665871	2015	7.5
+Canada	Ottawa	12.36172601	2015	6.9
+Canada	Parry Sound	10.21186062	2015	5.7
+Canada	Petawawa	8.599461573	2015	4.8
+Canada	Peterborough	12.18257056	2015	6.8
+Canada	Pictou	12.72003691	2015	7.1
+Canada	Pitt Meadows	10.39101607	2015	5.8
+Canada	Port Alberni	15.40736865	2015	8.6
+Canada	Port Hawkesbury	10.74932697	2015	6
+Canada	Port Moody	11	2015	6.3
+Canada	Port Stanley	14.5115914	2015	8.1
+Canada	Powell River	7.458333333	2015	2.6
+Canada	Prince George	17	2015	9.488966176
+Canada	Quebec	16.36286438	2015	9.133333333
+Canada	Quesnel	12.41666667	2015	9.6
+Canada	Red Deer	15.67610183	2015	8.75
+Canada	Regina	19.70709944	2015	11
+Canada	Richmond	13	2015	6.05
+Canada	Rouyn-Noranda	10.74932697	2015	6
+Canada	Saguenay	14.5115914	2015	8.1
+Canada	Saint John	11.28679331	2015	6.3
+Canada	Saint-Faustin-Lac-Carre	9.853549719	2015	5.5
+Canada	Saint-Jean-Sur-Richelieu	10.21186062	2015	5.7
+Canada	Saint-Simon	13.25750326	2015	7.4
+Canada	Saint-Zephirin-De-Courval	12.72003691	2015	7.1
+Canada	Sarnia	14.69074685	2015	8.2
+Canada	Saskatoon	18.99047764	2015	10.6
+Canada	Sault Ste. Marie	10.74932697	2015	6
+Canada	Senneterre	8.778617022	2015	4.9
+Canada	Sherbrooke	12.36172601	2015	6.9
+Canada	Simcoe	14.33243595	2015	8
+Canada	Smithers	14.8699023	2015	8.3
+Canada	Southampton	5.912129831	2015	3.3
+Canada	Squamish	14.33243595	2015	8
+Canada	St Lina	12.72003691	2015	7.1
+Canada	St-Hilaire-De-Dorset	11.46594876	2015	6.4
+Canada	St. Andrews	10.57017152	2015	5.9
+Canada	St. Catharines	15.04905775	2015	8.4
+Canada	St. John's	13.61581416	2015	7.6
+Canada	Steeper	5.195508034	2015	2.9
+Canada	Stukely-Sud	10.57017152	2015	5.9
+Canada	Sudbury	7.25	2015	6.3
+Canada	Surrey	11.28679331	2015	6.3
+Canada	Sydney	10.03270517	2015	5.6
+Canada	Terrace	9.674394269	2015	5.4
+Canada	Thorsby	7.345373427	2015	4.1
+Canada	Thunder Bay	11.64510421	2015	6.5
+Canada	Tingwick	11.10763786	2015	6.2
+Canada	Tiverton	11.46594876	2015	6.4
+Canada	Tomahawk	9.316083371	2015	5.2
+Canada	Toronto	15.80151064	2015	8.82
+Canada	Vanderhoof	15.76567955	2015	8.8
+Canada	Varennes	14.5115914	2015	8.1
+Canada	Vernon	16.48230135	2015	9.2
+Canada	Victoria	11.10763786	2015	6.2
+Canada	Wapasu	14.33243595	2015	8
+Canada	West Vancouver	8.599461573	2015	4.8
+Canada	Whistler	15.04905775	2015	8.4
+Canada	Whitehorse	9.853549719	2015	5.5
+Canada	Williams Lake	15.41666667	2015	6.9
+Canada	Windsor	16.93018997	2015	9.45
+Canada	Winnipeg	22.36363636	2015	5.95
+Canada	Yellowknife	15.58333333	2015	8.5
+China	Anqing	71	2016	54
+China	Anshan	115	2015	72
+China	Anshun	38	2016	27
+China	Anyang	155	2016	86
+China	Baicheng	75	2016	48
+China	Baishan	81	2016	50
+China	Baiyin	95	2016	39
+Baoding	Baoding	220	2013	135
+Baoding	Baoding	224	2014	129
+Baoding	Baoding	174	2015	107
+Baoding	Baoding	147	2016	93
+China	Baoji	108	2015	57
+China	Baoji	111	2016	59
+China	Baotou	105	2016	47
+China	Beihai	48	2015	22.46916183
+China	Beijing	108.1	2013	89.5
+China	Beijing	115.8	2014	85.9
+China	Beijing	102	2015	80.6
+China	Beijing	92	2016	73
+China	Benxi	89	2015	56
+China	Benxi	74	2016	45
+China	Bijie	44	2016	30
+China	Binzhou	126	2015	77
+China	Binzhou	123	2016	70
+China	Bozhou	83	2016	58
+China	Cangzhou	130	2013	102
+China	Cangzhou	138	2014	88
+China	Cangzhou	121	2015	70
+China	Cangzhou	147.402027	2016	69
+China	Changchun	129	2013	73
+China	Changchun	118	2014	68
+China	Changchun	107	2015	66
+China	Changchun	78	2016	46
+China	Changde	82	2015	52
+China	Changde	80	2016	56
+China	Changsha	84	2014	74
+China	Changsha	76	2015	61
+China	Changsha	73	2016	53
+China	Changzhou	102	2013	72
+China	Changzhou	104	2014	67
+China	Changzhou	126.0394144	2015	59
+China	Changzhou	81	2016	49
+China	Chaozhou	58	2015	38
+China	Chaozhou	51.2	2016	33.4
+China	Chengde	104	2013	50
+China	Chengde	111	2014	52
+China	Chengde	92	2015	43
+China	Chengde	81	2016	40
+China	Chengdu	150	2013	97
+China	Chengdu	123	2014	77
+China	Chengdu	108	2015	64
+China	Chengdu	105	2016	63
+China	Chenzhou	70	2016	41
+China	Chifeng	88	2015	41
+China	Chifeng	76	2016	37
+China	Chizhou	66	2016	30.89509752
+China	Chongqing	106	2013	70
+China	Chongqing	98	2014	65
+China	Chongqing	87	2015	57
+China	Chongqing	77	2016	54
+China	Chuxiong	35	2016	22
+China	Chuzhou	77	2016	59
+Dalian	Dalian	49.02857143	2013	33.12857143
+Dalian	Dalian	74	2014	53
+Dalian	Dalian	81	2015	48
+Dalian	Dalian	67	2016	39
+China	Dandong	76	2015	46
+China	Dandong	71	2016	42
+China	Daqing	62	2015	45
+China	Dazhou	86	2016	56
+China	Deyang	75	2015	53
+China	Deyang	91	2016	55
+China	Dezhou	215.7623874	2015	101
+China	Dezhou	141	2016	81
+China	Dingxi	75	2016	36
+China	Dongguan	65	2013	48
+China	Dongguan	60	2014	45
+China	Dongguan	51	2015	36
+China	Dongguan	49	2016	35
+China	Dongying	136	2015	79
+China	Enshi	69	2016	48
+China	Erdos	69	2015	27
+China	Erdos	63	2016	24
+China	Ezhou	100	2016	60
+China	Fangchenggang	45	2016	29
+China	Foshan	83	2013	53
+China	Foshan	66	2014	45
+China	Foshan	58	2015	39
+China	Foshan	55	2016	38
+China	Fushun	93	2015	53
+China	Fushun	78	2016	44
+China	Fuxin	83	2016	38.85292567
+China	Fuzhou	64	2013	36
+China	Fuzhou	61.95157658	2015	29
+China	Fuzhou	50	2016	27
+China	Gannan	70	2016	38
+China	Ganzhou	68	2016	45
+China	Guang'an	78	2016	46
+China	Guangyuan	69.6	2016	27.9
+China	Guangzhou	72	2013	53
+China	Guangzhou	67	2014	49
+China	Guangzhou	59	2015	39
+China	Guangzhou	56	2016	36
+China	Guigang	55	2016	38
+China	Guilin	70	2015	51
+China	Guilin	64	2016	47
+China	Guiyang	86	2013	53
+China	Guiyang	73	2014	48
+China	Guiyang	61	2015	39
+China	Guiyang	63	2016	37
+China	Guoluo	72	2016	37
+China	Haibei	76	2016	32
+China	Haidong	114	2016	46
+China	Haikou	47	2013	27
+China	Haikou	42	2014	24
+China	Haikou	40	2015	22
+China	Haikou	39	2016	21
+China	Hainan	69	2016	31
+China	Haixi	65	2016	27
+China	Handan	238	2013	138
+China	Handan	187	2014	116
+China	Handan	166	2015	91
+China	Handan	175.1734234	2016	82
+China	Hangzhou	149.5382883	2013	70
+China	Hangzhou	85	2015	57
+China	Hangzhou	104.6768018	2016	49
+China	Harbin	119	2013	81
+China	Harbin	111	2014	72
+China	Harbin	149.5382883	2015	70
+China	Harbin	74	2016	52
+China	Hebi	128	2016	73
+China	Hechi	55	2016	34
+China	Hefei	115	2013	88
+China	Hefei	113	2014	83
+China	Hefei	91.9	2015	66
+China	Hefei	83	2016	57
+China	Hengshui	217	2013	122
+China	Hengshui	192	2014	108
+China	Hengshui	174	2015	99
+China	Hengshui	143	2016	87
+China	Hengyang	76	2016	52
+China	Heyuan	49	2015	34
+China	Heyuan	46	2016	32
+China	Heze	155	2015	94
+China	Heze	143	2016	82
+China	Hohhot	145	2013	56
+China	Hohhot	103	2015	43
+China	Hohhot	87.58671171	2016	41
+China	Hong Kong	39.73333333	2015	26.26666667
+China	Hong Kong	34.5	2016	22.85714286
+China	Huai'an	114	2013	53.36425936
+China	Huai'an	105	2014	68
+China	Huai'an	96	2015	58
+China	Huai'an	92	2016	53
+China	Huaibei	87	2016	40.72535582
+China	Huaihua	79	2016	42
+China	Huainan	85	2016	56
+China	Huanggang	75	2016	51
+China	Huangnan	86	2016	45
+China	Huangshan	45	2016	28
+China	Huangshi	89	2016	57
+China	Huizhou	81.17792793	2013	38
+China	Huizhou	50	2015	27
+China	Huizhou	45	2016	27
+China	Huludao	99	2015	54
+China	Huludao	87	2016	47
+China	Huzhou	109	2013	51.02372167
+China	Huzhou	115.3581081	2015	54
+China	Huzhou	100.4042793	2016	47
+China	Ji'nan	192.2635135	2014	90
+China	Ji'ning	140	2015	82
+China	Jiangmen	76	2013	50
+China	Jiangmen	64	2014	44
+China	Jiangmen	50	2015	34
+China	Jiangmen	55	2016	34
+China	Jiaozuo	150	2015	87
+China	Jiaozuo	142	2016	85
+China	Jiaxing	145.2657658	2013	68
+China	Jiaxing	81	2014	57
+China	Jiaxing	113.2218468	2015	53
+China	Jiaxing	93.9954955	2016	44
+China	Jiayuguan	98	2015	45.87453875
+China	Jiayuguan	98	2016	33
+China	Jieyang	56	2015	39
+China	Jieyang	60	2016	39
+China	Jilin	98	2015	59
+China	Jilin	69	2016	42
+China	Jinan	157	2015	87
+China	Jinan	141	2016	73
+China	Jinchang	104	2016	32
+China	Jincheng	111	2016	62
+China	Jingmen	99	2016	58
+China	Jingzhou	109	2015	70
+China	Jingzhou	100	2016	60
+China	Jinhua	99	2013	70
+China	Jinhua	136.7207207	2014	64
+China	Jinhua	115.3581081	2015	54
+China	Jinhua	98.26801802	2016	46
+China	Jinzhong	109	2016	62
+China	Jinzhou	92	2015	60
+China	Jinzhou	81	2016	55
+China	Jiujiang	74	2016	50
+China	Jixi	53	2016	28
+China	Kaifeng	122	2016	72
+China	Karamay	64	2015	31
+China	Karamay	55	2016	30
+China	Kunming	82	2013	42
+China	Kunming	56	2015	30
+China	Kunming	55	2016	28
+China	Laiwu	133	2015	84
+China	Laiwu	127	2016	73
+China	Langfang	184	2013	110
+China	Langfang	159	2014	100
+China	Langfang	137	2015	85
+China	Langfang	112	2016	66
+China	Lanzhou	153	2013	67.1
+China	Lanzhou	126	2014	58.98154982
+China	Lanzhou	120	2015	52
+China	Lanzhou	132	2016	54
+China	Leshan	92.9	2016	63.3
+China	Lhasa	55.54279279	2013	26
+China	Lhasa	55.54279279	2015	26
+China	Lianyungang	119	2013	67
+China	Lianyungang	111	2014	61.2
+China	Lianyungang	94	2015	55
+China	Lianyungang	87	2016	46
+China	Liaocheng	164	2015	101
+China	Liaocheng	151	2016	86
+China	Liaoyang	83	2016	47
+China	Liaoyuan	63	2016	46
+China	Lincang	43.5	2016	28
+China	Linfen	89	2015	59
+China	Linfen	158.0833333	2016	74
+China	Lishui	65	2013	49
+China	Lishui	62	2014	39
+China	Lishui	81.17792793	2015	38
+China	Lishui	70.49662162	2016	33
+China	Liupanshui	68	2016	39
+China	Liuzhou	70	2015	50
+China	Liuzhou	66	2016	44
+China	Longyan	44	2016	24
+China	Loudi	71	2016	46
+China	Lu'an	73	2016	46
+China	Luohe	130	2016	77
+China	Luoyang	130	2016	79
+China	Luzhou	89	2015	61
+China	Luzhou	86.8	2016	64
+China	Ma'anshan	87	2015	61
+China	Ma'anshan	75	2016	49
+China	Maoming	48	2015	32
+China	Maoming	47	2016	30
+China	Meizhou	51	2015	35
+China	Meizhou	46	2016	28
+China	Mianyang	72	2015	47
+China	Mianyang	78	2016	49
+China	Mudanjiang	78	2015	48
+China	Mudanjiang	68	2016	37
+China	Nanchang	116	2013	69
+China	Nanchang	85	2014	52
+China	Nanchang	75	2015	43
+China	Nanchang	91.85923423	2016	43
+China	Nanjing	137	2013	77
+China	Nanjing	123	2014	73.8
+China	Nanjing	96	2015	57
+China	Nanjing	85.2	2016	47.9
+China	Nanning	90	2013	57
+China	Nanning	84	2014	49
+China	Nanning	72	2015	41
+China	Nanning	62	2016	36
+China	Nanping	37	2016	25
+China	Nantong	108	2013	72
+China	Nantong	96	2014	62
+China	Nantong	88	2015	58
+China	Nantong	70	2016	46
+China	Nanyang	119	2016	63
+China	Neijiang	76	2016	54
+China	Ningbo	86	2013	54
+China	Ningbo	73	2014	46
+China	Ningbo	69	2015	45
+China	Ningbo	62	2016	39
+China	Ningde	46	2016	27
+China	Panjin	67	2016	40
+China	Panzhihua	64	2015	32
+China	Panzhihua	65	2016	32
+China	Pingdingshan	125	2016	75
+China	Pingliang	80	2016	41
+China	Putian	43	2016	29
+China	Puyang	137	2016	69
+China	Qiandongnan	45	2016	28
+China	Qingdao	107	2013	66
+China	Qingdao	107	2014	59
+China	Qingdao	94	2015	51
+China	Qingdao	85	2016	45
+China	Qingyuan	51	2015	33
+China	Qingyuan	52	2016	36
+China	Qinhuangdao	124	2013	65
+China	Qinhuangdao	114	2014	60
+China	Qinhuangdao	99	2015	45
+China	Qinhuangdao	87	2016	46
+China	Qinzhou	79.04166667	2016	37
+China	Qiqihar	63	2015	38
+China	Qiqihar	61	2016	36
+China	Quanzhou	48	2016	28
+China	Quzhou	121.7668919	2014	57
+China	Quzhou	96.13175676	2015	45
+China	Quzhou	91.85923423	2016	43
+China	Rizhao	102	2015	57
+China	Rizhao	101	2016	55
+China	Sanmenxia	134	2015	75
+China	Sanmenxia	127	2016	66
+China	Sanming	46	2016	26
+China	Sanya	32	2015	17
+China	Sanya	28	2016	14
+China	Shanghai	82	2013	62
+China	Shanghai	71	2014	52
+China	Shanghai	69	2015	53
+China	Shanghai	59	2016	45
+China	Shangluo	72	2016	39
+China	Shangqiu	127	2016	77
+China	Shangrao	70	2016	41
+China	Shantou	52	2015	33
+China	Shantou	48	2016	30
+China	Shanwei	41	2015	28
+China	Shanwei	38	2016	24
+China	Shaoguan	50	2015	34
+China	Shaoguan	51	2016	33
+China	Shaoxing	98	2013	45.87453875
+China	Shaoxing	134.5844595	2014	63
+China	Shaoxing	79	2015	56
+China	Shaoxing	68	2016	45
+China	Shaoyang	77	2016	54
+China	Shenyang	129	2013	78
+China	Shenyang	124	2014	74
+China	Shenyang	115	2015	72
+China	Shenyang	94	2016	54
+China	Shenzhen	62	2013	39.6
+China	Shenzhen	53	2014	34
+China	Shenzhen	49	2015	30
+China	Shenzhen	42	2016	27
+China	Shijiazhuang	309	2013	156
+China	Shijiazhuang	216	2014	126
+China	Shijiazhuang	147	2015	89
+China	Shiyan	81	2016	51
+China	Shizuishan	114	2016	47
+China	Shuangyashan	55	2016	34
+China	Siping	77	2016	46
+China	Songyuan	69	2016	35
+China	Suining	68	2016	44
+China	Suizhou	88	2016	56
+China	Suqian	126	2013	76
+China	Suqian	113	2014	67.5
+China	Suqian	130.3119369	2015	61
+China	Suqian	119.6306306	2016	56
+China	Suzhou	95	2013	69
+China	Suzhou	86	2014	66
+China	Suzhou	80	2015	58
+China	Suzhou	72	2016	46
+China	Tai'an	126	2015	69
+China	Tai'an	112.266	2016	63.066
+China	Taiyuan	138	2014	72
+China	Taiyuan	132.4481982	2015	62
+China	Taiyuan	125	2016	66
+China	Taizhou	75	2013	53
+China	Taizhou	71	2014	43
+China	Taizhou(Jiangsu Province)	101	2015	60
+China	Taizhou(Jiangsu Province)	87	2016	51
+China	Taizhou(Zhejiang Province)	66	2015	39
+China	Taizhou(Zhejiang Province)	76.90540541	2016	36
+China	Tangshan	184	2013	115
+China	Tangshan	163	2014	101
+China	Tangshan	141	2015	85
+China	Tangshan	127	2016	74
+China	Tianjin	150	2013	96
+China	Tianjin	133	2014	83
+China	Tianjin	116	2015	70
+China	Tianjin	103	2016	69
+China	Tianshui	80	2016	42
+China	Tieling	83	2016	48
+China	Tongchuan	104	2015	58
+China	Tongchuan	104	2016	59
+China	Tonghua	76	2016	42
+China	Tongling	77.8	2016	50.9
+China	Tongren	50	2016	25
+China	Urumqi	141	2013	87
+China	Urumqi	146	2014	61
+China	Urumqi	133	2015	66
+China	Urumqi	115	2016	74
+China	Wei'nan	110	2015	60
+China	Wei'nan	139	2016	76
+China	Weihai	65	2015	38
+China	Weihai	63	2016	35
+China	Wenzhou	95	2013	58
+China	Wenzhou	75	2014	46
+China	Wenzhou	93.9954955	2015	44
+China	Wenzhou	81.17792793	2016	38
+China	Wuhai	111	2016	46
+China	Wuhan	124	2013	94
+China	Wuhan	113	2014	82
+China	Wuhan	104	2015	70
+China	Wuhan	92	2016	57
+China	Wuhu	81	2015	58
+China	Wuhu	75	2016	53
+China	Wuwei	97	2016	39
+China	Wuxi	105	2014	68
+China	Wuxi	94	2015	61
+China	Wuxi	82	2016	53
+China	Wuzhong	98	2016	48
+China	Xi'an	190	2013	105
+China	Xi'an	147	2014	76
+China	Xi'an	125	2015	57
+China	Xi'an	137	2016	71
+China	Xi'ning	106	2015	49
+China	Xi'ning	113	2016	49
+China	Xiamen	62	2013	36
+China	Xiamen	59	2014	37
+China	Xiamen	48	2015	29
+China	Xiamen	47	2016	28
+China	Xiangtan	119.6306306	2015	56
+China	Xiangtan	85	2016	51
+China	Xiangxi	78	2016	44
+China	Xiangyang	93	2016	64
+China	Xianning	77	2016	48
+China	Xianyang	136.7207207	2015	64
+China	Xianyang	149	2016	82
+China	Xiaogan	78	2016	45
+China	Xingtai	294	2013	160
+China	Xingtai	235	2014	131
+China	Xingtai	172	2015	101
+China	Xingtai	185.8547297	2016	87
+China	Xining	163	2013	70
+China	Xining	120	2014	63
+China	Xinxiang	144	2016	84
+China	Xinyang	96	2016	58
+China	Xinzhou	103	2016	56
+China	Xuancheng	68	2016	51
+China	Xuchang	122	2016	68
+China	Xuzhou	123	2013	76
+China	Xuzhou	119	2014	67.3
+China	Xuzhou	122	2015	65
+China	Xuzhou	118	2016	60
+China	Ya'an	68	2016	42
+China	Yanbian	49	2016	31
+China	Yancheng	103	2013	65
+China	Yancheng	92	2014	57.5
+China	Yancheng	85	2015	49
+China	Yancheng	91.85923423	2016	43
+China	Yangjiang	48	2015	32
+China	Yangjiang	44	2016	31
+China	Yangzhou	139.2842342	2014	65.2
+China	Yangzhou	101	2015	55
+China	Yangzhou	87	2016	51
+China	Yantai	77	2015	45
+China	Yantai	76	2016	39
+China	Yibin	82	2015	58
+China	Yichang	97	2016	62
+China	Yinchuan	119	2013	51
+China	Yinchuan	108.9493243	2015	51
+China	Yinchuan	117.2807432	2016	54.9
+China	Yingkou	77	2015	49
+China	Yingkou	73	2016	44
+China	Yingtan	59	2016	41
+China	Yiyang	82	2016	44
+China	Yongzhou	70	2016	45
+China	Yueyang	72	2016	49
+China	Yunfu	54	2015	34
+China	Yunfu	51	2016	34
+China	Yushu	40	2016	17
+China	Zaozhuang	159	2015	92
+China	Zaozhuang	141	2016	81
+China	Zhangjiajie	78	2015	53
+China	Zhangjiajie	72	2016	48
+China	Zhangjiakou	91	2013	40
+China	Zhangjiakou	78	2014	35
+China	Zhangjiakou	78	2015	34
+China	Zhangjiakou	68.36036036	2016	32
+China	Zhangye	90	2016	38
+China	Zhangzhou	65	2016	33
+China	Zhanjiang	45	2015	28
+China	Zhanjiang	39	2016	26
+China	Zhaoqing	116.853491	2013	54.7
+China	Zhaoqing	74	2014	52
+China	Zhaoqing	56	2015	39
+China	Zhaoqing	55	2016	37
+China	Zhaoyang	69	2016	39
+China	Zhengzhou	171	2013	108
+China	Zhengzhou	158	2014	88
+China	Zhengzhou	187.990991	2015	88
+China	Zhengzhou	143	2016	78
+China	Zhenjiang	124	2013	72
+China	Zhenjiang	96	2014	67.5
+China	Zhenjiang	82	2015	59
+China	Zhenjiang	80	2016	50
+China	Zhongshan	66	2013	49
+China	Zhongshan	57	2014	38
+China	Zhongshan	49	2015	33
+China	Zhongshan	44	2016	30
+China	Zhoukou	113	2016	68
+China	Zhoushan	64.08783784	2014	30
+China	Zhoushan	64.08783784	2015	30
+China	Zhoushan	53.40653153	2016	25
+China	Zhuhai	59	2013	38
+China	Zhuhai	51	2015	31
+China	Zhuhai	41	2016	26
+China	Zhumadian	120	2016	68
+China	Zhuzhou	86	2015	55
+China	Zhuzhou	83	2016	51
+China	Zigong	103	2015	73
+China	Zigong	99	2016	73
+China	Ziyang	95	2016	49
+China	Zunyi	69	2016	44
+France	Agen	18.10144718	2013	12.0177102
+France	Agen	15.28858385	2014	10.15022546
+France	Agen	17.72371645	2015	11.76693144
+France	Agen	13.63757104	2016	9.054103515
+France	Airvault	19.12851239	2013	12.69958783
+France	Airvault	15.42039497	2014	10.23773602
+France	Airvault	17.60613454	2015	11.68886777
+France	Airvault	15.18828148	2016	10.08363383
+France	Aix-En-Provence	30.12669186	2013	20.00137604
+France	Aix-En-Provence	21.38252283	2014	10.83646917
+France	Aix-En-Provence	23.55486119	2015	12.93340162
+France	Aix-En-Provence	21.3526725	2016	12.94543223
+France	Ajaccio	24.67919407	2013	16.38473428
+France	Ajaccio	26.90939789	2014	17.86538624
+France	Ajaccio	23.79767128	2015	15.79948354
+France	Ajaccio	26.89226457	2016	17.85401128
+France	Albertville	20.93976012	2013	13.90209115
+France	Albertville	16.64777815	2014	11.05260652
+France	Albertville	19.14538434	2015	12.71078927
+France	Albertville	16.316683	2016	10.83278954
+France	Albi	17.08881086	2013	11.34541203
+France	Albi	15.33678538	2014	10.18222688
+France	Albi	16.41247136	2015	15.29866996
+France	Albi	14.18795939	2016	9.419511187
+France	Ambilly	23.5279672	2013	15.71626083
+France	Ambilly	15.32727798	2014	10.17591483
+France	Amiens	24.36791322	2013	16.17807219
+France	Amiens	20.70897321	2014	13.74886969
+France	Amiens	20.82440748	2015	12.43595984
+France	Amiens	20.71108522	2016	11.77441821
+France	Angers	19.28519624	2013	13.80717051
+France	Angers	18.16928424	2014	11.60933219
+France	Angers	17.1277103	2015	12.3153413
+France	Angers	17.0171232	2016	12.37157362
+France	Anglet	24.51419372	2013	16.2751891
+France	Anglet	31.28620331	2015	20.7711859
+France	Anglet	24.34276025	2016	16.16137291
+France	Angouleme	20.28125124	2013	13.22490117
+France	Angouleme	14.87657077	2014	8.61273401
+France	Angouleme	18.92111753	2015	11.26279014
+France	Angouleme	16.63463641	2016	9.77553624
+France	Annecy	23.00899453	2013	19.20785793
+France	Annecy	22.24773475	2014	14.77046703
+France	Annecy	21.41139369	2015	17.68598735
+France	Annemasse	20.04258735	2013	15.25649534
+France	Annemasse	16.31890538	2014	11.31617667
+France	Annemasse	19.48583137	2015	15.526912
+France	Annemasse	18.00530914	2016	13.17351593
+France	Antibes	26.59365008	2013	17.65575849
+France	Arles	28.37731674	2013	18.83995049
+France	Arles	18.41369031	2014	12.22501116
+France	Arles	24.99347196	2015	16.59338614
+France	Arles	20.87241017	2016	13.85737693
+France	Armentieres	22.58017756	2013	14.99117874
+France	Armentieres	17.66675684	2014	11.72911545
+France	Armentieres	17.3305032	2015	11.5058737
+France	Armentieres	16.32268111	2016	10.83677174
+France	Arrest	19.89163069	2013	13.20622879
+France	Arrest	5.28679761	2014	3.509951492
+France	Arrest	18.37994058	2015	12.20260442
+France	Arrest	17.03043993	2016	11.30665905
+France	Atton	16.68903549	2013	11.07999764
+France	Atton	14.83781392	2014	9.850955333
+France	Atton	16.46157296	2015	10.92898326
+France	Atton	17.38546433	2016	11.54236288
+France	Aubenas	15.7894603	2015	10.48276175
+France	Aurillac	15.27034997	2013	10.13811983
+France	Aurillac	13.56565656	2014	9.006358858
+France	Aurillac	15.52119264	2015	10.30465648
+France	Aurillac	10.58351619	2016	7.026489604
+France	Auxerre	18.65032891	2013	12.38211761
+France	Auxerre	16.08388272	2015	11.7042806
+France	Auxerre	13.27857074	2016	9.77460487
+France	Avignon	22.45806545	2013	14.73021335
+France	Avignon	19.954314	2014	11.35633124
+France	Avignon	25.07421829	2015	16.64699434
+France	Avignon	22.6637296	2016	11.72440175
+France	Aytre	22.13029674	2013	14.6924989
+France	Aytre	19.61562899	2014	13.02298883
+France	Aytre	20.13670162	2015	13.36893354
+France	Aytre	17.00775318	2016	11.29159712
+France	Baie Mahault	32.03981926	2015	21.27151817
+France	Baie Mahault	23.17671493	2016	15.38722515
+France	Bar-Le-Duc	17.84843561	2013	11.84973359
+France	Bar-Le-Duc	17.4206885	2015	11.56574851
+France	Bar-Le-Duc	14.38303794	2016	9.549025555
+France	Bassens	20.04421042	2013	12.95677228
+France	Bassens	17.62571391	2014	10.02634782
+France	Bassens	21.33786309	2015	14.16639522
+France	Bassens	16.75894207	2016	11.98866013
+France	Bastia	22.74994328	2013	9.70443158
+France	Bastia	24.96156422	2014	9.98839972
+France	Bastia	21.53967893	2015	9.18776205
+France	Bastia	15.33571867	2016	10.18151868
+France	Baume-Les-Dames	16.75422607	2016	11.76383203
+France	Bayonne	19.74081398	2013	11.55979731
+France	Bayonne	17.3331374	2014	7.67386203
+France	Bayonne	19.75903194	2015	11.5146829
+France	Bayonne	15.75637393	2016	10.46079541
+France	Beauvais	23.90540065	2013	15.87100602
+France	Beauvais	21.10902142	2014	14.59997023
+France	Beauvais	22.88364624	2015	14.34140195
+France	Beauvais	22.0353705	2016	14.60801066
+France	Belfort	24.04569515	2013	15.96414877
+France	Belfort	19.14647134	2015	12.71151094
+France	Belfort	15.96551314	2016	10.59964478
+France	Belleville-Sur-Meuse	24.43525124	2015	16.22277849
+France	Belleville-Sur-Meuse	20.60816105	2016	13.68193961
+France	Besancon	28.71362429	2013	19.06322804
+France	Besancon	21.37817715	2014	13.60248733
+France	Besancon	19.87831826	2015	15.03400867
+France	Besancon	16.49074038	2016	12.84246345
+France	Bessieres	18.95121002	2013	12.58187523
+France	Bessieres	18.64729201	2015	12.38010139
+France	Bessieres	13.68245237	2016	9.083900625
+France	Betheny	23.31660463	2013	15.48009915
+France	Betheny	19.72983323	2015	13.09881004
+France	Bethune	25.84209402	2013	18.38941843
+France	Bethune	19.74321977	2014	13.10769748
+France	Bethune	19.11094024	2015	14.05723257
+France	Bethune	19.8747747	2016	13.8618779
+France	Biarritz	19.15524712	2016	12.71733726
+France	Billere	16.49169189	2013	11.60830956
+France	Billere	14.4474488	2014	9.87490807
+France	Billere	17.38803609	2015	10.60626881
+France	Billere	12.23418753	2016	7.12726305
+France	Bizanos	17.7940976	2013	11.8136581
+France	Bizanos	14.25709587	2014	9.465411505
+France	Bizanos	19.33394007	2015	12.83597308
+France	Bizanos	12.51710906	2016	8.310218939
+France	Blagnac	15.51350254	2016	10.29955096
+France	Blenod-Les-Pont-A-Mousson	20.35941104	2013	13.51679229
+France	Blenod-Les-Pont-A-Mousson	17.88291895	2014	11.87262738
+France	Blenod-Les-Pont-A-Mousson	19.65977261	2015	13.05229617
+France	Blenod-Les-Pont-A-Mousson	16.70985801	2016	11.09382189
+France	Blois	18.28467384	2013	12.13935599
+France	Blois	16.22521272	2015	10.77206161
+France	Blois	16.39274233	2016	10.883286
+France	Bobigny	24.05380579	2013	16.79093569
+France	Bobigny	21.39686301	2014	13.51966894
+France	Bobigny	21.23545292	2015	13.43188344
+France	Bobigny	20.66681683	2016	12.57708048
+France	Bois-Herpin	19.96074189	2013	11.14030441
+France	Bois-Herpin	12.11317973	2014	8.0420467
+France	Bois-Herpin	15.89304771	2015	9.64724349
+France	Bois-Herpin	13.77060766	2016	8.63724736
+France	Bordeaux	24.59508804	2013	16.32889555
+France	Bordeaux	18.81932372	2014	12.49431475
+France	Bordeaux	21.93295425	2015	14.56148148
+France	Bordeaux	20.2001409	2016	13.41105144
+France	Boulogne-Sur-Mer	24.34415756	2013	16.16230059
+France	Boulogne-Sur-Mer	27.75966075	2015	18.42988324
+France	Bourg-En-Bresse	18.05659393	2013	11.98793173
+France	Bourg-En-Bresse	15.55998507	2014	10.33041112
+France	Bourg-En-Bresse	19.94474454	2015	13.24149155
+France	Bourg-En-Bresse	18.78248528	2016	12.46985739
+France	Bourg-Les-Valence	22.15196482	2013	17.97873947
+France	Bourg-Les-Valence	20.69942393	2014	13.74252984
+France	Bourg-Les-Valence	23.6448845	2015	15.47622115
+France	Bourg-Les-Valence	20.75278583	2016	13.6083731
+France	Bourges	22.09361142	2013	14.66814319
+France	Bourges	19.82944063	2014	13.16494027
+France	Bourges	18.00730192	2015	11.95520633
+France	Bourges	15.42016391	2016	10.23758262
+France	Bourgogne	20.53908689	2015	13.63608067
+France	Bourgogne	18.73356775	2016	12.43738061
+France	Bourgoin-Jallieu	17.48453062	2013	11.60813386
+France	Bourgoin-Jallieu	17.54073242	2015	11.64544673
+France	Brest	20.32807254	2013	10.42554391
+France	Brest	18.55860786	2014	12.69953538
+France	Brest	18.7933542	2015	9.13118295
+France	Brest	15.67650388	2016	6.42534104
+France	Brignoles	15.4522286	2016	10.25887065
+France	Brive-La-Gaillarde	16.07344751	2013	10.67130336
+France	Brive-La-Gaillarde	20.92530136	2014	13.89249185
+France	Brive-La-Gaillarde	19.3937424	2015	12.87567637
+France	Caen	22.39088418	2013	14.04744255
+France	Caen	19.54424429	2014	10.63202968
+France	Caen	19.52765974	2015	10.28177313
+France	Caen	20.51189993	2016	13.618031
+France	Cagnes-Sur-Mer	24.21133577	2013	16.07411904
+France	Cagnes-Sur-Mer	21.77560844	2014	14.45701821
+France	Cagnes-Sur-Mer	24.97801868	2015	16.58312657
+France	Calais	25.98433272	2013	14.03155448
+France	Calais	16.39270433	2014	14.02827739
+France	Calais	19.78069915	2015	10.78383823
+France	Calais	19.79480593	2016	12.63419792
+France	Cambrai	24.09902034	2013	16.35980319
+France	Cambrai	15.36489029	2014	10.20088598
+France	Cambrai	20.27463651	2015	12.29968202
+France	Cambrai	19.19635799	2016	12.34976322
+France	Campagne-Les-Boulonnais	21.8099745	2013	15.1599951
+France	Campagne-Les-Boulonnais	18.23036616	2014	12.74094467
+France	Campagne-Les-Boulonnais	18.53925861	2015	10.634034
+France	Campagne-Les-Boulonnais	17.27090543	2016	12.02836348
+France	Cannes	23.77905065	2013	17.52483339
+France	Cannes	20.7645194	2014	12.67693721
+France	Cannes	24.08883591	2015	15.94583256
+France	Cappelle-La-Grande	22.24122041	2014	14.7661421
+France	Cappelle-La-Grande	19.60605835	2015	13.0166348
+France	Cappelle-La-Grande	17.98959329	2016	11.94344941
+France	Carling	17.9452107	2013	11.91398342
+France	Carling	15.12177511	2014	10.03947967
+France	Carling	20.26635182	2015	13.45500945
+France	Carling	16.04504814	2016	10.65244876
+France	Cartignies	20.31941384	2013	13.49023779
+France	Cartignies	15.04939155	2014	9.991423585
+France	Cartignies	17.14028045	2015	11.37958314
+France	Cartignies	16.05550151	2016	10.65938885
+France	Castres	16.91766179	2013	11.23178465
+France	Castres	17.13456524	2015	11.37578876
+France	Castres	14.9698981	2016	9.938647183
+France	Cayenne	30.72576892	2013	20.39910858
+France	Cayenne	28.23245108	2015	18.74377291
+France	Cayenne	23.98906347	2016	15.9265505
+France	Cergy	22.54636481	2013	14.96873016
+France	Cergy	19.48070776	2014	12.93341344
+France	Cergy	20.09442815	2015	13.34086781
+France	Cergy	19.6155708	2016	13.0229502
+France	Cerise	17.68303274	2013	11.73992116
+France	Cerise	16.26372716	2014	10.79763169
+France	Cerise	17.46796975	2015	11.59713895
+France	Cerise	16.39715944	2016	10.88621856
+France	Chalon-Sur-Saone	19.03924633	2013	16.59849325
+France	Chalon-Sur-Saone	19.38877015	2015	13.06193303
+France	Chalon-Sur-Saone	16.9081332	2016	10.3972603
+France	Chalons-En-Champagne	19.96304779	2013	13.25364324
+France	Chalons-En-Champagne	18.18281164	2014	12.07172878
+France	Chalons-En-Champagne	19.70824802	2015	13.08447942
+France	Chamalieres	21.44557942	2013	14.23790904
+France	Chamalieres	18.74925799	2014	12.4477975
+France	Chamalieres	15.45716804	2016	10.26214999
+France	Chambery	21.53098534	2013	19.13087787
+France	Chambery	17.47126736	2014	11.59932826
+France	Chambery	21.39132238	2015	15.84753794
+France	Chambery	19.44301079	2016	15.35567213
+France	Chamonix-Mont-Blanc	21.31731763	2013	14.15275491
+France	Chamonix-Mont-Blanc	17.47723222	2014	11.60328839
+France	Chamonix-Mont-Blanc	19.58585209	2015	13.00321969
+France	Chamonix-Mont-Blanc	16.83316172	2016	11.17568431
+France	Champforgeuil	17.16609535	2013	11.39672188
+France	Champforgeuil	13.75798939	2015	9.134050318
+France	Champforgeuil	11.21196344	2016	7.443721268
+France	Charleville-Mezieres	19.64805582	2013	13.04451729
+France	Charleville-Mezieres	17.98661386	2014	11.94147134
+France	Charleville-Mezieres	19.68746411	2015	13.0706808
+France	Chateauneuf-Les-Martigues	28.79665445	2013	19.11835249
+France	Chateauneuf-Les-Martigues	15.46298209	2014	10.26600999
+France	Chateauneuf-Les-Martigues	21.94715281	2015	14.57090803
+France	Chateauneuf-Les-Martigues	21.28974462	2016	14.13444894
+France	Chateauroux	19.12042181	2013	12.69421643
+France	Chateauroux	14.73220603	2015	9.780841325
+France	Chateauroux	13.35109066	2016	8.863906668
+France	Chatenois	13.25849225	2013	8.802429768
+France	Chatenois	10.0739755	2014	6.688201052
+France	Chatenois	11.35307816	2015	7.537408573
+France	Chauny	23.62567318	2013	15.68529249
+France	Chauny	19.32186665	2015	12.82795743
+France	Cherbourg-Octeville	22.42793736	2013	14.89010513
+France	Cherbourg-Octeville	19.8206559	2014	13.15910801
+France	Cherbourg-Octeville	21.48061229	2015	14.26116767
+France	Cherbourg-Octeville	19.53724021	2016	12.97094583
+France	Cholet	17.98088926	2014	11.93767073
+France	Cholet	16.52229818	2015	10.96929927
+France	Cholet	17.37560459	2016	11.53581691
+France	Clermont-Ferrand	20.74448113	2013	13.25500856
+France	Clermont-Ferrand	16.87862956	2014	10.31887275
+France	Clermont-Ferrand	17.36189328	2015	12.29106465
+France	Clermont-Ferrand	16.26619233	2016	12.35566609
+France	Cognac	20.28396956	2013	13.46670602
+France	Cognac	17.52545522	2015	11.63530406
+France	Cognac	14.99268387	2016	9.953774857
+France	Colmar	23.67054026	2013	15.71508014
+France	Colmar	18.3165622	2014	12.16052695
+France	Colmar	20.91648646	2015	13.88663956
+France	Colmar	17.45169425	2016	11.5863335
+France	Contes	29.54417495	2013	19.61463793
+France	Contes	28.63623775	2016	19.01185043
+France	Coulommiers	29.92297926	2013	19.86612945
+France	Coulommiers	29.43982944	2014	19.54536203
+France	Coulommiers	31.62364109	2015	20.99521382
+France	Coulommiers	29.48263181	2016	19.5737789
+France	Creil	22.33255489	2013	17.93224458
+France	Creil	20.07963333	2014	12.5913488
+France	Creil	19.15286111	2015	11.84082879
+France	Creil	19.03793711	2016	11.22918778
+France	Crolles	21.78977522	2013	14.46642366
+France	Crolles	13.49436187	2014	8.959025686
+France	Crolles	21.46435532	2015	14.25037453
+France	Crolles	18.20359615	2016	12.0855278
+France	Daix	21.52062293	2013	14.28773109
+France	Dax	23.75468151	2013	14.53092612
+France	Dax	16.6804487	2014	11.07429679
+France	Dax	22.25391061	2015	13.87108435
+France	Dax	17.03532514	2016	8.84881146
+France	Denain	24.78146233	2013	16.45263108
+France	Denain	18.96559636	2015	12.59142645
+France	Denain	18.93722705	2016	12.57259181
+France	Dieppe	24.18063127	2014	13.46517651
+France	Dieppe	26.52804335	2015	17.01082364
+France	Dieppe	25.98106398	2016	14.72166968
+France	Dijon	19.15206524	2013	13.76121145
+France	Dijon	15.1830194	2014	9.8865389
+France	Dijon	17.11826069	2015	13.48330553
+France	Dijon	15.25986386	2016	11.70246186
+France	Dole	14.83739077	2014	9.8506744
+France	Dole	17.94077163	2015	11.91103628
+France	Dole	16.92604571	2016	11.23735081
+France	Donges	19.75078626	2013	13.11272094
+France	Donges	16.58163242	2014	11.00869179
+France	Donges	17.1888696	2015	11.4118419
+France	Donges	15.91781845	2016	10.56797985
+France	Douai	19.9075348	2014	13.21678767
+France	Douai	20.27220891	2016	13.71654423
+France	Dreux	20.55767476	2013	13.64842132
+France	Dreux	14.21808722	2014	9.439513319
+France	Dreux	14.80335642	2015	9.828078695
+France	Dreux	16.62940484	2016	11.04040832
+France	Dunkerque	24.13194153	2013	16.22099787
+France	Dunkerque	22.08088641	2014	15.44246118
+France	Dunkerque	21.62731555	2015	11.85715349
+France	Dunkerque	21.20527619	2016	11.29056949
+France	Echirolles	34.10217978	2013	23.42247454
+France	Echirolles	27.0012603	2014	17.9263745
+France	Echirolles	30.98726668	2015	20.10030935
+France	Epernay	22.16126255	2015	14.62332722
+France	Epinal	18.0876926	2013	12.00857841
+France	Epinal	14.47547504	2014	9.610395359
+France	Epinal	14.72957622	2015	9.779095371
+France	Epinal	13.59924678	2016	9.028659701
+France	Escautpont	24.02105476	2013	15.9477898
+France	Escautpont	19.17960349	2015	12.73350766
+France	Escautpont	20.60005613	2016	13.67655868
+France	Evin-Malmaison	20.07732667	2015	13.32951399
+France	Evreux	16.71079067	2015	14.30597079
+France	Evreux	16.23540154	2016	15.81247659
+France	Feyzin	25.18503822	2013	16.72056867
+France	Feyzin	17.0044726	2014	11.28941911
+France	Feyzin	25.59578015	2015	16.99326385
+France	Feyzin	21.49719536	2016	14.27217732
+France	Fleville-Devant-Nancy	19.4311677	2013	12.90052336
+France	Fleville-Devant-Nancy	17.07778767	2014	11.33809363
+France	Fleville-Devant-Nancy	18.18320423	2016	12.07198942
+France	Florange	19.50289855	2013	12.9481461
+France	Florange	21.74473122	2014	14.43651856
+France	Florange	19.31343379	2015	12.82235878
+France	Fontaine	22.38727628	2013	14.86310988
+France	Fontaine	19.45747831	2014	12.91799121
+France	Fontaine	21.67862868	2015	14.3926325
+France	Fontaine	19.07388258	2016	12.66331862
+France	Fontainebleau	17.50176336	2013	11.61957483
+France	Fontainebleau	13.100375	2014	8.69745433
+France	Fontainebleau	13.8112524	2015	9.1694121
+France	Fontainebleau	13.56276504	2016	9.00443915
+France	Forbach	23.31902615	2013	13.81979693
+France	Forbach	23.43582875	2014	14.50866003
+France	Forbach	20.9516619	2015	13.10766741
+France	Forbach	17.36045297	2016	10.69685525
+France	Fort-De-France	31.4038131	2013	9.56154641
+France	Fort-De-France	32.15035902	2014	9.01680173
+France	Fort-De-France	37.17065187	2015	12.34273165
+France	Fort-De-France	41.28840787	2016	11.90597102
+France	Fos-Sur-Mer	27.69893409	2013	18.38956628
+France	Fos-Sur-Mer	21.9606786	2014	14.57988792
+France	Fos-Sur-Mer	24.0847027	2015	15.99004623
+France	Fos-Sur-Mer	19.71026373	2016	13.08581767
+France	Fremainville	18.56694209	2013	12.32675637
+France	Fremainville	16.6480057	2014	11.0527576
+France	Fremainville	16.37441961	2015	10.87112138
+France	Fremainville	16.67089794	2016	11.06795596
+France	Frolois	16.7687213	2016	11.13290175
+France	Frossay	14.92473943	2014	9.908665944
+France	Frossay	15.88895665	2015	10.54881825
+France	Frossay	14.8836783	2016	9.881405099
+France	Gaillard	23.5279672	2013	15.71626083
+France	Gaillard	15.32727798	2014	10.17591483
+France	Gandrange	18.86204809	2013	12.52267984
+France	Gandrange	20.53258219	2014	13.63176214
+France	Gandrange	19.45361559	2015	12.91542671
+France	Gandrange	17.01310215	2016	11.29514835
+France	Gap	19.34090604	2013	12.06144629
+France	Gap	20.56743721	2014	12.18001929
+France	Gap	21.39364425	2015	14.58558403
+France	Gap	18.90004564	2016	12.95098526
+France	Gardanne	26.3477054	2013	17.49247365
+France	Gardanne	22.64169986	2014	12.61986721
+France	Gardanne	28.91719401	2015	15.36624202
+France	Gardanne	25.80790253	2016	17.13409377
+France	Genas	23.77226662	2013	15.78261716
+France	Genas	17.72312899	2014	11.76654142
+France	Genas	23.67666823	2015	15.71914855
+France	Genas	20.25696527	2016	13.44877764
+France	Gennevilliers	26.65173227	2013	16.41799116
+France	Gennevilliers	16.14987214	2014	13.13319748
+France	Gennevilliers	21.54022099	2015	13.26350041
+France	Gennevilliers	20.53568979	2016	13.51126645
+France	Gonesse	24.05864142	2013	15.97274391
+France	Gonesse	20.29825902	2014	13.47619292
+France	Gonesse	20.85136954	2015	13.84340787
+France	Gonesse	19.85930929	2016	13.18477033
+France	Grand-Couronne	18.70931652	2015	12.42128
+France	Grand-Couronne	19.22262644	2016	12.76207098
+France	Grande-Synthe	28.44184699	2013	18.88279269
+France	Grande-Synthe	25.47861378	2014	16.91547607
+France	Grande-Synthe	24.42868656	2015	16.21842014
+France	Grande-Synthe	21.27201971	2016	14.12268122
+France	Gravelines	22.25744953	2013	14.77691676
+France	Gravelines	18.82362452	2015	12.49717009
+France	Gravelines	20.21280583	2016	13.4194598
+France	Grenoble	26.8620162	2013	16.37011814
+France	Grenoble	26.96782648	2014	11.70408333
+France	Grenoble	25.51957146	2015	15.82445399
+France	Grenoble	20.91028378	2016	13.71863399
+France	Gueret	16.61418742	2013	11.03030534
+France	Gueret	14.44803374	2014	9.592176839
+France	Gueret	15.944105	2015	10.58543172
+France	Guipry	14.68789364	2013	9.56459764
+France	Guipry	12.78070662	2014	8.35513812
+France	Guipry	13.74026278	2015	8.91381401
+France	Guipry	14.55929885	2016	8.83340986
+France	Hayange	20.86890374	2013	13.85504898
+France	Hayange	15.512891	2014	10.29914495
+France	Hayange	17.74197417	2015	11.7790529
+France	Hayange	15.98955966	2016	10.61560947
+France	Heming	24.09198917	2013	15.99488378
+France	Heming	20.93379558	2016	13.89813124
+France	Hornaing	23.73346421	2013	15.7568559
+France	Hornaing	19.7065331	2014	13.08334087
+France	Hornaing	22.15758781	2015	14.71061768
+France	Houdelaincourt	13.23765638	2016	8.56068784
+France	Hyeres	25.92117252	2013	17.20929471
+France	Hyeres	17.50305787	2014	11.62043426
+France	Hyeres	17.69599514	2015	11.74852702
+France	Hyeres	18.13132499	2016	12.03754634
+France	Ifs	19.67878928	2013	13.06492151
+France	Ifs	20.43090753	2014	13.56425944
+France	Ifs	21.95007764	2015	14.57284985
+France	Ifs	18.19700941	2016	12.0811548
+France	Issoire	13.58680593	2014	9.020400111
+France	Issoire	12.97865869	2015	8.616645803
+France	Issoire	13.41732749	2016	8.907881882
+France	Issoudun	14.54058671	2015	9.65362357
+France	Issoudun	11.88488827	2016	7.89048199
+France	Jonville-En-Woevre	21.24565234	2013	15.60641564
+France	Jonville-En-Woevre	21.1256647	2014	14.02551484
+France	Jonville-En-Woevre	20.34132779	2015	12.59404337
+France	Jonville-En-Woevre	16.21764809	2016	10.1713925
+France	Joue-Les-Tours	25.27785515	2013	16.78219065
+France	Joue-Les-Tours	17.42451477	2014	11.56828881
+France	Joue-Les-Tours	20.20113378	2015	13.41171062
+France	Joue-Les-Tours	17.77400863	2016	11.80032086
+France	Kourou	22.17768774	2016	14.7239622
+France	L' Hopital	13.83583092	2013	9.185729995
+France	La Calmette	19.73718731	2015	13.10369247
+France	La Calmette	17.20603221	2016	11.42323631
+France	La Coulonche	16.05585333	2013	12.72807794
+France	La Coulonche	12.4425005	2014	8.26068566
+France	La Coulonche	15.29324273	2015	8.07140536
+France	La Coulonche	13.50621	2016	8.26750725
+France	La Couronne	22.46533053	2013	14.91493078
+France	La Couronne	18.91259129	2015	12.55623591
+France	La Couronne	17.62955431	2016	11.70441636
+France	La Lechere	25.99664752	2013	17.25940323
+France	La Lechere	23.71891435	2014	15.74719612
+France	La Lechere	26.42850258	2015	17.54611561
+France	La Lechere	18.17702911	2016	12.0678897
+France	La Mulatiere	37.92004305	2013	22.68887437
+France	La Mulatiere	28.15878663	2014	16.55824519
+France	La Mulatiere	32.57929335	2015	22.10356875
+France	La Plaine Des Cafres	7.03615188	2013	4.671363198
+France	La Plaine Des Cafres	6.38597689	2014	4.239706296
+France	La Plaine Des Cafres	5.15094686	2015	3.419758983
+France	La Plaine Des Cafres	7.55855017	2016	5.018188023
+France	La Roche-Sur-Yon	19.59483745	2014	13.00918515
+France	La Roche-Sur-Yon	20.84818431	2015	13.84129317
+France	La Roche-Sur-Yon	18.17930522	2016	12.06940083
+France	La Rochelle	23.95588506	2013	13.05622857
+France	La Rochelle	19.86242579	2014	9.344990865
+France	La Rochelle	21.94074867	2015	10.32763205
+France	La Rochelle	17.56231081	2016	9.39196107
+France	La Talaudiere	19.81159419	2013	13.15309186
+France	La Talaudiere	17.11035599	2014	11.35971603
+France	La Talaudiere	19.42517807	2015	12.89654679
+France	La Tardiere	16.82928551	2013	11.17311086
+France	La Tardiere	13.49178995	2014	9.06062206
+France	La Tardiere	15.53580325	2015	10.52451401
+France	La Tardiere	14.31174757	2016	10.14919381
+France	Labastide-Cezeracq	18.50542005	2013	12.28591134
+France	Labastide-Cezeracq	16.62872144	2014	11.03995461
+France	Labastide-Cezeracq	19.06104959	2015	12.65479869
+France	Labastide-Cezeracq	12.59877431	2016	8.364437217
+France	Laval	13.49780136	2014	8.961309193
+France	Laval	16.19678504	2015	10.75318823
+France	Laval	16.19434884	2016	10.75157081
+France	Le Creusot	15.71703003	2014	10.43467465
+France	Le Creusot	16.79926292	2015	11.1531786
+France	Le Creusot	11.48836936	2016	7.62722959
+France	Le Havre	23.33171385	2013	14.52769424
+France	Le Havre	17.41190582	2014	11.69699429
+France	Le Havre	20.03966069	2015	10.93747611
+France	Le Havre	17.94962224	2016	12.12795008
+France	Le Lamentin	33.75777455	2015	22.41208382
+France	Le Lamentin	27.35636473	2016	18.16213146
+France	Le Mans	18.61680945	2013	13.51762172
+France	Le Mans	16.52306963	2014	11.90975913
+France	Le Mans	17.19211144	2015	13.00141353
+France	Le Mans	15.12492101	2016	10.00891737
+France	Le Palais-Sur-Vienne	13.88046702	2013	9.215364295
+France	Le Palais-Sur-Vienne	11.65260159	2014	7.736264816
+France	Le Palais-Sur-Vienne	13.35247911	2015	8.864828472
+France	Le Petit-Quevilly	26.8695147	2013	17.83890744
+France	Le Petit-Quevilly	15.8383436	2014	12.85740296
+France	Le Petit-Quevilly	19.75325157	2015	14.14646902
+France	Le Petit-Quevilly	20.5689378	2016	13.65589895
+France	Le Pontet	26.18756736	2013	17.38615659
+France	Le Pontet	23.24641274	2014	15.43349814
+France	Le Pontet	23.20793687	2015	15.40795367
+France	Le Puy-En-Velay	18.21181666	2013	12.09098547
+France	Le Puy-En-Velay	16.99905022	2014	11.28581915
+France	Le Puy-En-Velay	14.70274817	2015	9.761283992
+France	Le Puy-En-Velay	11.95390692	2016	7.936304078
+France	Le Robert	33.25914706	2013	22.08104063
+France	Le Robert	26.04371546	2014	17.29065205
+France	Le Robert	33.39150414	2015	22.16891367
+France	Lens	21.50692607	2013	14.27863762
+France	Lens	16.83741438	2014	11.17850769
+France	Lens	19.26781762	2015	12.7920738
+France	Lens	20.22694796	2016	13.42884888
+France	Les Ancizes-Comps	12.64753951	2013	8.396812863
+France	Les Ancizes-Comps	13.13226404	2015	8.718625747
+France	Les Ancizes-Comps	11.14590218	2016	7.399862615
+France	Les Mazures	14.85786136	2015	9.26683287
+France	Lille	25.93617259	2013	18.53360352
+France	Lille	20.72665863	2014	15.17739898
+France	Lille	21.65864573	2015	15.47544188
+France	Lille	20.61282582	2016	15.88621305
+France	Limoges	17.54221955	2013	11.40745902
+France	Limoges	13.47880707	2014	8.51835045
+France	Limoges	16.74455596	2015	10.40148861
+France	Limoges	14.32811072	2016	9.13087474
+France	Lisieux	21.93348367	2013	14.56183297
+France	Lisieux	18.16242351	2014	12.05819292
+France	Lisieux	15.97219944	2015	10.60408387
+France	Lisieux	16.51648341	2016	10.96543879
+France	Lognes	23.3062857	2013	15.47324833
+France	Lognes	19.07273744	2014	12.66255835
+France	Lognes	18.90572601	2015	12.55167799
+France	Lognes	19.6132571	2016	13.02141412
+France	Longlaville	15.73850504	2013	10.4489321
+France	Lons-Le-Saunier	19.17754896	2013	16.33810114
+France	Lons-Le-Saunier	21.51314445	2014	11.66459935
+France	Lons-Le-Saunier	21.04833274	2015	12.42019235
+France	Lons-Le-Saunier	16.82082005	2016	8.89129229
+France	Lorient	19.83604737	2013	11.46185973
+France	Lorient	14.45468347	2014	10.896715
+France	Lorient	17.66513418	2015	8.98698611
+France	Lorient	16.17390068	2016	9.93796705
+France	Lourdes	12.84338033	2013	9.75026442
+France	Lourdes	14.38188666	2014	9.54826121
+France	Lourdes	16.01820581	2015	9.24800571
+France	Lourdes	14.77426196	2016	8.79752177
+France	Lucciana	19.35380786	2013	12.84916348
+France	Lucciana	18.02440224	2015	11.96655938
+France	Lucciana	17.46399081	2016	11.5944973
+France	Luce	20.66837243	2013	15.17475193
+France	Luce	16.10771803	2014	10.30007762
+France	Luce	16.52247162	2015	10.00187991
+France	Luce	15.76864303	2016	11.48181343
+France	Lunel-Viel	19.27765115	2015	11.80286892
+France	Lunel-Viel	17.67978304	2016	9.58693949
+France	Luneville	25.35255064	2013	16.83178164
+France	Luneville	16.87335461	2014	11.20236872
+France	Luneville	20.52378294	2015	13.62592024
+France	Luneville	18.88801285	2016	12.53991807
+France	Lyon	24.52221222	2013	17.92873026
+France	Lyon	16.24711491	2014	13.75758219
+France	Lyon	25.49838318	2015	17.28549088
+France	Lyon	22.34266087	2016	14.69108104
+France	Macon	17.47057351	2013	11.59886761
+France	Macon	13.20217808	2014	8.765042294
+France	Macon	18.90079122	2015	12.54840174
+France	Macon	15.85499705	2016	10.52627217
+France	Malroy	19.25780802	2013	12.78542834
+France	Malroy	17.68803456	2014	11.74324192
+France	Malroy	18.75354015	2015	12.45064046
+France	Malroy	16.17791894	2016	10.74066286
+France	Manosque	17.63419939	2015	12.47843421
+France	Manosque	15.88722425	2016	11.19594594
+France	Marans	22.44180484	2015	14.89931187
+France	Marcq-En-Baroeul	20.14983211	2015	13.37765099
+France	Marignane	29.00114958	2013	19.25411861
+France	Marignane	20.05702495	2014	13.3160355
+France	Marignane	24.13739252	2015	16.02502746
+France	Marignane	24.55362737	2016	16.30136945
+France	Marmande	24.23428114	2013	13.77595948
+France	Marmande	21.01474719	2014	12.1298194
+France	Marmande	23.21014189	2015	15.18123486
+France	Marmande	17.93830653	2016	9.0015008
+France	Marnaz	18.17554418	2015	12.06690385
+France	Marseille	31.57165224	2013	14.7951693
+France	Marseille	20.81760532	2014	14.19817159
+France	Marseille	28.82574164	2015	15.98409324
+France	Marseille	26.35067642	2016	17.6043918
+France	Martigues	27.85316579	2013	18.49196206
+France	Martigues	14.86592462	2014	9.869618274
+France	Martigues	19.68524397	2015	13.06920683
+France	Martigues	19.17235536	2016	12.72869557
+France	Matoury	30.70455055	2015	20.38502151
+France	Matoury	22.26115332	2016	14.77937574
+France	Maubeuge	19.58332039	2013	13.00153887
+France	Maubeuge	19.22320367	2015	12.76245421
+France	Maubeuge	17.94797565	2016	11.9158191
+France	Melun	28.03550238	2013	20.46790178
+France	Melun	25.66713812	2014	15.41588698
+France	Melun	28.32329457	2015	17.14024576
+France	Melun	26.53704281	2016	15.74995186
+France	Merignac	21.3301903	2015	14.16130119
+France	Merignac	17.89678789	2016	11.88183509
+France	Metz	19.81666541	2013	18.19879423
+France	Metz	19.22589174	2014	15.9419074
+France	Metz	21.10141401	2015	15.00893804
+France	Metz	17.93768571	2016	12.98654121
+France	Meze	18.34841696	2014	15.34660482
+France	Meze	16.56407897	2015	13.45977217
+France	Meze	16.53899164	2016	15.48816186
+France	Miramas	28.10232889	2013	18.65738364
+France	Miramas	22.79696625	2014	15.13510666
+France	Miramas	22.74170003	2016	15.09841493
+France	Miribel	22.03483503	2013	14.62912103
+France	Miribel	14.06624885	2014	9.338706488
+France	Miribel	22.5796254	2015	14.99081215
+France	Miribel	19.21666666	2016	12.75811423
+France	Mont-De-Marsan	21.72431961	2013	13.20184375
+France	Mont-De-Marsan	18.77811428	2014	9.99278882
+France	Mont-De-Marsan	23.47391828	2015	15.03111967
+France	Mont-De-Marsan	17.16818724	2016	10.15887353
+France	Montandon	16.279683	2013	10.80822491
+France	Montandon	14.66482326	2014	9.73610531
+France	Montandon	14.15520722	2015	9.397766733
+France	Montargis	20.41524307	2013	13.55385966
+France	Montargis	18.01419408	2015	11.95978209
+France	Montargis	16.98178451	2016	11.27435629
+France	Montbeliard	26.66248402	2013	20.20639201
+France	Montbeliard	18.24792569	2014	12.53741099
+France	Montbeliard	20.7184079	2015	13.62210875
+France	Montbeliard	18.49962295	2016	13.3895321
+France	Montceau-Les-Mines	17.05834915	2013	11.32518823
+France	Montceau-Les-Mines	12.30532573	2014	8.169614121
+France	Montceau-Les-Mines	14.01867398	2015	9.307121113
+France	Montceau-Les-Mines	12.38532564	2016	8.222726766
+France	Montlucon	19.74517827	2013	13.10899774
+France	Montlucon	15.87129908	2014	10.53709523
+France	Montlucon	19.50723716	2015	12.95102654
+France	Montlucon	17.51080188	2016	11.62557558
+France	Montpellier	20.79700003	2013	14.17007398
+France	Montpellier	17.62933993	2014	15.27578655
+France	Montpellier	21.09474188	2015	15.39205405
+France	Montpellier	17.99393221	2016	15.45627554
+France	Moulins	13.87652929	2016	9.212750001
+France	Moult	19.23891907	2016	12.53834108
+France	Mulhouse	21.28634638	2013	13.34327442
+France	Mulhouse	18.69762595	2014	11.01906506
+France	Mulhouse	22.37497194	2015	14.38995885
+France	Mulhouse	18.59448836	2016	13.09783945
+France	Munchhausen	23.28867605	2013	15.46155712
+France	Munchhausen	19.35485537	2014	12.84985893
+France	Munchhausen	20.11997071	2015	13.35782574
+France	Munchhausen	16.45342406	2016	10.92357313
+France	Nancy	22.17441138	2013	14.6803314
+France	Nancy	22.29168607	2014	12.87712215
+France	Nancy	22.79701745	2015	13.70653639
+France	Nancy	18.34015805	2016	12.5058095
+France	Nantes	22.68386235	2013	16.17455322
+France	Nantes	19.43708367	2014	12.1591802
+France	Nantes	19.99548454	2015	13.35213901
+France	Nantes	17.69242686	2016	13.0783009
+France	Neuves-Maisons	23.14214699	2013	15.36427519
+France	Neuves-Maisons	23.87477168	2014	15.85067118
+France	Neuves-Maisons	22.96327463	2015	15.24552026
+France	Neuves-Maisons	17.79915043	2016	11.81701272
+France	Nevers	15.38357673	2013	10.21329207
+France	Nevers	12.89754566	2014	8.562794148
+France	Nevers	14.31469335	2015	9.50365098
+France	Nevers	12.3000698	2016	8.166124663
+France	Nice	29.21997642	2013	19.39939968
+France	Nice	28.18939856	2014	13.57049046
+France	Nice	28.79167083	2015	14.97515553
+France	Nice	27.35249086	2016	13.22847631
+France	Nimes	21.30092529	2013	14.14187189
+France	Nimes	20.27716362	2014	13.4621875
+France	Nimes	20.83452431	2015	13.49544449
+France	Nimes	19.17259238	2016	11.77842408
+France	Niort	21.77466097	2013	12.21583785
+France	Niort	19.83888926	2014	9.67206735
+France	Niort	20.04930404	2015	11.05961347
+France	Niort	17.72241061	2016	9.99273452
+France	Noeux-Les-Mines	23.36769245	2013	15.51401681
+France	Noeux-Les-Mines	18.71686467	2015	12.42629129
+France	Noeux-Les-Mines	17.2362553	2016	11.44330169
+France	Nogent-Sur-Marne	23.02077182	2013	15.28369315
+France	Nogent-Sur-Marne	18.352682	2014	12.18450721
+France	Nogent-Sur-Marne	19.30536608	2015	12.81700256
+France	Nogent-Sur-Marne	20.14331206	2016	13.37332227
+France	Nogent-Sur-Oise	27.63615732	2013	18.34788823
+France	Nogent-Sur-Oise	22.6876988	2014	15.06256304
+France	Nogent-Sur-Oise	21.07477696	2015	13.99173002
+France	Nogent-Sur-Oise	20.67250762	2016	13.72465986
+France	Notre-Dame-De-Bliquetuit	20.45396602	2013	13.57956817
+France	Notre-Dame-De-Bliquetuit	14.72646308	2014	9.77702853
+France	Notre-Dame-De-Bliquetuit	15.3748458	2015	10.20749553
+France	Notre-Dame-De-Bliquetuit	16.40378826	2016	10.89061949
+France	Notre-Dame-De-Gravenchon	23.60548003	2013	15.67188608
+France	Nuits-Saint-Georges	22.06630084	2013	14.65001146
+France	Nuits-Saint-Georges	18.26498287	2014	12.12628298
+France	Nuits-Saint-Georges	19.25080878	2015	12.78078148
+France	Nuits-Saint-Georges	16.86568667	2016	11.19727791
+France	Orleans	22.36145736	2013	14.84596847
+France	Orleans	21.78519805	2015	14.46338484
+France	Orleans	16.54434661	2016	10.98393741
+France	Outreau	22.75885344	2013	15.10980323
+France	Outreau	16.53477001	2015	10.97757943
+France	Outreau	17.14811261	2016	11.38478298
+France	Oyonnax	12.7221851	2014	8.446370728
+France	Pantin	39.72148104	2013	26.37144108
+France	Pantin	33.29599792	2015	22.10550625
+France	Pantin	30.76055465	2016	20.42220313
+France	Paray-Le-Fresil	13.78603786	2013	9.152671944
+France	Paray-Le-Fresil	11.17012899	2014	7.415947008
+France	Paray-Le-Fresil	12.14263502	2015	8.44710034
+France	Paray-Le-Fresil	10.86672335	2016	7.97111883
+France	Paris	34.13522491	2013	20.43947351
+France	Paris	25.58160517	2014	17.25939155
+France	Paris	28.70425503	2015	17.1936928
+France	Paris	28.11770957	2016	16.34114568
+France	Passy	30.48468082	2013	20.23904806
+France	Passy	27.68107323	2014	18.37770829
+France	Passy	28.07991523	2015	18.64250301
+France	Passy	23.80534647	2016	15.91555364
+France	Pau	24.97767393	2013	16.58289769
+France	Pau	20.57873795	2014	13.66240535
+France	Pau	21.46106635	2015	14.24819095
+France	Pau	17.65405861	2016	11.72068498
+France	Peillon	27.06969585	2013	12.60894829
+France	Peillon	21.68517293	2014	14.39697728
+France	Peillon	27.2052629	2015	18.06181363
+France	Peillon	23.53261188	2016	15.62350827
+France	Perigueux	16.90171369	2013	11.22119657
+France	Perigueux	15.38933333	2014	10.21711393
+France	Perigueux	15.8744114	2015	10.53916153
+France	Perigueux	13.76565222	2016	9.139137738
+France	Perpignan	19.64339463	2013	13.04142269
+France	Perpignan	17.2479521	2015	10.0467432
+France	Perpignan	16.27976351	2016	9.77230877
+France	Peyrusse-Vieille	14.84773308	2013	9.05341825
+France	Peyrusse-Vieille	6.1770468	2014	5.66080479
+France	Peyrusse-Vieille	13.3344328	2016	8.852847368
+France	Pointe-A-Pitre	24.45042821	2013	16.23285461
+France	Pointe-A-Pitre	3.81961099	2014	2.535873374
+France	Pointe-A-Pitre	27.0562191	2016	17.96286214
+France	Poitiers	22.49440525	2013	14.93423374
+France	Poitiers	19.22836983	2014	10.74241435
+France	Poitiers	20.93468896	2015	13.65959571
+France	Poitiers	18.66568914	2016	11.06647514
+France	Pont-A-Mousson	17.26910232	2013	11.46510911
+France	Pont-A-Mousson	17.2227557	2014	11.43433918
+France	Pont-A-Mousson	19.3311807	2015	12.83414111
+France	Pont-A-Mousson	18.4145686	2016	12.22559426
+France	Port-De-Bouc	24.86770435	2013	16.50988792
+France	Port-De-Bouc	19.40712557	2014	12.88456158
+France	Port-De-Bouc	23.15073132	2016	15.3699744
+France	Port-Saint-Louis-Du-Rhone	27.8454216	2013	18.48682063
+France	Port-Saint-Louis-Du-Rhone	18.56023876	2014	12.32230597
+France	Port-Saint-Louis-Du-Rhone	20.77038376	2015	13.7896407
+France	Portes-Les-Valence	25.15819129	2013	16.70274476
+France	Portes-Les-Valence	17.22996461	2014	11.43912524
+France	Portes-Les-Valence	23.95558407	2015	15.90432323
+France	Portes-Les-Valence	20.50961727	2016	13.61651553
+France	Pourcy	16.18237604	2015	11.01952519
+France	Prunay-Le-Temple	19.7975515	2013	13.14376879
+France	Pusignan	21.71585627	2013	14.41734822
+France	Pusignan	13.90242445	2014	9.229942026
+France	Pusignan	22.16706849	2015	14.71691199
+France	Pusignan	18.89706575	2016	12.54592837
+France	Puteaux	23.55277092	2013	15.63689203
+France	Puteaux	18.77317564	2014	12.46367664
+France	Puteaux	21.33080133	2015	14.16170686
+France	Puteaux	20.1006395	2016	13.34499158
+France	Quimper	22.159547	2013	14.7119184
+France	Quimper	24.51154595	2015	16.27343122
+France	Quimper	18.52543443	2016	12.29919907
+France	Rageade	8.76756542	2014	5.820863895
+France	Rageade	10.14582251	2015	6.735900915
+France	Rageade	8.16516439	2016	5.420924546
+France	Rambouillet	19.28603245	2015	11.77627732
+France	Rambouillet	15.35268677	2016	9.77200987
+France	Reims	25.44083386	2013	18.90482838
+France	Reims	23.97659589	2014	13.49220331
+France	Reims	22.33742409	2015	14.8399255
+France	Reims	18.22217625	2016	12.09786329
+France	Rennes	18.95896669	2013	10.90389834
+France	Rennes	11.63234432	2014	11.05784817
+France	Rennes	19.86197914	2015	13.18654287
+France	Rennes	21.02207715	2016	11.04312752
+France	Rieux	24.66443737	2013	16.37493718
+France	Rieux	22.24093333	2014	14.76595151
+France	Rieux	20.21350703	2015	13.41992533
+France	Rive-De-Gier	25.8171567	2013	17.1402377
+France	Rive-De-Gier	20.53552168	2014	13.63371369
+France	Rive-De-Gier	22.89670857	2015	15.20132646
+France	Rive-De-Gier	21.50170675	2016	14.27517247
+France	Roanne	17.98355235	2013	11.93943878
+France	Roanne	15.01152968	2014	9.966286756
+France	Roanne	15.31121901	2015	10.16525314
+France	Roanne	15.12078653	2016	10.03882334
+France	Rognac	18.95390632	2013	14.77202456
+France	Rognac	14.88575682	2014	9.882785046
+France	Rognac	17.51397258	2015	12.69113119
+France	Rognac	17.52551361	2016	11.63534283
+France	Roisey	8.01221839	2013	5.31938235
+France	Roisey	9.50761103	2015	6.312186693
+France	Roisey	7.99970143	2016	5.31107223
+France	Romans-Sur-Isere	20.15154109	2014	13.3787856
+France	Romans-Sur-Isere	22.27190149	2015	14.78651154
+France	Romans-Sur-Isere	21.5505316	2016	14.30758772
+France	Roubaix	28.52422171	2013	18.937482
+France	Roubaix	24.30841095	2014	19.20514269
+France	Roubaix	25.95360257	2015	16.12065465
+France	Roubaix	22.70677833	2016	16.43253084
+France	Rouen	21.96858253	2013	16.9786325
+France	Rouen	24.10444406	2014	12.73405764
+France	Rouen	20.0988194	2015	12.57537447
+France	Rouen	19.97073095	2016	11.54591065
+France	Roumazieres-Loubert	19.42949686	2013	12.89941407
+France	Roumazieres-Loubert	16.47628997	2014	10.93875401
+France	Roussillon	24.13990669	2013	16.02669664
+France	Roussillon	14.712621	2014	9.767838651
+France	Roussillon	21.96726386	2015	14.58425993
+France	Roussillon	22.22220701	2016	14.75351894
+France	Saillat-Sur-Vienne	18.73232243	2013	12.43655383
+France	Saillat-Sur-Vienne	15.9388299	2014	10.58192954
+France	Saillat-Sur-Vienne	18.37384359	2015	12.19855657
+France	Saint-Brieuc	19.310124	2013	12.82016138
+France	Saint-Brieuc	17.52324474	2015	11.6338365
+France	Saint-Brieuc	17.57686671	2016	11.6694366
+France	Saint-Brisson	13.56368877	2015	9.56799322
+France	Saint-Brisson	11.26786093	2016	7.480832103
+France	Saint-Chamond	21.0673809	2013	13.56447878
+France	Saint-Chamond	17.6266952	2014	7.50098858
+France	Saint-Chamond	21.85762365	2015	13.46822389
+France	Saint-Chamond	19.32310861	2016	12.57478894
+France	Saint-Cyr	16.61808536	2016	11.03289322
+France	Saint-Denis	27.3426074	2013	17.55410574
+France	Saint-Denis	22.56565739	2014	14.40072041
+France	Saint-Denis	22.44761545	2015	15.00142521
+France	Saint-Denis	30.23866601	2016	14.59181194
+France	Saint-Denis-D'anjou	18.2695295	2013	14.01504903
+France	Saint-Denis-D'anjou	15.78843347	2014	10.64879258
+France	Saint-Denis-D'anjou	16.82209526	2015	10.2918236
+France	Saint-Denis-D'anjou	15.61143473	2016	10.7226734
+France	Saint-Dizier	20.57132149	2013	14.81005185
+France	Saint-Dizier	14.4206277	2014	9.57398173
+France	Saint-Dizier	18.54223575	2015	11.94303902
+France	Saint-Etienne	21.36401194	2013	12.77455642
+France	Saint-Etienne	19.49175171	2014	9.67096575
+France	Saint-Etienne	20.4738689	2015	9.26389072
+France	Saint-Etienne	17.04360305	2016	8.871715885
+France	Saint-Etienne-De-Montluc	16.016992	2014	10.63382204
+France	Saint-Etienne-De-Montluc	15.60395528	2015	10.35960333
+France	Saint-Etienne-De-Montluc	14.4117018	2016	9.568055744
+France	Saint-Gely-Du-Fesc	15.35938653	2014	10.19723198
+France	Saint-Gely-Du-Fesc	16.83695341	2015	11.17820165
+France	Saint-Germain-Sur-Rhone	12.61185967	2013	8.373124703
+France	Saint-Germain-Sur-Rhone	13.16495879	2014	6.33042239
+France	Saint-Germain-Sur-Rhone	12.33290938	2015	8.89718943
+France	Saint-Germain-Sur-Rhone	12.03355746	2016	8.10697596
+France	Saint-Jean-De-Braye	25.21275989	2013	16.73897333
+France	Saint-Jean-De-Braye	20.53190707	2014	13.63131392
+France	Saint-Jean-De-Braye	19.87328601	2015	13.1940496
+France	Saint-Jean-De-Braye	18.2261756	2016	12.10051849
+France	Saint-Jean-De-Maurienne	17.63173675	2013	11.7058653
+France	Saint-Jean-De-Maurienne	15.84315994	2015	10.51841341
+France	Saint-Jean-De-Maurienne	14.15073356	2016	9.394796631
+France	Saint-Julien-Mont-Denis	21.3920379	2013	14.20236235
+France	Saint-Julien-Mont-Denis	22.01616465	2015	14.6167256
+France	Saint-Julien-Mont-Denis	21.17357589	2016	14.0573235
+France	Saint-Junien	19.11495067	2013	12.69058409
+France	Saint-Junien	16.01806506	2014	10.63453446
+France	Saint-Junien	13.06483804	2016	8.673861032
+France	Saint-Laurent-Blangy	23.08000248	2013	15.3230169
+France	Saint-Laurent-Blangy	18.79559458	2014	12.47856077
+France	Saint-Laurent-Blangy	18.80337107	2015	12.48372365
+France	Saint-Laurent-Blangy	18.92246735	2016	12.56279272
+France	Saint-Laurent-Des-Arbres	18.17441378	2013	12.87346229
+France	Saint-Laurent-Des-Arbres	17.43258786	2015	14.73142806
+France	Saint-Laurent-Des-Arbres	18.70318572	2016	11.05805652
+France	Saint-Lo	19.85874975	2013	13.18439885
+France	Saint-Lo	16.33900456	2014	10.84760902
+France	Saint-Lo	17.07192582	2015	11.3342019
+France	Saint-Lo	17.48256184	2016	11.60682677
+France	Saint-Martin-D'heres	23.68145375	2013	15.7223257
+France	Saint-Martin-D'heres	19.83889004	2014	13.17121381
+France	Saint-Martin-D'heres	19.21567548	2015	12.75745618
+France	Saint-Martin-D'heres	18.25907928	2016	12.12236354
+France	Saint-Martin-Du-Tertre	18.02976169	2014	11.97011757
+France	Saint-Martin-Du-Tertre	19.06855243	2015	12.65977989
+France	Saint-Martin-Du-Tertre	17.65991362	2016	11.72457218
+France	Saint-Michel-L'observatoire	12.0290482	2015	7.50340262
+France	Saint-Michel-L'observatoire	10.53978084	2016	8.60566269
+France	Saint-Nazaire	19.48852546	2013	12.93860368
+France	Saint-Nazaire	16.49477739	2014	8.91454908
+France	Saint-Nazaire	16.68978582	2015	9.53185812
+France	Saint-Nazaire	15.19151842	2016	9.93182706
+France	Saint-Nazaire-Le-Desert	9.00408172	2014	6.80305211
+France	Saint-Nazaire-Le-Desert	8.8312009	2015	6.14570154
+France	Saint-Nazaire-Le-Desert	7.61566293	2016	5.33993867
+France	Saint-Omer	19.66532484	2015	13.05598235
+France	Saint-Omer	20.28819048	2016	13.46950833
+France	Saint-Paul	17.65473304	2015	7.30917466
+France	Saint-Paul	16.39811955	2016	7.08232996
+France	Saint-Pierre	18.10725834	2013	4.26897556
+France	Saint-Pierre	18.02845698	2014	5.64399361
+France	Saint-Pierre	21.23930897	2015	2.59103296
+France	Saint-Pierre	18.39652448	2016	5.96035986
+France	Saint-Pierre-Des-Corps	23.19270856	2013	15.39784346
+France	Saint-Pierre-Des-Corps	19.49877739	2014	12.94541003
+France	Saint-Pierre-Des-Corps	20.87770129	2015	13.86088975
+France	Saint-Pierre-Des-Corps	18.5182946	2016	12.29445887
+France	Saint-Quentin	22.35581336	2013	16.6506135
+France	Saint-Quentin	19.03969285	2014	12.64061976
+France	Saint-Quentin	18.18740947	2015	13.61581881
+France	Saint-Quentin	17.27354208	2016	13.35191047
+France	Saint-Remy-Sur-Avre	28.4890375	2013	18.91412289
+France	Saint-Remy-Sur-Avre	23.99853082	2014	15.93283596
+France	Saint-Remy-Sur-Avre	21.80387453	2015	14.47578432
+France	Saint-Remy-Sur-Avre	21.83603815	2016	14.49713803
+France	Sainte-Clotilde	16.27989806	2013	10.80836769
+France	Sainte-Clotilde	17.48485597	2014	11.60834986
+France	Sainte-Clotilde	19.23731357	2015	12.7718219
+France	Sainte-Clotilde	18.15130205	2016	12.05080928
+France	Sainte-Marguerite-Sur-Mer	14.83250726	2015	9.847432195
+France	Sainte-Marguerite-Sur-Mer	15.37982506	2016	10.2108013
+France	Sainte-Savine	20.87598138	2013	15.13752384
+France	Sainte-Savine	17.94739041	2014	11.91543055
+France	Sainte-Savine	21.63790596	2015	15.43977987
+France	Salaise-Sur-Sanne	24.5958799	2013	19.31858416
+France	Salaise-Sur-Sanne	22.98362353	2014	15.25903007
+France	Salaise-Sur-Sanne	22.3819794	2015	15.25532795
+France	Salaise-Sur-Sanne	19.89546213	2016	14.96698043
+France	Sallanches	21.98511085	2015	14.59610871
+France	Salome	23.26837494	2013	15.44807904
+France	Salome	21.29401141	2014	14.1372817
+France	Salome	20.63466684	2015	13.69953704
+France	Salome	21.05868399	2016	13.98104576
+France	Salon-De-Provence	27.69023199	2013	18.38378888
+France	Salon-De-Provence	15.38874289	2014	10.21672193
+France	Salon-De-Provence	19.93652909	2015	13.23603724
+France	Salon-De-Provence	19.50893435	2016	12.95215332
+France	Salouel	23.35467354	2013	15.50537344
+France	Salouel	18.848225	2014	12.51350257
+France	Salouel	18.59590368	2015	12.34598422
+France	Salouel	18.83715414	2016	12.50615253
+France	Sarreguemines	14.58914935	2013	9.685864735
+France	Sarreguemines	13.20521579	2014	8.767059057
+France	Sarreguemines	15.23362967	2015	10.1137409
+France	Sarreguemines	11.33374543	2016	7.524573403
+France	Sarrola-Carcopino	21.02102336	2013	13.95604253
+France	Sarrola-Carcopino	22.52115929	2015	14.95199599
+France	Sarrola-Carcopino	22.08091193	2016	14.65971189
+France	Schoelcher	28.84893022	2013	19.15305884
+France	Schoelcher	23.20391025	2014	15.40528036
+France	Schoelcher	29.16138916	2015	19.36050308
+France	Schoelcher	24.78270414	2016	16.45345553
+France	Schoeneck	21.81793056	2013	14.48511624
+France	Schoeneck	23.87639726	2014	15.85175041
+France	Schoeneck	18.93512	2015	12.57119292
+France	Schoeneck	17.0135833	2016	11.29546779
+France	Sens	17.99374465	2013	11.94620554
+France	Sens	14.85	2014	9.859045779
+France	Sens	17.56134265	2015	11.65913004
+France	Sens	17.3219887	2016	11.50022085
+France	Strasbourg	29.25502253	2013	18.14679954
+France	Strasbourg	24.37907534	2014	15.74656621
+France	Strasbourg	25.26563494	2015	17.09035728
+France	Strasbourg	21.73816818	2016	14.409206
+France	Talence	23.79850776	2013	14.45939833
+France	Talence	15.03317627	2014	11.64637109
+France	Talence	20.68057309	2015	14.46618561
+France	Talence	18.5923752	2016	12.28639401
+France	Tarbes	18.30004693	2014	12.14956232
+France	Tartas	19.44204742	2013	12.9077465
+France	Tartas	18.03771848	2014	11.97540015
+France	Tartas	19.78265738	2015	13.13388045
+France	Tartas	16.05683672	2016	10.66027531
+France	Ternay	23.53038445	2013	15.62202946
+France	Ternay	15.41647727	2014	10.23513503
+France	Ternay	24.57176512	2015	16.31341126
+France	Ternay	21.39293294	2016	14.20295658
+France	Thionville	20.0696281	2013	17.04569669
+France	Thionville	18.4688613	2014	15.27431588
+France	Thionville	19.85488008	2015	14.0950949
+France	Thionville	17.51241286	2016	14.21707498
+France	Toulon	29.55022888	2013	13.41664721
+France	Toulon	23.55102739	2014	15.63573449
+France	Toulon	27.41245572	2015	18.19937076
+France	Toulon	26.20219645	2016	17.39586898
+France	Toulouse	19.86220233	2013	13.71467348
+France	Toulouse	17.73513044	2014	11.92071632
+France	Toulouse	20.32698295	2015	12.79059141
+France	Toulouse	16.68793824	2016	10.64781606
+France	Tourcoing	26.71314128	2013	17.73508975
+France	Tourcoing	23.62533904	2014	15.68507065
+France	Tourcoing	23.75162703	2015	15.76891436
+France	Tourcoing	23.21058761	2016	15.40971352
+France	Tours	22.66226615	2013	15.04567808
+France	Tours	17.14438541	2014	11.38230846
+France	Tours	17.15801145	2015	11.39135491
+France	Tours	16.27016666	2016	10.80190693
+France	Tremblay-En-France	24.93433075	2013	16.55412177
+France	Tremblay-En-France	20.59268395	2015	13.67166423
+France	Tremblay-En-France	20.87305259	2016	13.85780344
+France	Troyes	22.20219855	2013	14.74023514
+France	Troyes	20.89171064	2015	13.87019068
+France	Tulle	13.60559322	2013	10.56385208
+France	Tulle	15.38554223	2014	10.21459698
+France	Tulle	17.54527502	2015	10.26554106
+France	Tulle	15.3067127	2016	7.67131717
+France	Val-De-Reuil	17.07585817	2015	11.33681262
+France	Val-De-Reuil	16.54074359	2016	10.98154534
+France	Valence	24.96592858	2013	16.57509985
+France	Valence	21.07383609	2014	13.99110537
+France	Valence	21.1060228	2015	16.58650653
+France	Valence	21.0476312	2016	12.9526328
+France	Valenciennes	27.49470239	2013	19.5826458
+France	Valenciennes	22.62630575	2014	15.02180365
+France	Valenciennes	22.52453175	2015	14.44694462
+France	Valenciennes	22.25696482	2016	15.01816336
+France	Vannes	12.93474429	2014	2.58469803
+France	Vannes	12.22048629	2015	6.97379327
+France	Vannes	11.38681513	2016	8.66117041
+France	Vaulx-En-Velin	23.36836094	2013	15.53672133
+France	Vaulx-En-Velin	20.2896952	2014	13.47050733
+France	Vaulx-En-Velin	24.31885272	2015	14.26950684
+France	Vaulx-En-Velin	19.83060818	2016	12.95310779
+France	Venaco	11.10019864	2013	7.369519633
+France	Venaco	11.36063186	2014	7.542423541
+France	Venaco	12.51862523	2015	7.68509679
+France	Venaco	9.67310157	2016	6.46801339
+France	Venissieux	25.48934719	2013	16.92260208
+France	Venissieux	16.84252283	2014	11.18189923
+France	Venissieux	25.77872579	2015	17.11472308
+France	Venissieux	20.7643639	2016	13.78564406
+France	Verneuil	18.62755244	2013	12.36699611
+France	Verneuil	13.28720954	2014	8.82149543
+France	Verneuil	17.47435416	2015	11.60137762
+France	Verneuil	11.81635609	2016	7.84498287
+France	Vesoul	15.33857424	2013	10.18341452
+France	Vesoul	13.44660027	2014	8.927316339
+France	Vesoul	15.57328544	2015	10.33924135
+France	Vesoul	15.69566285	2016	10.42048879
+France	Vienne	24.41672552	2013	19.86544885
+France	Vienne	15.5921098	2014	10.35173901
+France	Vienne	23.49628271	2015	15.59938901
+France	Vienne	20.43456782	2016	13.56668954
+France	Vierzon	18.87314148	2013	12.53004484
+France	Vierzon	15.66811073	2014	9.94404289
+France	Vierzon	17.90222803	2015	12.23016068
+France	Vierzon	15.84367576	2016	10.87941516
+France	Vif	23.03617638	2013	15.29392037
+France	Vif	15.26865842	2014	10.13699679
+France	Vif	17.27504168	2015	11.46905231
+France	Village-Neuf	20.99044478	2013	13.93574114
+France	Village-Neuf	19.82298999	2015	13.16065763
+France	Village-Neuf	17.38491269	2016	11.54199664
+France	Villefranche-Sur-Saone	22.62390868	2013	17.55224039
+France	Villefranche-Sur-Saone	18.0704887	2014	11.99715659
+France	Villefranche-Sur-Saone	22.2343805	2015	15.16433796
+France	Villefranche-Sur-Saone	17.66596736	2016	13.31735918
+France	Villeurbanne	25.58406476	2013	16.9854859
+France	Villeurbanne	21.6631662	2014	14.38236682
+France	Villeurbanne	27.10136641	2015	17.99283583
+France	Villeurbanne	25.91280351	2016	17.20373845
+France	Villiers-En-Bois	15.04000236	2013	9.985190019
+France	Villiers-En-Bois	11.39595433	2014	7.56587444
+France	Villiers-En-Bois	13.0740473	2015	8.679975141
+France	Villiers-En-Bois	11.40688444	2016	7.573131036
+France	Vitry-Sur-Seine	24.32056849	2013	17.32447527
+France	Vitry-Sur-Seine	19.44581963	2014	11.43761986
+France	Vitry-Sur-Seine	19.31011078	2015	13.6473082
+France	Vitry-Sur-Seine	21.8533379	2016	13.1151018
+France	Vittel	20.34345022	2013	13.50619576
+France	Vittel	18.4804503	2015	12.2693337
+France	Vittel	13.70621742	2016	9.099678451
+France	Voiron	23.02954321	2013	15.28951655
+France	Voiron	20.14816552	2014	13.37654453
+France	Voiron	21.23212047	2015	14.09619176
+France	Voiron	18.63141877	2016	12.369563
+France	Volmunster	12.22960331	2013	8.119341339
+France	Wingles	22.48446045	2013	14.92763131
+France	Wingles	18.65375228	2014	12.38439042
+France	Wingles	18.50656506	2015	12.28667152
+France	Wingles	19.27736696	2016	12.79841369
+United Kingdom	Aberdeen	13.48377509	2013	9.265221275
+United Kingdom	Aberdeen	14.84983954	2014	10.20389678
+United Kingdom	Aberdeen	11.70630311	2015	8.043851808
+United Kingdom	Aberdeen	7.814700376	2016	5.36978166
+United Kingdom	Armagh	19.0223524	2013	13.0709911
+United Kingdom	Barnstaple	16.01161119	2014	11.00219484
+United Kingdom	Barnstaple	13.95343747	2015	9.58794439
+United Kingdom	Barnstaple	15.57151349	2016	10.69978675
+United Kingdom	Belfast	16.82831881	2013	11.5633861
+United Kingdom	Belfast	16.37887885	2014	10.80049197
+United Kingdom	Belfast	17.62942752	2015	9.03000354
+United Kingdom	Belfast	18.81113055	2016	9.55382272
+United Kingdom	Birkenhead	15.64801656	2013	10.75235496
+United Kingdom	Birkenhead	10.48381202	2015	7.20383109
+United Kingdom	Birkenhead	11.47630209	2016	7.88580925
+United Kingdom	Birmingham	18.54028182	2013	14.32296303
+United Kingdom	Birmingham	19.87191856	2014	13.29497081
+United Kingdom	Birmingham	15.94933299	2015	10.40039112
+United Kingdom	Birmingham	16.19245473	2016	10.22680676
+United Kingdom	Blackpool	12.33742896	2015	8.47752269
+United Kingdom	Blackpool	11.40721106	2016	7.83833414
+United Kingdom	Bournemouth	13.36486159	2013	9.18351123
+United Kingdom	Bournemouth	11.88702423	2014	8.16803225
+United Kingdom	Bournemouth	10.89585446	2015	7.48696132
+United Kingdom	Bournemouth	10.8993547	2016	7.48936647
+United Kingdom	Brighton	16.27016911	2013	11.17985994
+United Kingdom	Brighton	13.91178859	2014	9.55932584
+United Kingdom	Brighton	13.56169289	2015	9.3187616
+United Kingdom	Brighton	13.12548782	2016	9.01902829
+United Kingdom	Bristol	18.64170655	2013	12.80943467
+United Kingdom	Bristol	16.86467036	2014	11.58836465
+United Kingdom	Bristol	14.90998998	2015	10.24522847
+United Kingdom	Bristol	15.4150436	2016	10.59227026
+United Kingdom	Bury	17.10304159	2015	11.75215871
+United Kingdom	Bury	15.2392597	2016	10.47148237
+United Kingdom	Cardiff	18.94905122	2013	13.02062303
+United Kingdom	Cardiff	16.95247354	2014	11.6486976
+United Kingdom	Cardiff	13.91146001	2015	9.55910006
+United Kingdom	Cardiff	14.0598358	2016	9.66105478
+United Kingdom	Carlisle	17.02130975	2013	11.69599761
+United Kingdom	Carlisle	16.48034311	2014	11.32427859
+United Kingdom	Carlisle	17.2835046	2015	11.87616179
+United Kingdom	Chepstow	20.58776256	2013	14.14664472
+United Kingdom	Chepstow	20.8351973	2014	14.31666666
+United Kingdom	Chepstow	14.13073958	2015	9.7097755
+United Kingdom	Chepstow	17.73971858	2016	12.18964399
+United Kingdom	Chesterfield	16.61655092	2013	10.21236298
+United Kingdom	Chesterfield	19.03201366	2014	11.59149917
+United Kingdom	Chesterfield	15.4445026	2015	10.406998
+United Kingdom	Chesterfield	16.21345403	2016	10.7660504
+United Kingdom	Coventry	15.92059348	2015	10.93965306
+United Kingdom	Coventry	15.09693074	2016	10.37368266
+United Kingdom	Didcot	13.06458144	2013	8.97717717
+United Kingdom	Didcot	11.40079096	2014	9.06057771
+United Kingdom	Didcot	15.0588002	2015	7.72589526
+United Kingdom	Eastbourne	22.22996262	2013	15.27506364
+United Kingdom	Eastbourne	19.17451361	2014	12.23497588
+United Kingdom	Eastbourne	18.07221563	2015	12.41811552
+United Kingdom	Eastbourne	17.77432771	2016	12.21342526
+United Kingdom	Eccles	18.69930069	2013	12.84900982
+United Kingdom	Eccles	17.64643026	2014	12.12554199
+United Kingdom	Eccles	17.67746243	2015	12.14686539
+United Kingdom	Eccles	15.22412566	2016	10.46108319
+United Kingdom	Edinburgh	13.53648125	2013	9.301437708
+United Kingdom	Edinburgh	9.294522142	2015	6.3866242
+United Kingdom	Edinburgh	10.70580801	2016	7.356373084
+United Kingdom	Enniskillen	11.31910258	2013	7.777791408
+United Kingdom	Enniskillen	6.93836675	2014	4.767619068
+United Kingdom	Enniskillen	6.59395326	2015	4.530959292
+United Kingdom	Enniskillen	5.42031605	2016	3.724507955
+United Kingdom	Erith	22.76751522	2013	15.64443674
+United Kingdom	Erith	23.21429585	2014	15.95143692
+United Kingdom	Erith	15.26886167	2015	10.49182303
+United Kingdom	Erith	15.51493818	2016	10.66091168
+United Kingdom	Gillingham	23.08440043	2013	13.4446342
+United Kingdom	Gillingham	21.38775558	2014	13.51614205
+United Kingdom	Gillingham	18.47519913	2015	11.81367143
+United Kingdom	Gillingham	19.09339788	2016	11.52281013
+United Kingdom	Glasgow	22.93713748	2013	15.76099073
+United Kingdom	Glasgow	10.90823083	2014	7.4954656
+United Kingdom	Glasgow	13.35137763	2015	8.4997349
+United Kingdom	Glasgow	12.48965068	2016	8.04133979
+United Kingdom	Grangemouth	13.81108257	2013	9.490126853
+United Kingdom	Grangemouth	12.34350881	2014	8.48170039
+United Kingdom	Grangemouth	10.16293332	2015	6.983342972
+United Kingdom	Grangemouth	9.338027169	2016	6.41651818
+United Kingdom	Grays	19.1567953	2013	13.16337199
+United Kingdom	Grays	19.31938021	2014	13.27509035
+United Kingdom	Grays	17.08480836	2015	11.73962995
+United Kingdom	Grays	17.26325927	2016	11.86225045
+United Kingdom	Harlington	19.86497651	2013	13.64999058
+United Kingdom	Harlington	20.2862675	2014	13.93947585
+United Kingdom	Harlington	15.19204023	2015	10.43903606
+United Kingdom	Harlington	14.02021204	2016	9.63382777
+United Kingdom	Hull	14.26169291	2013	9.799758576
+United Kingdom	Hull	14.90418478	2014	10.24123949
+United Kingdom	Hull	15.91187456	2015	10.87777363
+United Kingdom	Hull	16.49815202	2016	11.24069434
+United Kingdom	Inverness	11.6481194	2013	6.05787114
+United Kingdom	Inverness	10.85469101	2014	5.86453757
+United Kingdom	Inverness	9.29194202	2015	4.76667638
+United Kingdom	Inverness	8.56231514	2016	4.7474972
+United Kingdom	Leeds	21.51883044	2013	14.78641733
+United Kingdom	Leeds	20.35285232	2014	14.35905686
+United Kingdom	Leeds	17.36021339	2015	12.51298059
+United Kingdom	Leeds	17.90394706	2016	11.18174606
+United Kingdom	Leicester	19.36627968	2014	13.30731678
+United Kingdom	Leicester	17.49209344	2015	12.01949122
+United Kingdom	Leicester	21.54267767	2016	11.54841125
+United Kingdom	London	23.83813765	2013	14.65270908
+United Kingdom	London	22.74193815	2014	14.37640433
+United Kingdom	London	21.58370429	2015	11.72005159
+United Kingdom	London	23.48601273	2016	11.51906261
+United Kingdom	Londonderry	14.77484906	2013	11.48932256
+United Kingdom	Londonderry	14.56078782	2014	11.96730555
+United Kingdom	Londonderry	15.99020211	2015	11.75253674
+United Kingdom	Manchester	18.19285213	2013	12.50100951
+United Kingdom	Manchester	17.25715295	2014	11.85805456
+United Kingdom	Manchester	15.2480896	2015	10.47754974
+United Kingdom	Manchester	14.85297597	2016	10.20605194
+United Kingdom	Middlesbrough	18.82760908	2014	12.93717546
+United Kingdom	Middlesbrough	15.4127694	2015	10.59070757
+United Kingdom	Middlesbrough	13.8581899	2016	9.522496114
+United Kingdom	Narberth	15.64869231	2013	10.75281929
+United Kingdom	Narberth	13.62801116	2014	9.364331435
+United Kingdom	Narberth	11.5610472	2015	7.944040876
+United Kingdom	Narberth	11.73785636	2016	8.065533261
+United Kingdom	Newcastle Upon Tyne	15.11100387	2013	10.38335285
+United Kingdom	Newcastle Upon Tyne	12.34437731	2014	8.48229717
+United Kingdom	Newcastle Upon Tyne	14.83393719	2015	10.19296966
+United Kingdom	Newcastle Upon Tyne	11.3589626	2016	7.805180763
+United Kingdom	Newport	18.85049736	2013	12.95290288
+United Kingdom	Newport	17.49425694	2014	12.02097784
+United Kingdom	Newport	13.92464275	2015	9.56815843
+United Kingdom	Newport	14.81804128	2016	10.18204697
+United Kingdom	Northampton	12.70822028	2013	8.73230769
+United Kingdom	Northampton	11.71566882	2014	8.05028735
+United Kingdom	Northampton	9.887928737	2015	6.79437673
+United Kingdom	Northampton	10.32132764	2016	7.09218181
+United Kingdom	Norwich	19.25913153	2013	13.23369116
+United Kingdom	Norwich	15.57190452	2014	10.70005544
+United Kingdom	Norwich	17.38428404	2015	11.94541123
+United Kingdom	Norwich	15.83199772	2016	10.8787755
+United Kingdom	Nottingham	21.26884075	2013	12.23489619
+United Kingdom	Nottingham	20.84752387	2014	12.21123284
+United Kingdom	Nottingham	17.26581847	2015	11.49795413
+United Kingdom	Nottingham	18.61890208	2016	11.91947774
+United Kingdom	Oxford	20.00094616	2013	13.74342057
+United Kingdom	Oxford	14.71396139	2015	10.11052967
+United Kingdom	Penicuik	6.14376208	2013	4.22161559
+United Kingdom	Penicuik	8.096242298	2014	5.56323996
+United Kingdom	Penicuik	6.06064788	2015	3.17602496
+United Kingdom	Penicuik	3.711223154	2016	2.55012439
+United Kingdom	Plymouth	17.47354059	2013	12.00674284
+United Kingdom	Plymouth	17.43467496	2014	11.98003677
+United Kingdom	Plymouth	17.92307407	2015	12.31563461
+United Kingdom	Plymouth	15.3756853	2016	10.56522566
+United Kingdom	Port Talbot	23.99320851	2013	14.33547224
+United Kingdom	Port Talbot	24.3487159	2014	16.73094063
+United Kingdom	Port Talbot	26.54667624	2015	9.68530947
+United Kingdom	Port Talbot	21.54585179	2016	9.36823352
+United Kingdom	Portsmouth	20.28187956	2013	13.93646073
+United Kingdom	Portsmouth	20.58532732	2014	14.14497137
+United Kingdom	Portsmouth	15.12896719	2015	10.39569614
+United Kingdom	Portsmouth	16.91664509	2016	11.62407849
+United Kingdom	Preston	16.91920444	2013	11.62583712
+United Kingdom	Preston	17.64184284	2014	12.1223898
+United Kingdom	Preston	14.48578615	2015	9.95374167
+United Kingdom	Preston	14.19880517	2016	9.75654599
+United Kingdom	Reading	15.51868567	2013	10.66348672
+United Kingdom	Reading	14.02955831	2014	9.64024995
+United Kingdom	Reading	12.46680662	2015	8.566423065
+United Kingdom	Reading	13.16839488	2016	9.048511384
+United Kingdom	Rochester	17.86909989	2013	16.33883819
+United Kingdom	Rochester	17.59111273	2014	14.96339503
+United Kingdom	Rochester	14.58618411	2015	8.73313029
+United Kingdom	Rochester	15.80390441	2016	11.29795306
+United Kingdom	Royal Leamington Spa	18.22501576	2013	12.52311038
+United Kingdom	Royal Leamington Spa	17.53830138	2014	12.05124248
+United Kingdom	Royal Leamington Spa	15.23100334	2015	11.82443751
+United Kingdom	Royal Leamington Spa	15.52837182	2016	9.71407847
+United Kingdom	Saltash	15.57941108	2013	10.70521349
+United Kingdom	Saltash	16.48305709	2014	11.32614347
+United Kingdom	Saltash	16.16507198	2015	9.73130687
+United Kingdom	Saltash	14.65867354	2016	8.35076246
+United Kingdom	Sandy	18.9220036	2013	13.00203757
+United Kingdom	Sandy	18.58353836	2014	12.76946507
+United Kingdom	Sandy	17.1655601	2015	11.79511758
+United Kingdom	Sandy	18.76658064	2016	11.96814104
+United Kingdom	Scunthorpe	22.20797429	2013	15.25995461
+United Kingdom	Scunthorpe	21.14652665	2014	14.53059305
+United Kingdom	Scunthorpe	20.39770653	2015	14.0160499
+United Kingdom	Scunthorpe	17.23355417	2016	7
+United Kingdom	Sheffield	17.9451937	2014	12.33083386
+United Kingdom	Sheffield	13.83310927	2016	9.50526225
+United Kingdom	Southampton	21.01645644	2013	15.01057159
+United Kingdom	Southampton	20.93142857	2014	14.67208806
+United Kingdom	Southampton	16.45091783	2015	9.96042547
+United Kingdom	Southend-On-Sea	15.47974352	2013	10.63672807
+United Kingdom	Southend-On-Sea	15.4616319	2015	10.62428288
+United Kingdom	Southend-On-Sea	17.05168741	2016	11.71687127
+United Kingdom	Speke	14.02067686	2013	9.634147164
+United Kingdom	Speke	14.46837345	2014	9.941776736
+United Kingdom	Speke	13.32185715	2015	9.15396122
+United Kingdom	Speke	14.62619692	2016	10.05022332
+United Kingdom	Stanford-Le-Hope	24.33002028	2013	14.23764412
+United Kingdom	Stanford-Le-Hope	19.16173264	2014	14.22906078
+United Kingdom	Stanford-Le-Hope	14.32568192	2015	9.84372789
+United Kingdom	Stanford-Le-Hope	20.04910888	2016	13.40086282
+United Kingdom	Stanmore	19.60236943	2013	13.46954314
+United Kingdom	Stanmore	18.43720806	2014	12.66891588
+United Kingdom	Stanmore	15.75908556	2015	10.82867475
+United Kingdom	Stanmore	16.25454085	2016	11.16912116
+United Kingdom	Stockbridge	14.92442419	2016	9.44638102
+United Kingdom	Stockton-On-Tees	16.78371122	2013	11.53273451
+United Kingdom	Stockton-On-Tees	16.00294593	2014	10.9962406
+United Kingdom	Stockton-On-Tees	15.73184774	2015	10.80995859
+United Kingdom	Stockton-On-Tees	13.50107675	2016	9.277109915
+United Kingdom	Stoke-On-Trent	20.29311463	2013	13.94418078
+United Kingdom	Stoke-On-Trent	19.43453803	2014	13.35421972
+United Kingdom	Stoke-On-Trent	17.01450913	2015	11.69132464
+United Kingdom	Stoke-On-Trent	20.43888287	2016	11.66857516
+United Kingdom	Storrington	24.18353525	2013	16.61743865
+United Kingdom	Storrington	16.4782371	2014	11.32283147
+United Kingdom	Storrington	15.76341129	2015	11.17903414
+United Kingdom	Storrington	18.74828085	2016	13.24154666
+United Kingdom	Sunderland	13.20884155	2013	9.07630385
+United Kingdom	Sunderland	14.91155038	2014	10.24630068
+United Kingdom	Sunderland	10.33784438	2015	7.1035311
+United Kingdom	Sunderland	11.68056484	2016	8.02616605
+United Kingdom	Swansea	19.06886591	2013	11.92969335
+United Kingdom	Swansea	20.21038953	2014	12.70870762
+United Kingdom	Swansea	20.22017503	2015	12.78051507
+United Kingdom	Swansea	19.13590152	2016	13.3632605
+United Kingdom	Warrington	17.5294804	2013	12.04518124
+United Kingdom	Warrington	21.02997603	2014	14.45050663
+United Kingdom	Warrington	15.38681435	2015	10.57287286
+United Kingdom	Warrington	16.14601812	2016	11.09455101
+United Kingdom	Wigan	18.6415031	2013	12.80929487
+United Kingdom	Wigan	20.73327561	2014	14.24663234
+United Kingdom	Wigan	15.66538108	2015	10.76428679
+United Kingdom	Wrexham	17.10369186	2013	10.38880116
+United Kingdom	Wrexham	14.0603519	2014	9.34341463
+United Kingdom	Wrexham	13.25630681	2015	8.01993902
+United Kingdom	Wrexham	12.23180056	2016	7.84397952
+United Kingdom	York	15.26054779	2013	12.37950132
+United Kingdom	York	16.70553027	2014	12.99868412
+United Kingdom	York	16.50758687	2015	11.10674507
+United Kingdom	York	15.63988959	2016	10.87661342
+Japan	Fukuoka City	38.18567005	2014	17.875
+Japan	Gifu City	29.15996622	2014	13.65
+Japan	Hachioji City	27.66458333	2014	12.95
+Japan	Kagoshima City	40.26852477	2014	18.85
+Japan	Kyoto City	28.83952703	2014	13.5
+Japan	Nagoya City	33.6995214	2014	15.775
+Japan	Niigata City	26.16920045	2014	12.25
+Japan	Okayama City	36.31644144	2014	17
+Japan	Okinawa City	35.46193694	2014	16.6
+Japan	Osaka City	36.61551802	2014	17.14
+Japan	Sapporo City	21.36261261	2014	10
+Japan	Sendai City	24.5670045	2014	11.5
+Japan	Shizuoka City	26.00898086	2014	12.175
+Japan	Tokyo	36.06721096	2014	16.88333333
+Japan	Yokohama City	35.46193694	2014	16.6
+United States of America	Albany	19.74073529	2015	9.466666667
+United States of America	Albany	18.03774932	2016	8.65
+United States of America	Albuquerque	11.9904114	2014	5.75
+United States of America	Albuquerque	11.78188251	2015	5.65
+United States of America	Albuquerque	10.4264447	2016	5
+United States of America	Allen Park	21.06141829	2014	10.1
+United States of America	Allen Park	20.22730271	2015	9.7
+United States of America	Allen Park	18.14201377	2016	8.7
+United States of America	Allentown	21.89553386	2016	10.5
+United States of America	Altoona	23.14670723	2014	11.1
+United States of America	Altoona	22.93817833	2015	11
+United States of America	Altoona	17.0993693	2016	8.2
+United States of America	Anacortes	12.51173364	2014	6
+United States of America	Anacortes	13.97143589	2015	6.7
+United States of America	Anaheim	19.60171603	2016	9.4
+United States of America	Anchorage	11.9904114	2014	5.75
+United States of America	Anchorage	12.92879142	2015	6.2
+United States of America	Anchorage	11.78188251	2016	5.65
+United States of America	Anderson	19.08039379	2015	9.15
+United States of America	Anthony	13.762907	2015	6.6
+United States of America	Anthony	16.47378262	2016	7.9
+United States of America	Apple Valley	15.3268737	2014	7.35
+United States of America	Apple Valley	13.34584921	2015	6.4
+United States of America	Apple Valley	14.38849368	2016	6.9
+United States of America	Appleton	17.93348488	2014	8.6
+United States of America	Arden-Arcade	17.41216264	2014	8.35
+United States of America	Arden-Arcade	20.33156716	2015	9.75
+United States of America	Arden-Arcade	17.72495598	2016	8.5
+United States of America	Arnold	24.1893517	2015	11.6
+United States of America	Arnold	17.3078982	2016	8.3
+United States of America	Arroyo Grande	26.69169842	2014	12.8
+United States of America	Arroyo Grande	23.14670723	2015	11.1
+United States of America	Arroyo Grande	17.0993693	2016	8.2
+United States of America	Atascadero	12.09467585	2014	5.8
+United States of America	Atascadero	13.13732032	2016	6.3
+United States of America	Atlanta	21.89553386	2015	10.5
+United States of America	Atlanta	22.52112054	2016	10.8
+United States of America	Auburn	13.762907	2014	6.6
+United States of America	Auburn	15.84819594	2015	7.6
+United States of America	Auburn	12.30320474	2016	5.9
+United States of America	Bakersfield	37.43093646	2014	17.95
+United States of America	Baltimore	23.14670723	2014	11.1
+United States of America	Baltimore	20.22730271	2015	9.7
+United States of America	Baltimore	17.51642709	2016	8.4
+United States of America	Bangor	14.38849368	2015	6.9
+United States of America	Banning	18.45480711	2014	8.85
+United States of America	Banning	16.16098928	2015	7.75
+United States of America	Banning	17.51642709	2016	8.4
+United States of America	Baton Rouge	19.67122566	2014	9.433333333
+United States of America	Baton Rouge	23.00768796	2015	11.03333333
+United States of America	Baton Rouge	21.54798571	2016	10.33333333
+United States of America	Battlement Mesa	7.924097969	2014	3.8
+United States of America	Bayport	16.05672483	2014	7.7
+United States of America	Bayport	16.10885706	2015	7.725
+United States of America	Bayport	12.51173364	2016	6
+United States of America	Beaver Falls	22.93817833	2014	11
+United States of America	Beaver Falls	21.89553386	2015	10.5
+United States of America	Beaver Falls	18.24627822	2016	8.75
+United States of America	Bellevue	17.51642709	2015	8.4
+United States of America	Bellevue	16.47378262	2016	7.9
+United States of America	Bellingham	16.05672483	2014	7.7
+United States of America	Bennington	13.13732032	2015	6.3
+United States of America	Bennington	10.4264447	2016	5
+United States of America	Blaine	15.5354026	2014	7.45
+United States of America	Blaine	12.72026253	2015	6.1
+United States of America	Blaine	13.13732032	2016	6.3
+United States of America	Bloomington	16.68231151	2015	8
+United States of America	Bloomington	13.97143589	2016	6.7
+United States of America	Blue Ash	20.43583161	2015	9.8
+United States of America	Blue Ash	19.18465824	2016	9.2
+United States of America	Boston	14.90981592	2014	7.15
+United States of America	Boston	15.43113815	2015	7.4
+United States of America	Boston	13.97143589	2016	6.7
+United States of America	Boulevard	9.175271333	2014	4.4
+United States of America	Boulevard	8.549684651	2015	4.1
+United States of America	Boulevard	10.4264447	2016	5
+United States of America	Bountiful	16.68231151	2016	8
+United States of America	Brainerd	10.63497359	2014	5.1
+United States of America	Brainerd	12.92879142	2015	6.2
+United States of America	Brainerd	12.30320474	2016	5.9
+United States of America	Bremerton	9.800858015	2014	4.7
+United States of America	Bremerton	10.2179158	2015	4.9
+United States of America	Bremerton	8.758213545	2016	4.2
+United States of America	Bridgeport	17.93348488	2016	8.6
+United States of America	Brigham City	12.30320474	2014	5.9
+United States of America	Bristol	22.4168561	2014	10.75
+United States of America	Bristol	22.62538499	2015	10.85
+United States of America	Brockton	11.67761806	2016	5.6
+United States of America	Brunswick	15.22260926	2015	7.3
+United States of America	Brunswick	16.47378262	2016	7.9
+United States of America	Bryson City (Rr Name Bryson)	16.68231151	2014	8
+United States of America	Bryson City (Rr Name Bryson)	14.80555147	2015	7.1
+United States of America	Bryson City (Rr Name Bryson)	18.97612935	2016	9.1
+United States of America	Burlington	12.72026253	2014	6.1
+United States of America	Burlington	12.92879142	2015	6.2
+United States of America	Burlington	11.26056027	2016	5.4
+United States of America	Burns	17.3078982	2015	8.3
+United States of America	Butte-Silver Bow (Remainder)	18.03774932	2014	8.65
+United States of America	Butte-Silver Bow (Remainder)	22.10406276	2015	10.6
+United States of America	Butte-Silver Bow (Remainder)	15.5354026	2016	7.45
+United States of America	Calexico	31.90492077	2014	15.3
+United States of America	Calexico	24.76280615	2015	11.875
+United States of America	Calexico	26.06611174	2016	12.5
+United States of America	Camden	20.22730271	2016	9.7
+United States of America	Candor	18.03774932	2014	8.65
+United States of America	Candor	15.84819594	2015	7.6
+United States of America	Candor	13.55437811	2016	6.5
+United States of America	Carlisle	22.62538499	2014	10.85
+United States of America	Carlisle	22.93817833	2015	11
+United States of America	Carlisle	16.89084041	2016	8.1
+United States of America	Carmel Valley Village	13.55437811	2014	6.5
+United States of America	Carmel Valley Village	13.13732032	2015	6.3
+United States of America	Carmel Valley Village	14.17996479	2016	6.8
+United States of America	Carson City	10.94776693	2014	5.25
+United States of America	Carson City	10.32218025	2015	4.95
+United States of America	Carson City	9.27953578	2016	4.45
+United States of America	Casa Grande	15.01408036	2015	7.2
+United States of America	Casa Grande	18.24627822	2016	8.75
+United States of America	Castle Hayne	11.78188251	2016	5.65
+United States of America	Cedar Rapids	20.54009605	2014	9.85
+United States of America	Cedar Rapids	18.45480711	2015	8.85
+United States of America	Cedar Rapids	16.26525373	2016	7.8
+United States of America	Charleroi	27.94287179	2014	13.4
+United States of America	Charleroi	22.93817833	2015	11
+United States of America	Charleroi	19.60171603	2016	9.4
+United States of America	Charleston	15.22260926	2016	7.3
+United States of America	Chester	24.1893517	2014	11.6
+United States of America	Chester	22.31259165	2015	10.7
+United States of America	Chester	22.93817833	2016	11
+United States of America	Chico	18.35054267	2014	8.8
+United States of America	Chico	18.97612935	2015	9.1
+United States of America	Chico	16.05672483	2016	7.7
+United States of America	Clarksville	19.60171603	2014	9.4
+United States of America	Clarksville	17.3078982	2015	8.3
+United States of America	Clarksville	16.26525373	2016	7.8
+United States of America	Cleveland	20.22730271	2016	9.7
+United States of America	Clinton	21.68700497	2014	10.4
+United States of America	Clinton	20.22730271	2015	9.7
+United States of America	Clinton	16.68231151	2016	8
+United States of America	Cloquet	10.63497359	2016	5.1
+United States of America	Clovis	31.69639188	2014	15.2
+United States of America	Clovis	30.23668962	2015	14.5
+United States of America	Clovis	25.44052506	2016	12.2
+United States of America	Cockeysville	14.49275813	2016	6.95
+United States of America	Coconut Creek	11.88614695	2016	5.7
+United States of America	Columbia	17.51642709	2015	8.4
+United States of America	Columbia Falls	17.0993693	2014	8.2
+United States of America	Columbia Falls	23.35523612	2015	11.2
+United States of America	Columbia Falls	11.46908917	2016	5.5
+United States of America	Columbus	19.81024492	2015	9.5
+United States of America	Concord	13.762907	2014	6.6
+United States of America	Concord	18.35054267	2015	8.8
+United States of America	Concord	12.30320474	2016	5.9
+United States of America	Cornwall	10.53070914	2016	5.05
+United States of America	Cortina Indian Rancheria	14.17996479	2014	6.8
+United States of America	Dallas	20.36632197	2014	9.766666667
+United States of America	Dallas	18.35054267	2015	8.8
+United States of America	Dallas	17.0993693	2016	8.2
+United States of America	Darrington	12.92879142	2014	6.2
+United States of America	Darrington	13.97143589	2015	6.7
+United States of America	Darrington	11.46908917	2016	5.5
+United States of America	Davenport	20.33156716	2014	9.75
+United States of America	Davenport	19.91450937	2015	9.55
+United States of America	Davenport	16.89084041	2016	8.1
+United States of America	Davie	13.13732032	2014	6.3
+United States of America	Davie	13.45011366	2015	6.45
+United States of America	Davie	12.30320474	2016	5.9
+United States of America	Deer Park	19.70598048	2014	9.45
+United States of America	Deer Park	20.33156716	2015	9.75
+United States of America	Deer Park	17.3078982	2016	8.3
+United States of America	Delaware City	20.22730271	2014	9.7
+United States of America	Denver	18.194146	2014	8.725
+United States of America	Denver	17.27314338	2015	8.283333333
+United States of America	Denver	17.04144461	2016	8.172222222
+United States of America	Des Moines	18.24627822	2014	8.75
+United States of America	Des Moines	15.84819594	2015	7.6
+United States of America	Des Moines	14.90981592	2016	7.15
+United States of America	Detroit	22.62538499	2014	10.85
+United States of America	Detroit	21.68700497	2015	10.4
+United States of America	Detroit	17.51642709	2016	8.4
+United States of America	Detroit Lakes	14.38849368	2014	6.9
+United States of America	Detroit Lakes	11.67761806	2015	5.6
+United States of America	Detroit Lakes	7.924097969	2016	3.8
+United States of America	Douglas	15.01408036	2014	7.2
+United States of America	Douglas	10.84350248	2015	5.2
+United States of America	Duluth	13.34584921	2014	6.4
+United States of America	Duluth	11.36482472	2015	5.45
+United States of America	Duluth	10.63497359	2016	5.1
+United States of America	Durham	18.03774932	2016	8.65
+United States of America	East Brunswick	16.26525373	2016	7.8
+United States of America	East Hartford	14.80555147	2014	7.1
+United States of America	East Hartford	16.68231151	2015	8
+United States of America	East Hartford	13.86717145	2016	6.65
+United States of America	East Highland Park	17.0993693	2014	8.2
+United States of America	East Highland Park	16.26525373	2015	7.8
+United States of America	East Highland Park	14.80555147	2016	7.1
+United States of America	East Providence	13.97143589	2014	6.7
+United States of America	East Providence	14.90981592	2015	7.15
+United States of America	East Providence	13.65864255	2016	6.55
+United States of America	East Syracuse	13.55437811	2015	6.5
+United States of America	East Syracuse	10.73923804	2016	5.15
+United States of America	Edgewood	21.47847607	2014	10.3
+United States of America	Edgewood	17.3078982	2015	8.3
+United States of America	Edgewood	16.05672483	2016	7.7
+United States of America	El Paso	17.93348488	2015	8.6
+United States of America	El Paso	20.01877382	2016	9.6
+United States of America	Elizabeth	21.26994718	2014	10.2
+United States of America	Elizabeth	21.89553386	2015	10.5
+United States of America	Elizabeth	20.01877382	2016	9.6
+United States of America	Elkhart	27.63007845	2014	13.25
+United States of America	Elkhart	18.45480711	2016	8.85
+United States of America	Erie	22.52112054	2014	10.8
+United States of America	Erie	16.05672483	2016	7.7
+United States of America	Fall River	13.86717145	2014	6.65
+United States of America	Fall River	13.24158476	2015	6.35
+United States of America	Fall River	11.26056027	2016	5.4
+United States of America	Farrell	21.58274052	2014	10.35
+United States of America	Farrell	22.52112054	2015	10.8
+United States of America	Fayetteville	17.72495598	2016	8.5
+United States of America	Fishers (Corporate Name For Fishers Station)	21.16568273	2014	10.15
+United States of America	Fishers (Corporate Name For Fishers Station)	18.55907156	2015	8.9
+United States of America	Fishers (Corporate Name For Fishers Station)	17.62069154	2016	8.45
+United States of America	Folsom	15.01408036	2014	7.2
+United States of America	Folsom	16.89084041	2015	8.1
+United States of America	Folsom	13.03305587	2016	6.25
+United States of America	Fort Collins	14.17996479	2016	6.8
+United States of America	Fort Lee	23.56376501	2015	11.3
+United States of America	Fort Wayne	23.91131317	2014	11.46666667
+United States of America	Fort Wayne	21.96504349	2015	10.53333333
+United States of America	Fort Wayne	17.44691746	2016	8.366666667
+United States of America	Franklin	11.26056027	2014	5.4
+United States of America	Freemansburg	20.95715384	2014	10.05
+United States of America	Freemansburg	23.35523612	2015	11.2
+United States of America	Freemansburg	16.89084041	2016	8.1
+United States of America	Frenchtown	19.18465824	2014	9.2
+United States of America	Frenchtown	25.44052506	2015	12.2
+United States of America	Frenchtown	18.35054267	2016	8.8
+United States of America	Fresno	31.83541114	2014	15.26666667
+United States of America	Fresno	29.35044182	2015	14.075
+United States of America	Fresno	27.21302066	2016	13.05
+United States of America	Galveston	15.63966704	2015	7.5
+United States of America	Galveston	13.55437811	2016	6.5
+United States of America	Garden City	16.89084041	2015	8.1
+United States of America	Garden City	17.3078982	2016	8.3
+United States of America	Gardnerville Ranchos	17.0993693	2014	8.2
+United States of America	Gardnerville Ranchos	14.38849368	2016	6.9
+United States of America	Gary	27.00449176	2014	12.95
+United States of America	Gary	22.46898832	2015	10.775
+United States of America	Gary	19.13252602	2016	9.175
+United States of America	Gilroy	14.17996479	2014	6.8
+United States of America	Gilroy	15.01408036	2015	7.2
+United States of America	Gilroy	11.67761806	2016	5.6
+United States of America	Glendale	16.05672483	2014	7.7
+United States of America	Glendale	14.59702258	2015	7
+United States of America	Glendale	13.97143589	2016	6.7
+United States of America	Glenpool	19.81024492	2016	9.5
+United States of America	Goldsboro	21.89553386	2014	10.5
+United States of America	Goleta	16.26525373	2014	7.8
+United States of America	Goleta	17.3078982	2015	8.3
+United States of America	Grand Junction	14.28422923	2014	6.85
+United States of America	Grand Junction	13.03305587	2015	6.25
+United States of America	Grand Junction	13.34584921	2016	6.4
+United States of America	Grantsville	10.63497359	2015	5.1
+United States of America	Green Bay	18.97612935	2014	9.1
+United States of America	Greensboro	16.78657596	2016	8.05
+United States of America	Greensburg	19.25416787	2014	9.233333333
+United States of America	Greensburg	18.8718649	2015	9.05
+United States of America	Greensburg	20.22730271	2016	9.7
+United States of America	Greenville	20.01877382	2016	9.6
+United States of America	Groton	16.68231151	2014	8
+United States of America	Groton	14.17996479	2015	6.8
+United States of America	Groton	11.88614695	2016	5.7
+United States of America	Groveton	17.0993693	2014	8.2
+United States of America	Groveton	16.68231151	2015	8
+United States of America	Groveton	13.97143589	2016	6.7
+United States of America	Hamilton	16.05672483	2014	7.7
+United States of America	Hamilton	23.14670723	2015	11.1
+United States of America	Hamilton	19.18465824	2016	9.2
+United States of America	Hanford	36.49255644	2014	17.5
+United States of America	Hanford	34.4072675	2015	16.5
+United States of America	Hanford	32.32197856	2016	15.5
+United States of America	Hartford	15.11834481	2016	7.25
+United States of America	Haverhill	11.88614695	2014	5.7
+United States of America	Haverhill	11.88614695	2015	5.7
+United States of America	Haverhill	10.73923804	2016	5.15
+United States of America	Hawaiian Ocean View	24.39788059	2014	11.7
+United States of America	Hawaiian Ocean View	26.90022732	2015	12.9
+United States of America	Hawaiian Ocean View	30.44521851	2016	14.6
+United States of America	Helena Valley West Central	14.80555147	2014	7.1
+United States of America	Helena Valley West Central	18.8718649	2015	9.05
+United States of America	Helena Valley West Central	14.49275813	2016	6.95
+United States of America	Henderson	15.43113815	2016	7.4
+United States of America	Hickory	19.08039379	2015	9.15
+United States of America	Hickory	18.8718649	2016	9.05
+United States of America	Hilo	8.758213545	2014	4.2
+United States of America	Hilo	10.4264447	2015	5
+United States of America	Hilo	18.14201377	2016	8.7
+United States of America	Hollister	9.592329121	2014	4.6
+United States of America	Hollister	8.966742439	2015	4.3
+United States of America	Hollister	8.966742439	2016	4.3
+United States of America	Homestead	12.72026253	2014	6.1
+United States of America	Homestead	11.88614695	2015	5.7
+United States of America	Homestead	14.80555147	2016	7.1
+United States of America	Honolulu	9.27953578	2014	4.45
+United States of America	Honolulu	9.488064674	2015	4.55
+United States of America	Honolulu	6.464395712	2016	3.1
+United States of America	Houston	24.60640948	2015	11.8
+United States of America	Hurricane	9.592329121	2015	4.6
+United States of America	Indianapolis (Remainder)	25.85758285	2014	12.4
+United States of America	Indianapolis (Remainder)	22.45161091	2015	10.76666667
+United States of America	Indianapolis (Remainder)	20.23599142	2016	9.704166667
+United States of America	Iowa City	17.51642709	2015	8.4
+United States of America	Iowa City	15.43113815	2016	7.4
+United States of America	Jacksonville	16.89084041	2014	8.1
+United States of America	Jacksonville	14.94457073	2015	7.166666667
+United States of America	Jacksonville	15.22260926	2016	7.3
+United States of America	Jean	10.4264447	2014	5
+United States of America	Jean	10.2179158	2015	4.9
+United States of America	Jean	12.51173364	2016	6
+United States of America	Jeffersonville	22.31259165	2015	10.7
+United States of America	Jeffersonville	19.39318714	2016	9.3
+United States of America	Jersey City	19.49745158	2014	9.35
+United States of America	Jersey City	20.12303826	2015	9.65
+United States of America	Jersey City	18.24627822	2016	8.75
+United States of America	Johnstown	23.77229391	2014	11.4
+United States of America	Johnstown	24.39788059	2015	11.7
+United States of America	Johnstown	18.55907156	2016	8.9
+United States of America	Juneau	16.05672483	2014	7.7
+United States of America	Juneau	13.762907	2015	6.6
+United States of America	Kahului	11.26056027	2015	5.4
+United States of America	Kahului	5.630280136	2016	2.7
+United States of America	Kansas City	18.24627822	2014	8.75
+United States of America	Kansas City	16.63017929	2015	7.975
+United States of America	Kansas City	15.84819594	2016	7.6
+United States of America	Kealakekua	20.22730271	2014	9.7
+United States of America	Kealakekua	21.79126942	2015	10.45
+United States of America	Keeler	16.36951817	2014	7.85
+United States of America	Keeler	13.13732032	2015	6.3
+United States of America	Keeler	12.09467585	2016	5.8
+United States of America	Keene	17.51642709	2014	8.4
+United States of America	Keene	18.03774932	2015	8.65
+United States of America	Keene	13.03305587	2016	6.25
+United States of America	Kenner	16.26525373	2014	7.8
+United States of America	Kennesaw	18.55907156	2015	8.9
+United States of America	Kennesaw	19.39318714	2016	9.3
+United States of America	Kent	12.92879142	2014	6.2
+United States of America	Kent	13.97143589	2015	6.7
+United States of America	Kent	11.46908917	2016	5.5
+United States of America	Kihei	7.715569075	2016	3.7
+United States of America	King City	6.672924606	2014	3.2
+United States of America	King City	12.30320474	2015	5.9
+United States of America	King City	10.84350248	2016	5.2
+United States of America	Kittanning	23.35523612	2015	11.2
+United States of America	Kittanning	21.89553386	2016	10.5
+United States of America	Knowlton (Township Of)	17.51642709	2016	8.4
+United States of America	Knoxville	18.97612935	2014	9.1
+United States of America	Knoxville	18.83711008	2015	9.033333333
+United States of America	Knoxville	21.37421163	2016	10.25
+United States of America	Kokomo	22.72964944	2015	10.9
+United States of America	Kokomo	17.93348488	2016	8.6
+United States of America	Ladue	21.47847607	2015	10.3
+United States of America	Ladue	18.14201377	2016	8.7
+United States of America	Lakeville	14.80555147	2015	7.1
+United States of America	Lakeville	11.67761806	2016	5.6
+United States of America	Lancaster	22.2083272	2014	10.65
+United States of America	Lancaster	23.91131317	2015	11.46666667
+United States of America	Lancaster	18.66333601	2016	8.95
+United States of America	Las Vegas	19.91450937	2014	9.55
+United States of America	Las Vegas	17.51642709	2015	8.4
+United States of America	Las Vegas	18.97612935	2016	9.1
+United States of America	Lawrence (Township Of)	17.93348488	2016	8.6
+United States of America	Lawton	17.0993693	2014	8.2
+United States of America	Lawton	15.84819594	2015	7.6
+United States of America	Lawton	14.17996479	2016	6.8
+United States of America	Lebanon	12.51173364	2014	6
+United States of America	Lebanon	13.65864255	2015	6.55
+United States of America	Lebanon	10.53070914	2016	5.05
+United States of America	Lewiston	15.63966704	2014	7.5
+United States of America	Lewiston	16.89084041	2015	8.1
+United States of America	Lewiston	11.9904114	2016	5.75
+United States of America	Lexington	20.54009605	2015	9.85
+United States of America	Lexington	17.72495598	2016	8.5
+United States of America	Libby	19.39318714	2014	9.3
+United States of America	Libby	31.0708052	2015	14.9
+United States of America	Libby	20.43583161	2016	9.8
+United States of America	Liberty	25.54478951	2014	12.25
+United States of America	Liberty	27.83860734	2015	13.35
+United States of America	Live Oak	11.26056027	2014	5.4
+United States of America	Live Oak	10.2179158	2015	4.9
+United States of America	Live Oak	11.05203138	2016	5.3
+United States of America	Livermore	15.84819594	2014	7.6
+United States of America	Livermore	18.35054267	2015	8.8
+United States of America	Livermore	15.63966704	2016	7.5
+United States of America	Logan	17.51642709	2014	8.4
+United States of America	Lompoc	14.80555147	2015	7.1
+United States of America	Lompoc	14.59702258	2016	7
+United States of America	Long Beach	21.99979831	2015	10.55
+United States of America	Long Beach	22.17357239	2016	10.63333333
+United States of America	Los Angeles	26.06611174	2015	12.5
+United States of America	Los Angeles	24.81493838	2016	11.9
+United States of America	Louisville	24.08508725	2014	11.55
+United States of America	Louisville	20.27943493	2015	9.725
+United States of America	Louisville	16.99510486	2016	8.15
+United States of America	Lynn	12.72026253	2014	6.1
+United States of America	Lynn	12.09467585	2015	5.8
+United States of America	Lynn	10.4264447	2016	5
+United States of America	Macon	22.4168561	2014	10.75
+United States of America	Madawaska (Census Name For Madawaska Center)	18.76760045	2014	9
+United States of America	Madawaska (Census Name For Madawaska Center)	18.55907156	2015	8.9
+United States of America	Madawaska (Census Name For Madawaska Center)	13.34584921	2016	6.4
+United States of America	Madera	29.19404515	2014	14
+United States of America	Madera	26.79596287	2015	12.85
+United States of America	Madera	23.14670723	2016	11.1
+United States of America	Madison	19.39318714	2014	9.3
+United States of America	Marcus Hook	19.39318714	2016	9.3
+United States of America	Maricopa	29.19404515	2014	14
+United States of America	Marshall	12.30320474	2014	5.9
+United States of America	Marshall	11.67761806	2015	5.6
+United States of America	Marshall	9.175271333	2016	4.4
+United States of America	Marysville	15.95246039	2014	7.65
+United States of America	Marysville	16.78657596	2015	8.05
+United States of America	Marysville	13.13732032	2016	6.3
+United States of America	Mcalester	16.26525373	2016	7.8
+United States of America	Mccook	20.43583161	2016	9.8
+United States of America	Memphis	19.08039379	2014	9.15
+United States of America	Memphis	18.03774932	2015	8.65
+United States of America	Mesa	17.3078982	2014	8.3
+United States of America	Mesa	13.97143589	2015	6.7
+United States of America	Mesa	13.97143589	2016	6.7
+United States of America	Miami	13.86717145	2015	6.65
+United States of America	Miami	16.36951817	2016	7.85
+United States of America	Milton	12.72026253	2014	6.1
+United States of America	Milton	10.4264447	2015	5
+United States of America	Minneapolis	16.57804707	2014	7.95
+United States of America	Minneapolis	17.51642709	2015	8.4
+United States of America	Minneapolis	15.3268737	2016	7.35
+United States of America	Mira Loma	26.17037619	2015	12.55
+United States of America	Mira Loma	29.40257404	2016	14.1
+United States of America	Missoula	14.59702258	2014	7
+United States of America	Missoula	22.72964944	2015	10.9
+United States of America	Missoula	15.22260926	2016	7.3
+United States of America	Modesto	24.1893517	2014	11.6
+United States of America	Modesto	20.54009605	2016	9.85
+United States of America	Mojave	12.09467585	2014	5.8
+United States of America	Mojave	10.4264447	2015	5
+United States of America	Mojave	15.43113815	2016	7.4
+United States of America	Moore	19.60171603	2014	9.4
+United States of America	Moore	17.3078982	2015	8.3
+United States of America	Moore	15.63966704	2016	7.5
+United States of America	Mountain View	6.047337924	2015	2.9
+United States of America	Mountlake Terrace	12.82452698	2014	6.15
+United States of America	Mountlake Terrace	11.88614695	2015	5.7
+United States of America	Mountlake Terrace	8.341155757	2016	4
+United States of America	Muscatine	23.25097167	2014	11.15
+United States of America	Muscatine	18.97612935	2015	9.1
+United States of America	Muscatine	16.26525373	2016	7.8
+United States of America	Napa	25.02346727	2014	12
+United States of America	Napa	22.10406276	2015	10.6
+United States of America	Napa	17.72495598	2016	8.5
+United States of America	Nashville	20.95715384	2014	10.05
+United States of America	Nashville	19.28892269	2015	9.25
+United States of America	Nashville	18.97612935	2016	9.1
+United States of America	New Albany	22.72964944	2014	10.9
+United States of America	New Albany	19.81024492	2015	9.5
+United States of America	New Albany	14.59702258	2016	7
+United States of America	New Haven	16.36951817	2014	7.85
+United States of America	New Haven	17.20363375	2015	8.25
+United States of America	New York	16.05672483	2014	7.7
+United States of America	New York	17.04723708	2015	8.175
+United States of America	New York	13.81503922	2016	6.625
+United States of America	Newark	17.72495598	2016	8.5
+United States of America	Nipomo	21.26994718	2014	10.2
+United States of America	Nipomo	18.14201377	2015	8.7
+United States of America	Nipomo	12.09467585	2016	5.8
+United States of America	Nogales	17.41216264	2015	8.35
+United States of America	Nogales	20.54009605	2016	9.85
+United States of America	Norristown	18.76760045	2014	9
+United States of America	Norristown	18.55907156	2015	8.9
+United States of America	North Charleston	16.05672483	2016	7.7
+United States of America	North Las Vegas	20.85288939	2014	10
+United States of America	North Las Vegas	19.18465824	2015	9.2
+United States of America	North Las Vegas	21.26994718	2016	10.2
+United States of America	North Laurel	20.22730271	2016	9.7
+United States of America	North Little Rock	20.85288939	2014	10
+United States of America	North Little Rock	21.47847607	2015	10.3
+United States of America	North Little Rock	20.95715384	2016	10.05
+United States of America	Oakland	18.76760045	2014	9
+United States of America	Oakland	19.81024492	2015	9.5
+United States of America	Oakland	16.33476336	2016	7.833333333
+United States of America	Ogden	22.93817833	2014	11
+United States of America	Ogden	19.18465824	2016	9.2
+United States of America	Ogden Dunes (Wickliffe)	18.76760045	2015	9
+United States of America	Ogden Dunes (Wickliffe)	16.12623446	2016	7.733333333
+United States of America	Ojai	13.762907	2014	6.6
+United States of America	Ojai	13.13732032	2015	6.3
+United States of America	Ojai	18.97612935	2016	9.1
+United States of America	Omaha	18.55907156	2014	8.9
+United States of America	Omaha	16.89084041	2015	8.1
+United States of America	Omaha	15.22260926	2016	7.3
+United States of America	Ontario	30.23668962	2015	14.5
+United States of America	Ontario	30.8622763	2016	14.8
+United States of America	Pahala	11.46908917	2014	5.5
+United States of America	Pahala	15.43113815	2015	7.4
+United States of America	Pahala	12.30320474	2016	5.9
+United States of America	Paia	9.800858015	2015	4.7
+United States of America	Paia	9.383800227	2016	4.5
+United States of America	Pala	15.01408036	2014	7.2
+United States of America	Pala	13.762907	2015	6.6
+United States of America	Pala	15.63966704	2016	7.5
+United States of America	Palmer	5.734544583	2014	2.75
+United States of America	Palmer	5.630280136	2015	2.7
+United States of America	Palmer	5.83880903	2016	2.8
+United States of America	Pearl City	8.132626863	2014	3.9
+United States of America	Pearl City	10.84350248	2015	5.2
+United States of America	Pearl City	5.421751242	2016	2.6
+United States of America	Peterborough (Peterboro)	12.30320474	2014	5.9
+United States of America	Peterborough (Peterboro)	14.17996479	2015	6.8
+United States of America	Peterborough (Peterboro)	7.819833522	2016	3.75
+United States of America	Philadelphia	23.9808228	2014	11.5
+United States of America	Philadelphia	22.46898832	2015	10.775
+United States of America	Philadelphia	19.72683337	2016	9.46
+United States of America	Phoenix	18.89793101	2014	9.0625
+United States of America	Phoenix	17.18278086	2015	8.24
+United States of America	Phoenix	18.10030799	2016	8.68
+United States of America	Pierre	9.383800227	2015	4.5
+United States of America	Pierre	8.966742439	2016	4.3
+United States of America	Pinehurst (Pine Creek)	27.73434289	2015	13.3
+United States of America	Pinehurst (Pine Creek)	19.39318714	2016	9.3
+United States of America	Piru	19.81024492	2014	9.5
+United States of America	Piru	15.84819594	2015	7.6
+United States of America	Piru	17.0993693	2016	8.2
+United States of America	Pittsburgh	20.33156716	2014	9.75
+United States of America	Pittsburgh	19.60171603	2015	9.4
+United States of America	Pittsfield	13.97143589	2016	6.7
+United States of America	Ponca City	15.01408036	2016	7.2
+United States of America	Portland	16.47378262	2015	7.9
+United States of America	Portsmouth	13.762907	2015	6.6
+United States of America	Portsmouth	11.57335361	2016	5.55
+United States of America	Presque Isle	12.09467585	2015	5.8
+United States of America	Presque Isle	8.132626863	2016	3.9
+United States of America	Providence	13.41535884	2014	6.433333333
+United States of America	Providence	17.77708821	2015	8.525
+United States of America	Providence	16.26525373	2016	7.8
+United States of America	Provo	14.17996479	2014	6.8
+United States of America	Provo	17.3078982	2016	8.3
+United States of America	Quincy	18.35054267	2016	8.8
+United States of America	Raleigh	21.16568273	2014	10.15
+United States of America	Raleigh	18.55907156	2016	8.9
+United States of America	Rangely	17.0993693	2015	8.2
+United States of America	Rangely	15.84819594	2016	7.6
+United States of America	Rapid City	12.72026253	2014	6.1
+United States of America	Rapid City	19.81024492	2015	9.5
+United States of America	Rapid City	12.92879142	2016	6.2
+United States of America	Red Lake	10.4264447	2015	5
+United States of America	Red Lake	10.2179158	2016	4.9
+United States of America	Redwood City	14.80555147	2014	7.1
+United States of America	Redwood City	11.88614695	2015	5.7
+United States of America	Redwood City	17.3078982	2016	8.3
+United States of America	Reno	14.52751294	2014	6.966666667
+United States of America	Reno	14.38849368	2015	6.9
+United States of America	Reno	12.51173364	2016	6
+United States of America	Richmond	20.85288939	2015	10
+United States of America	Richmond	17.72495598	2016	8.5
+United States of America	Rochester	15.11834481	2014	7.25
+United States of America	Rochester	15.01408036	2015	7.2
+United States of America	Rochester	12.72026253	2016	6.1
+United States of America	Roosevelt	12.51173364	2015	6
+United States of America	Roosevelt	12.30320474	2016	5.9
+United States of America	Rubidoux	23.35523612	2015	11.2
+United States of America	Rubidoux	26.27464064	2016	12.6
+United States of America	Rumford (Census Name For Rumford Compact)	13.86717145	2016	6.65
+United States of America	Rutland	18.55907156	2014	8.9
+United States of America	Rutland	18.97612935	2015	9.1
+United States of America	Rutland	13.55437811	2016	6.5
+United States of America	Saint Petersburg	13.34584921	2014	6.4
+United States of America	Saint Petersburg	14.17996479	2015	6.8
+United States of America	Salinas	9.696593568	2014	4.65
+United States of America	Salinas	10.00938691	2015	4.8
+United States of America	Salinas	11.88614695	2016	5.7
+United States of America	Salt Lake City	16.05672483	2014	7.7
+United States of America	Salt Lake City	15.43113815	2015	7.4
+United States of America	Salt Lake City	18.17676859	2016	8.716666667
+United States of America	San Andreas	16.47378262	2014	7.9
+United States of America	San Andreas	18.14201377	2015	8.7
+United States of America	San Andreas	16.89084041	2016	8.1
+United States of America	San Diego	21.26994718	2014	10.2
+United States of America	San Diego	19.39318714	2015	9.3
+United States of America	San Francisco	16.05672483	2014	7.7
+United States of America	San Francisco	15.84819594	2015	7.6
+United States of America	San Francisco	15.63966704	2016	7.5
+United States of America	San Jose	18.35054267	2014	8.8
+United States of America	San Jose	19.44531936	2015	9.325
+United States of America	San Jose	18.24627822	2016	8.75
+United States of America	San Luis Obispo	12.51173364	2014	6
+United States of America	San Pablo	21.89553386	2014	10.5
+United States of America	San Pablo	18.55907156	2015	8.9
+United States of America	San Pablo	16.89084041	2016	8.1
+United States of America	San Rafael	22.52112054	2014	10.8
+United States of America	San Rafael	17.93348488	2015	8.6
+United States of America	San Rafael	13.34584921	2016	6.4
+United States of America	Sanford	19.60171603	2014	9.4
+United States of America	Santa Barbara	18.55907156	2014	8.9
+United States of America	Santa Maria	16.26525373	2014	7.8
+United States of America	Santa Maria	16.05672483	2015	7.7
+United States of America	Santa Maria	14.59702258	2016	7
+United States of America	Sault Ste. Marie	17.72495598	2015	8.5
+United States of America	Scranton	21.68700497	2015	10.4
+United States of America	Scranton	17.0993693	2016	8.2
+United States of America	Seattle	12.09467585	2014	5.8
+United States of America	Seattle	17.72495598	2015	8.5
+United States of America	Seattle	12.45960141	2016	5.975
+United States of America	Sebastopol	16.05672483	2014	7.7
+United States of America	Sebastopol	14.17996479	2015	6.8
+United States of America	Sebastopol	9.592329121	2016	4.6
+United States of America	Seiling	13.55437811	2015	6.5
+United States of America	Seiling	12.30320474	2016	5.9
+United States of America	Simi Valley	18.97612935	2014	9.1
+United States of America	Simi Valley	18.66333601	2015	8.95
+United States of America	Simi Valley	18.03774932	2016	8.65
+United States of America	Sinclair	3.336462303	2014	1.6
+United States of America	Sinclair	4.587635666	2015	2.2
+United States of America	Smithfield	15.43113815	2016	7.4
+United States of America	South Bend	18.76760045	2016	9
+United States of America	South Valley	15.43113815	2014	7.4
+United States of America	South Valley	13.34584921	2015	6.4
+United States of America	South Valley	15.84819594	2016	7.6
+United States of America	Sparks	18.14201377	2014	8.7
+United States of America	Sparks	16.26525373	2015	7.8
+United States of America	Sparks	14.59702258	2016	7
+United States of America	Spartanburg	19.39318714	2014	9.3
+United States of America	Spartanburg	17.72495598	2016	8.5
+United States of America	Springfield	19.60171603	2014	9.4
+United States of America	Springfield	14.80555147	2016	7.1
+United States of America	St. Cloud	12.92879142	2014	6.2
+United States of America	St. Cloud	12.09467585	2015	5.8
+United States of America	St. Cloud	11.67761806	2016	5.6
+United States of America	St. Joseph	21.26994718	2014	10.2
+United States of America	St. Joseph	19.49745158	2015	9.35
+United States of America	St. Joseph	16.26525373	2016	7.8
+United States of America	St. Louis	23.74912403	2014	11.38888889
+United States of America	St. Louis	21.20043755	2015	10.16666667
+United States of America	St. Louis	18.428741	2016	8.8375
+United States of America	St. Michael	12.92879142	2014	6.2
+United States of America	St. Michael	12.72026253	2015	6.1
+United States of America	St. Michael	13.13732032	2016	6.3
+United States of America	St. Paul	17.0993693	2014	8.2
+United States of America	St. Paul	14.90981592	2015	7.15
+United States of America	St. Paul	13.86717145	2016	6.65
+United States of America	State College	20.43583161	2014	9.8
+United States of America	State College	18.14201377	2015	8.7
+United States of America	Steubenville	25.02346727	2015	12
+United States of America	Stockton	23.9808228	2014	11.5
+United States of America	Stockton	25.64905395	2015	12.3
+United States of America	Stockton	26.37890508	2016	12.65
+United States of America	Sunrise Manor	18.8718649	2014	9.05
+United States of America	Tacoma	14.59702258	2014	7
+United States of America	Tacoma	16.96035004	2015	8.133333333
+United States of America	Tacoma	14.73604184	2016	7.066666667
+United States of America	Tampa	20.43583161	2015	9.8
+United States of America	Tempe	17.93348488	2014	8.6
+United States of America	Tempe	16.47378262	2015	7.9
+United States of America	Tempe	15.3268737	2016	7.35
+United States of America	Terre Haute	23.00768796	2014	11.03333333
+United States of America	Terre Haute	19.94926419	2015	9.566666667
+United States of America	Terre Haute	18.4200523	2016	8.833333333
+United States of America	Thousand Oaks	19.39318714	2014	9.3
+United States of America	Thousand Oaks	18.14201377	2015	8.7
+United States of America	Thousand Oaks	20.01877382	2016	9.6
+United States of America	Toms River	15.84819594	2014	7.6
+United States of America	Toms River	15.43113815	2015	7.4
+United States of America	Toms River	13.762907	2016	6.6
+United States of America	Tooele	12.92879142	2014	6.2
+United States of America	Torrington	7.715569075	2016	3.7
+United States of America	Trenton	18.14201377	2014	8.7
+United States of America	Trenton	17.0993693	2015	8.2
+United States of America	Trenton	15.22260926	2016	7.3
+United States of America	Tulsa	19.3236775	2014	9.266666667
+United States of America	Ukiah	11.46908917	2014	5.5
+United States of America	Ukiah	17.93348488	2015	8.6
+United States of America	Ukiah	13.34584921	2016	6.4
+United States of America	Underhill (Town Of)	8.653949098	2014	4.15
+United States of America	Underhill (Town Of)	6.672924606	2015	3.2
+United States of America	Underhill (Town Of)	6.568660159	2016	3.15
+United States of America	Vallejo	20.74862495	2014	9.95
+United States of America	Vallejo	19.81024492	2015	9.5
+United States of America	Vallejo	16.57804707	2016	7.95
+United States of America	Valrico	15.43113815	2016	7.4
+United States of America	Victorville	15.63966704	2016	7.5
+United States of America	Vineland	16.26525373	2016	7.8
+United States of America	Vinton	16.89084041	2014	8.1
+United States of America	Vinton	16.05672483	2015	7.7
+United States of America	Virginia	17.51642709	2014	8.4
+United States of America	Virginia	13.55437811	2015	6.5
+United States of America	Virginia	7.715569075	2016	3.7
+United States of America	Virginia Beach	16.89084041	2014	8.1
+United States of America	Virginia Beach	16.26525373	2015	7.8
+United States of America	Virginia Beach	13.97143589	2016	6.7
+United States of America	Ware (Census Name For Ware Center)	10.4264447	2016	5
+United States of America	Washington	20.99190866	2014	10.06666667
+United States of America	Washington	19.56696121	2015	9.383333333
+United States of America	Washington	15.01408036	2016	7.2
+United States of America	Wasilla	7.924097969	2014	3.8
+United States of America	Waterbury	17.82922043	2014	8.55
+United States of America	Watertown	9.383800227	2014	4.5
+United States of America	Watertown	14.59702258	2015	7
+United States of America	Watertown	10.63497359	2016	5.1
+United States of America	Wenden	4.170577879	2014	2
+United States of America	Wenden	5.004693454	2016	2.4
+United States of America	Wilkinsburg	22.10406276	2016	10.6
+United States of America	Williston	12.92879142	2014	6.2
+United States of America	Williston	10.4264447	2015	5
+United States of America	Williston	4.79616456	2016	2.3
+United States of America	Willits	16.68231151	2015	8
+United States of America	Willits	12.72026253	2016	6.1
+United States of America	Wilmington	19.60171603	2014	9.4
+United States of America	Wilmington	19.81024492	2015	9.5
+United States of America	Wilmington	18.55907156	2016	8.9
+United States of America	Winona	17.3078982	2014	8.3
+United States of America	Winston-Salem	18.97612935	2014	9.1
+United States of America	Winston-Salem	16.68231151	2015	8
+United States of America	Winter Park	13.34584921	2014	6.4
+United States of America	Winter Park	13.13732032	2015	6.3
+United States of America	Worcester	13.97143589	2014	6.7
+United States of America	Worcester	13.55437811	2015	6.5
+United States of America	Worcester	12.30320474	2016	5.9
+United States of America	Yakima	17.82922043	2016	8.55
+United States of America	York	21.79126942	2015	10.45
+United States of America	York	19.18465824	2016	9.2
+United States of America	Yuba City	20.01877382	2015	9.6
+United States of America	Yuba City	16.89084041	2016	8.1
+United States of America	Yuma	13.13732032	2014	6.3
+United States of America	Yuma	17.3078982	2016	8.3
+Australia	Canberra	9.8	2013	6.9
+Australia	Canberra	10	2014	6.8
